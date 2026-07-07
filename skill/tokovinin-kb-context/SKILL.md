@@ -33,6 +33,17 @@ has the accumulated knowledge base in context before answering.
 4. Cite which video a claim comes from when it matters (each `##` block has
    an `id:` / URL line) - don't blend multiple videos' positions into one
    unattributed claim if the user might want to check the source.
+5. **Link every citation to the exact moment in the video, not just the
+   video.** Each chapter header carries a `MM:SS`/`H:MM:SS` timestamp (e.g.
+   `### Кого нельзя брать на работу (0:00–8:34)`) and each video block's
+   header line has the id (`id: a8a-hy31pdI | ... | https://www.youtube.com/watch?v=a8a-hy31pdI`).
+   Convert the chapter's start timestamp to seconds (`8:34` → `8*60+34=514`
+   - plain arithmetic, no script needed) and render the citation as a
+   markdown link with the timestamp as the visible text:
+   `[8:34](https://youtu.be/a8a-hy31pdI?t=514)`. Telegram (and other
+   surfaces Hermes renders markdown links for) turns this into a clickable
+   blue timestamp that jumps straight to that moment - no separate tool or
+   script involved, this is just markdown link syntax in the response text.
 
 ## Notes
 
