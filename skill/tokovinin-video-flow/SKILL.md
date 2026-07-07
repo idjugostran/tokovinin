@@ -74,6 +74,25 @@ Tokovinin/
 
 ## Workflow
 
+### Step 0 — Usage pre-flight check (whole cron cycle, not per-video)
+
+Run **once**, before Step 1 of the *first* video in a cron cycle - not
+per-video:
+```bash
+python3 SKILL_DIR/scripts/check_usage.py --threshold 0.5
+```
+Checks the Anthropic account's `five_hour` (session) and `seven_day`
+(weekly) usage windows - Anthropic has no "daily" window, so both of these
+are checked and **either one** over 50% aborts. If it exits non-zero, **skip
+the entire cycle** - don't process any videos this run, log nothing, just
+stop (there will be another cron run later). If it exits 0, proceed with
+Step 1 for every new video found.
+
+Needs `ANTHROPIC_TOKEN`, `CLAUDE_CODE_OAUTH_TOKEN`, or `ANTHROPIC_API_KEY` in
+the environment (same token Hermes itself resolves first) - fails open
+(exit 0, i.e. proceed) if none is set, since the check itself is best-effort
+against a semi-undocumented endpoint. Pass `--strict` to fail closed instead.
+
 ### Step 1 — Fetch transcript + metadata
 ```bash
 python3 SKILL_DIR/scripts/fetch_video.py "<url_or_id>" --out-dir transcripts --skip-video
@@ -214,14 +233,16 @@ See the script's header comment for the full step list and exactly why
 with the 3 per-video notifications this skill already sends via
 `log_registry.py --notify`).
 
-The cron job itself, once created, does 2 things each run:
-1. `python3 SKILL_DIR/scripts/list_new_videos.py --log log/videos.json --out channel_videos.txt`
+The cron job itself, once created, does 3 things each run:
+1. **Step 0** (`check_usage.py`) — if over threshold, stop here, skip the
+   whole cycle.
+2. `python3 SKILL_DIR/scripts/list_new_videos.py --log log/videos.json --out channel_videos.txt`
    — refreshes `channel_videos.txt` from the channel and prints the video IDs
    not yet in `log/videos.json`, one per line, on stdout (diagnostics go to
    stderr). This used to be an unscripted step where the agent parsed
    `channel_videos.txt` and diffed it against the log by hand each run —
    now it's one deterministic call.
-2. Runs Steps 1-5 for each printed ID in turn.
+3. Runs Steps 1-5 for each printed ID in turn.
 
 No batch-level summary notification is set up — the 3 per-video notifications
 above are the whole feed. Revisit only if daily new-video volume grows enough

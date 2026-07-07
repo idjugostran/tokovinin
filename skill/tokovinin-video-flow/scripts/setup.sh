@@ -207,7 +207,7 @@ else
     --name "$JOB_NAME" \
     --skill tokovinin-video-flow \
     --workdir "$PROJECT_ROOT" \
-    "Check @mtokovinin for new videos (channel_videos.txt vs log/videos.json keys) and run the pipeline (Steps 1-5) for each new id."
+    "Run Step 0 (check_usage.py) first - if it exits non-zero, stop and skip this cycle entirely. Otherwise check @mtokovinin for new videos (channel_videos.txt vs log/videos.json keys) and run the pipeline (Steps 1-5) for each new id."
   echo "  Created job '$JOB_NAME' (schedule: $SCHEDULE, workdir: $PROJECT_ROOT)"
 fi
 
