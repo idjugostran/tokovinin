@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+transcripts/*.lowres.*
+transcripts/*.webm
+transcripts/*.mp4

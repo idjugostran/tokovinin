@@ -1,0 +1,29 @@
+{
+  "a8a-hy31pdI": {
+    "duration_sec": 1529,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 3.85,
+        "matched_keywords": [
+          "откомментируем",
+          "комментируем"
+        ],
+        "reason": "high '>>' speaker-change rate: 3.8/min (threshold 3.0); title/description keywords: ['откомментируем', 'комментируем']",
+        "value": true
+      },
+      "possible_sponsor_intro": {
+        "approx_end_sec": 16,
+        "reason": "matched keywords in first 90s: ['точкобанк']",
+        "value": true
+      }
+    },
+    "status": {
+      "compressed": "2026-07-06T16:27:58Z",
+      "fetched": "2026-07-06T16:27:57Z",
+      "flags_detected": "2026-07-06T21:41:34Z",
+      "transcribed": "2026-07-06T16:27:57Z"
+    },
+    "title": "Какие времена — ТАКИЕ И МЕРЫ | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=a8a-hy31pdI"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "possible_other_speakers": {
+    "value": true,
+    "reason": "high '>>' speaker-change rate: 3.8/min (threshold 3.0); title/description keywords: ['откомментируем', 'комментируем']",
+    "marker_rate_per_min": 3.85,
+    "matched_keywords": [
+      "откомментируем",
+      "комментируем"
+    ]
+  },
+  "possible_sponsor_intro": {
+    "value": true,
+    "reason": "matched keywords in first 90s: ['точкобанк']",
+    "approx_end_sec": 16
+  }
+}
