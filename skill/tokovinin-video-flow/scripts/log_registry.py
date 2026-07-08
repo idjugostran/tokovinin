@@ -3,7 +3,8 @@
 Central log of every video the pipeline has touched: what was fetched,
 what stage of processing it reached, and what flags were detected on it.
 Also sends Telegram notifications at the three points that matter for a
-once-a-day batch run: fetch started, compression done, and post-run verify.
+recurring cron run (every 3 hours): fetch started, compression done, and
+post-run verify.
 
 Storage: a single JSON file, keyed by video_id, so it's easy to update one
 video's record without rewriting/parsing line-by-line (default location:

@@ -200,7 +200,7 @@ If `hermes send` fails (e.g. Telegram not yet connected via `hermes auth add
 telegram`), `notify()` prints a warning to stderr and returns — it never
 raises, so a notification hiccup can't take down the pipeline itself.
 
-## Scheduling (once-a-day batch)
+## Scheduling (every 3 hours)
 
 One-time machine provisioning is a separate concern from this skill's
 per-video workflow, so it lives in its own standalone script
@@ -217,7 +217,7 @@ That one line clones the project (default `~/Tokovinin`, override with
 copy yet to pass CLI flags to), scaffolds `transcripts/`/`kb/`/`log/`,
 installs `yt-dlp`, registers this skill with Hermes (adds the repo's `skill/`
 dir to `skills.external_dirs` in `~/.hermes/config.yaml`), checks Telegram,
-and creates the daily cron job. Idempotent — pasting the same link again
+and creates the cron job (every 3 hours). Idempotent — pasting the same link again
 later re-checks/updates everything without duplicating the cron job or
 clobbering `kb/tokovinin_kb.md` / `log/videos.json` if they already have
 real content.
@@ -225,7 +225,7 @@ real content.
 Once cloned, the same script also accepts CLI flags for re-runs:
 ```bash
 skill/tokovinin-video-flow/scripts/setup.sh --no-cron              # deps + scaffolding only, skip the cron job
-skill/tokovinin-video-flow/scripts/setup.sh --schedule "every 24h" --job-name tokovinin-daily
+skill/tokovinin-video-flow/scripts/setup.sh --schedule "0 */6 * * *" --job-name tokovinin-pipeline
 ```
 
 See the script's header comment for the full step list and exactly why

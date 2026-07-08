@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Refresh channel_videos.txt from the channel and print the video IDs that
-aren't in the log registry yet - the one mechanical step of the daily cron
+aren't in the log registry yet - the one mechanical step of the cron
 run that previously had no script (see SKILL.md review notes): the agent had
 to parse a human-formatted channel_videos.txt and diff it against
 log/videos.json by hand every run.

@@ -8,8 +8,9 @@
 #
 # Everything is self-contained: it clones the project, installs system deps,
 # scaffolds the project's data directories, registers the skill with Hermes,
-# and creates the daily cron job. Idempotent - safe to re-run (e.g. paste the
-# same link again later to update + re-check everything).
+# and creates the cron job (every 3 hours by default). Idempotent - safe to
+# re-run (e.g. paste the same link again later to update + re-check
+# everything).
 #
 # Override defaults via env vars (useful for the curl|bash form, where there's
 # no way to pass CLI flags before the script exists locally):
@@ -19,8 +20,8 @@
 #   --dir PATH            same as TOKOVININ_INSTALL_DIR
 #   --repo URL             same as TOKOVININ_REPO_URL
 #   --no-cron              skip cron job creation (deps + scaffolding only)
-#   --schedule EXPR        cron schedule (default: "0 9 * * *")
-#   --job-name NAME        cron job name (default: tokovinin-daily)
+#   --schedule EXPR        cron schedule (default: "0 */3 * * *" - every 3 hours)
+#   --job-name NAME        cron job name (default: tokovinin-pipeline)
 #
 # What it does, in order:
 #   0. Clones the project repo (or `git pull --ff-only` if already cloned).
@@ -39,16 +40,17 @@
 #   5. Checks whether Telegram is connected (`hermes send --list telegram`);
 #      warns but does not fail if not - notifications will just no-op until
 #      `hermes auth add telegram` is run separately.
-#   6. Creates the daily cron job via `hermes cron create`, bound to this
-#      skill, with --workdir set to the cloned project's root. Skips creation
-#      if a job with the same --name already exists.
+#   6. Creates the cron job (every 3 hours by default) via `hermes cron
+#      create`, bound to this skill, with --workdir set to the cloned
+#      project's root. Skips creation if a job with the same --name already
+#      exists.
 
 set -euo pipefail
 
 REPO_URL="${TOKOVININ_REPO_URL:-https://github.com/idjugostran/tokovinin.git}"
 INSTALL_DIR="${TOKOVININ_INSTALL_DIR:-$HOME/Tokovinin}"
-JOB_NAME="tokovinin-daily"
-SCHEDULE="0 9 * * *"
+JOB_NAME="tokovinin-pipeline"
+SCHEDULE="0 */3 * * *"
 CREATE_CRON=1
 
 while [[ $# -gt 0 ]]; do
@@ -194,10 +196,10 @@ if [[ "$CREATE_CRON" -eq 0 ]]; then
   exit 0
 fi
 
-echo "== 6. Daily cron job =="
+echo "== 6. Cron job (every 3 hours) =="
 # Match the name as a whole whitespace-bounded token, not a bare substring -
 # `hermes cron list` has no --json output to key off reliably, and a plain
-# `grep -q "$JOB_NAME"` would also match e.g. a "tokovinin-daily-v2" job.
+# `grep -q "$JOB_NAME"` would also match e.g. a "tokovinin-pipeline-v2" job.
 # Still not bulletproof (depends on list output separating fields by
 # whitespace), just meaningfully safer than a raw substring match.
 if hermes cron list 2>/dev/null | grep -qE "(^|[[:space:]])${JOB_NAME}([[:space:]]|$)"; then

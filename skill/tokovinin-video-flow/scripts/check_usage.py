@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Pre-flight check: is the Anthropic/Claude account already over a usage
-threshold? Meant to run once at the start of the daily cron cycle, before
+threshold? Meant to run once at the start of each cron cycle (every 3 hours), before
 Step 1 of any video - if either window is over the threshold, skip the
 whole cycle rather than starting work that might get rate-limited partway
 through.
