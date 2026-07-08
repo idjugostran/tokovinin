@@ -243,7 +243,7 @@ else
   # consumed as the `prompt` positional. Confirmed by hitting this for
   # real on 2026-07-08.
   hermes cron create "$SCHEDULE" \
-    "Run Step 0 (check_usage.py) first - if it exits non-zero, stop and skip this cycle entirely. Otherwise run list_new_videos.py with --limit 1 (process one video per cycle, oldest-unprocessed-first - not the whole backlog at once) and run the pipeline (Steps 1-5) for that one id, if any." \
+    "Run Step 0 (check_usage.py) first - if it exits non-zero, stop and skip this cycle entirely. Otherwise run list_new_videos.py with --limit 10 (process up to 10 videos per cycle, oldest-unprocessed-first - not the whole backlog at once) and run the pipeline (Steps 1-5) for each of those ids." \
     --name "$JOB_NAME" \
     --skill tokovinin-video-flow \
     --workdir "$PROJECT_ROOT"
