@@ -24,13 +24,22 @@ Behavior:
        have to know that footgun exists.
     2. Reads log/videos.json, takes its top-level keys as "already known"
        video IDs.
-    3. Prints the channel IDs not in that set to stdout, one per line,
-       newest first - nothing else on stdout, so this composes directly into
-       a shell loop:
+    3. Prints the channel IDs not in that set to stdout, one per line -
+       nothing else on stdout, so this composes directly into a shell loop:
 
            for id in $(uv run python3 list_new_videos.py); do
                uv run python3 fetch_video.py "$id" ...
            done
+
+    4. `--limit N` caps how many IDs get printed. Without it, ALL new IDs
+       print - the pipeline instructions say "for each new id", so a first
+       real run against a channel with a large backlog processes the whole
+       backlog in one cron cycle (this is what actually happened the first
+       time: 61 videos in a single run - by design, just not the intended
+       cadence). When limiting, the OLDEST new videos are kept (the tail of
+       the newest-first list), so a capped backlog gets worked through
+       chronologically over successive cron cycles instead of always
+       grabbing the same newest video and never reaching the backlog.
 
     Diagnostics (counts, the channel URL used, etc.) go to stderr, not stdout,
     so they don't get treated as video IDs by anything consuming this script's
@@ -63,6 +72,8 @@ def main():
     ap.add_argument("--channel", default=DEFAULT_CHANNEL, help="Channel /videos URL")
     ap.add_argument("--log", type=Path, default=Path("log/videos.json"))
     ap.add_argument("--out", type=Path, default=Path("channel_videos.txt"))
+    ap.add_argument("--limit", type=int, default=None,
+                     help="Max number of new video IDs to print (oldest-first among the new ones). Default: no limit.")
     args = ap.parse_args()
 
     print(f"Fetching video list from {args.channel} ...", file=sys.stderr)
@@ -78,6 +89,12 @@ def main():
 
     new_ids = [vid for vid in channel_ids if vid not in known_ids]
     print(f"{len(new_ids)} new video(s) out of {len(channel_ids)} on the channel page", file=sys.stderr)
+
+    if args.limit is not None and len(new_ids) > args.limit:
+        skipped = len(new_ids) - args.limit
+        new_ids = new_ids[-args.limit:] if args.limit > 0 else []
+        print(f"--limit {args.limit}: printing the {args.limit} oldest new video(s), "
+              f"{skipped} remaining for future cycles", file=sys.stderr)
 
     for vid in new_ids:
         print(vid)

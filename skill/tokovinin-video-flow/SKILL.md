@@ -236,17 +236,22 @@ with the 3 per-video notifications this skill already sends via
 The cron job itself, once created, does 3 things each run:
 1. **Step 0** (`check_usage.py`) — if over threshold, stop here, skip the
    whole cycle.
-2. `python3 SKILL_DIR/scripts/list_new_videos.py --log log/videos.json --out channel_videos.txt`
-   — refreshes `channel_videos.txt` from the channel and prints the video IDs
-   not yet in `log/videos.json`, one per line, on stdout (diagnostics go to
-   stderr). This used to be an unscripted step where the agent parsed
-   `channel_videos.txt` and diffed it against the log by hand each run —
-   now it's one deterministic call.
-3. Runs Steps 1-5 for each printed ID in turn.
+2. `python3 SKILL_DIR/scripts/list_new_videos.py --log log/videos.json --out channel_videos.txt --limit 1`
+   — refreshes `channel_videos.txt` from the channel and prints **at most 1**
+   video ID not yet in `log/videos.json` (the oldest unprocessed one), on
+   stdout (diagnostics go to stderr). `--limit` exists specifically so a
+   cron cycle processes one video at a time rather than draining an entire
+   backlog in a single run — without it, the pipeline instructions ("for
+   each new id") mean a first run against a channel with a large backlog
+   processes everything it finds in one go (this is what happened the first
+   real run: 61 videos in a single cycle). With `--limit 1` and a 3-hour
+   schedule, a 61-video backlog instead spreads out over ~7.5 days,
+   oldest-first.
+3. Runs Steps 1-5 for the (at most one) printed ID.
 
 No batch-level summary notification is set up — the 3 per-video notifications
-above are the whole feed. Revisit only if daily new-video volume grows enough
-that per-video pushes become noisy (see TODO).
+above are the whole feed per video processed. Revisit `--limit` upward if
+new-video volume grows enough that one-per-cycle can't keep up (see TODO).
 
 ## Inspecting the log
 
