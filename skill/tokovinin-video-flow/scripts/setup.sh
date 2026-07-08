@@ -177,6 +177,35 @@ if block:
     print(f"  Added {skill_parent_dir} to skills.external_dirs (existing block list)")
     sys.exit(0)
 
+# Case 4: a "skills:" block exists but has no "external_dirs:" key at all.
+# Hermes' config.yaml only persists keys the user has explicitly touched
+# (see hermes_cli/config.py's set_config_value: "Write only user config
+# back, not the full merged defaults") - so a config that's never had its
+# skill dirs configured commonly looks like:
+#   skills:
+#     creation_nudge_interval: 15
+# with no external_dirs line to patch at all. Insert one as the first
+# child of the skills: block, matching the indentation of its siblings.
+skills_block = re.search(r"^skills:[ \t]*\n((?:[ \t]+\S.*\n?)*)", text, re.MULTILINE)
+if skills_block and "external_dirs" not in skills_block.group(0):
+    body = skills_block.group(1)
+    first_line_indent_match = re.match(r"[ \t]+", body) if body else None
+    item_indent = first_line_indent_match.group(0) if first_line_indent_match else "  "
+    insert_at = skills_block.start(1)
+    new_line = f'{item_indent}external_dirs: ["{skill_parent_dir}"]\n'
+    text = text[:insert_at] + new_line + text[insert_at:]
+    config_path.write_text(text, encoding="utf-8")
+    print(f"  Added {skill_parent_dir} to skills.external_dirs (key didn't exist yet)")
+    sys.exit(0)
+
+# Case 5: no "skills:" top-level key at all - append a fresh block.
+if not re.search(r"^skills:[ \t]*$", text, re.MULTILINE):
+    sep = "" if text.endswith("\n") else "\n"
+    text = text + sep + f'skills:\n  external_dirs: ["{skill_parent_dir}"]\n'
+    config_path.write_text(text, encoding="utf-8")
+    print(f"  Added {skill_parent_dir} to skills.external_dirs (created skills: block)")
+    sys.exit(0)
+
 print("  WARNING: could not find a recognizable 'external_dirs:' shape in")
 print(f"           {config_path} - add it manually under skills.external_dirs:")
 print(f'             - "{skill_parent_dir}"')
