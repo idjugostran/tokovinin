@@ -205,11 +205,19 @@ echo "== 6. Cron job (every 3 hours) =="
 if hermes cron list 2>/dev/null | grep -qE "(^|[[:space:]])${JOB_NAME}([[:space:]]|$)"; then
   echo "  Job '$JOB_NAME' already exists - skipping (use 'hermes cron edit $JOB_NAME ...' to change it)"
 else
+  # Both positionals (schedule, prompt) must come before the --flags, not
+  # interleaved with them - `hermes cron create` splits argparse's optional
+  # and positional actions into separate groups internally, so an
+  # optional flag sitting between the two positionals confuses which
+  # group the trailing string belongs to and it bubbles up to the
+  # top-level parser as "unrecognized arguments" instead of being
+  # consumed as the `prompt` positional. Confirmed by hitting this for
+  # real on 2026-07-08.
   hermes cron create "$SCHEDULE" \
+    "Run Step 0 (check_usage.py) first - if it exits non-zero, stop and skip this cycle entirely. Otherwise check @mtokovinin for new videos (channel_videos.txt vs log/videos.json keys) and run the pipeline (Steps 1-5) for each new id." \
     --name "$JOB_NAME" \
     --skill tokovinin-video-flow \
-    --workdir "$PROJECT_ROOT" \
-    "Run Step 0 (check_usage.py) first - if it exits non-zero, stop and skip this cycle entirely. Otherwise check @mtokovinin for new videos (channel_videos.txt vs log/videos.json keys) and run the pipeline (Steps 1-5) for each new id."
+    --workdir "$PROJECT_ROOT"
   echo "  Created job '$JOB_NAME' (schedule: $SCHEDULE, workdir: $PROJECT_ROOT)"
 fi
 
