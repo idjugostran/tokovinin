@@ -17,8 +17,13 @@
 Один файл, без зависимостей. База тянется по HTTP из этого репозитория:
 
 ```bash
-mkdir -p ~/.claude/skills/tokovinin-kb-context && curl -fsSL https://raw.githubusercontent.com/idjugostran/tokovinin/main/skill/tokovinin-kb-context/SKILL.md -o ~/.claude/skills/tokovinin-kb-context/SKILL.md
+curl -fsSL https://raw.githubusercontent.com/idjugostran/tokovinin/main/skill/tokovinin-kb-context/scripts/install.sh | bash
 ```
+
+Скрипт сначала проверяет, что база читается, потом кладёт `SKILL.md` в
+`~/.claude/skills/`. Повторный запуск обновляет скил. В claude.ai (web)
+скилс-директории нет — там папка `skill/tokovinin-kb-context/` загружается
+через Skills UI.
 
 Перезапусти Claude Code и упомяни Токовинина в любом сообщении — скил
 сработает сам.
