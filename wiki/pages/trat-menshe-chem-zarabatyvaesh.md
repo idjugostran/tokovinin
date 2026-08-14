@@ -3,7 +3,7 @@ title: Трать меньше, чем зарабатываешь
 category: Concepts
 summary: Безусловное правило отношения к деньгам — «это 100%»; схемы самопринуждения через траты и статусные кредиты отвергаются
 tags: [concept, money]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-ty-bednyy]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-ty-bednyy, kak-stat-schastlivym-i-bogatym]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -40,6 +40,7 @@ updated: 2026-08-15
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — формулировка правила, разбор «трать больше» и кредитной BMW
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — потребкредит vs ипотека, инфляция и активы
+- [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — обременительность платежа как реальный критерий, а не «кредит вообще плохо» [33:26]
 
 ## Related Concepts
 

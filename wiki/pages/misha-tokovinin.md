@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -44,7 +44,11 @@ updated: 2026-08-15
 Автор книги «Продажи людям» (написана с помощником Матвеем); член
 попечительского совета бизнес-школы «Горки»; вырос в центре Москвы, «не в
 богатой, но интеллигентной семье»; о себе — «я нормальный, здоровый
-нарцисс» ([[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)]).
+нарцисс» ([[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)]). Первый
+«бизнес-проект» — сдал доставшуюся от родителей трёхкомнатную квартиру в
+центре Москвы, жил на разницу с более дешёвой; партнёр по бизнесу — друг с
+14 лет; несколько провальных подростковых затей до первой успешной
+компании; учился у наставника «работу работать» ([[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)]).
 
 ## Appearances in Sources
 
@@ -56,6 +60,7 @@ updated: 2026-08-15
 - [[velikiy-ekonomicheskiy-krizis](pages/velikiy-ekonomicheskiy-krizis.md)] — реакция: долг Осипова, налоги, средний класс, мировой кризис
 - [[kakaya-zhenshchina-sdelaet-uspeshnym](pages/kakaya-zhenshchina-sdelaet-uspeshnym.md)] — короткий перемонтаж мегавыпуска
 - [[gde-iskat-motivatsiyu](pages/gde-iskat-motivatsiyu.md)] — перемонтаж: деньги, траты, мечты
+- [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — мегавыпуск: монополия, диверсификация, дети, отдых, найм, счастье
 
 ## Related Concepts
 

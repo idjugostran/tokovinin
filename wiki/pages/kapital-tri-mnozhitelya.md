@@ -3,7 +3,7 @@ title: Капитал — три множителя
 category: Concepts
 summary: Капитал = деньги × компетенции × ресурсы (энергия, здоровье, связи); в молодости растят неденежные множители — конвертация в деньги произойдёт сама
 tags: [concept, money, career]
-sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,6 +30,7 @@ updated: 2026-08-15
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответ про стартовый капитал и конвертацию
 - [[kakaya-zhenshchina-sdelaet-uspeshnym](pages/kakaya-zhenshchina-sdelaet-uspeshnym.md)] — тот же ответ в коротком перемонтаже [0:00]
+- [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — нетворкинг как обмен: «ты должен что-то из себя представлять» [41:06]
 
 ## Related Concepts
 

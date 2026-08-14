@@ -3,7 +3,7 @@ title: Есть только человеко-часы
 category: Concepts
 summary: «На Земле нет ни денег, ни энергии — есть только человеко-часы»; цена — следствие трудозатрат, а средний класс — аномалия, рождённая скачком производительности
 tags: [concept, economy]
-sources: [velikiy-ekonomicheskiy-krizis]
+sources: [velikiy-ekonomicheskiy-krizis, kak-stat-schastlivym-i-bogatym]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,6 +30,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[velikiy-ekonomicheskiy-krizis](pages/velikiy-ekonomicheskiy-krizis.md)] — рубрика «экономика от чайника для чайников»
+- [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — прогресс рывками, ИИ как следующая волна высвобождения труда [27:51]
 
 ## Related Concepts
 

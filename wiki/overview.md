@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym]
 updated: 2026-08-15
 ---
 
@@ -75,11 +75,11 @@ updated: 2026-08-15
   требует модели, окупающей ставку, недоступной малому бизнесу. Открытым
   остаётся только «где кончается малый»: порог, после которого кредитное
   плечо становится уместным, не назван.
-- «Трать меньше, чем зарабатываешь» и «деньги надо тратить не с умом, а с
-  удовольствием» — не противоречие (сколько vs на что), но граница между
-  «дичью, которую надо успеть сделать» и «кредитной BMW» пока сформулирована
-  только через чужие деньги (кредит) и возраст. Уточнится следующими
-  источниками?
+- ~~Граница между «дичью, которую надо успеть сделать» и «кредитной
+  BMW»?~~ Прояснилась источником 9: критерий — обременительность платежа,
+  не факт кредита. «В 25 брал кредиты на машины, не сильно жалею — они не
+  были обременительны». Кредит допустим, если выплата не давит на
+  повседневную устойчивость (см. [[trat-menshe-chem-zarabatyvaesh](pages/trat-menshe-chem-zarabatyvaesh.md)]).
 
 ## Key Entities / Concepts
 
@@ -104,3 +104,12 @@ updated: 2026-08-15
 - [[tsena-ne-zavisit-ot-sebestoimosti](pages/tsena-ne-zavisit-ot-sebestoimosti.md)]
 - [[marzha-a-ne-demping](pages/marzha-a-ne-demping.md)]
 - [[pochemu-ne-povyshayut](pages/pochemu-ne-povyshayut.md)]
+- [[sellery-i-platformy](pages/sellery-i-platformy.md)]
+- [[tri-protsenta-ot-bolshogo](pages/tri-protsenta-ot-bolshogo.md)]
+- [[ne-sprashivay-chto-nuzhno](pages/ne-sprashivay-chto-nuzhno.md)]
+- [[est-tolko-chelovekochasy](pages/est-tolko-chelovekochasy.md)]
+- [[mirovoy-dolg-obnulitsya-inflyatsiey](pages/mirovoy-dolg-obnulitsya-inflyatsiey.md)]
+- [[biznes-stremitsya-k-monopolii](pages/biznes-stremitsya-k-monopolii.md)]
+- [[diversifikatsiya-samoobman](pages/diversifikatsiya-samoobman.md)]
+- [[mamin-kholodilnik](pages/mamin-kholodilnik.md)]
+- [[chek-delegirovanie-produkt](pages/chek-delegirovanie-produkt.md)]

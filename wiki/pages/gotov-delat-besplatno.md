@@ -3,7 +3,7 @@ title: Готов делать бесплатно
 category: Concepts
 summary: Маркер направления с потенциалом — готовность заниматься им бесплатно и сколько угодно; но честно отличать «нравится дело» от «нравится успех»
 tags: [concept]
-sources: [bolshe-tratish-bolshe-poluchaesh]
+sources: [bolshe-tratish-bolshe-poluchaesh, kak-stat-schastlivym-i-bogatym]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -28,6 +28,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — формулировка критерия и история про музыку
+- [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — «Вселенная платит удовольствием»: хобби vs заработок [21:55]
 
 ## Related Concepts
 

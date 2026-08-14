@@ -3,7 +3,7 @@ title: Три процента от большого
 category: Concepts
 summary: «Лучше 3% от очень большой компании, чем 100% от очень маленькой» — но раздача акций наёмным сотрудникам вешает на них риск, который они не просили
 tags: [concept, business, equity]
-sources: [milliardnye-dolgi-sellery-i-startapy]
+sources: [milliardnye-dolgi-sellery-i-startapy, kak-stat-schastlivym-i-bogatym]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -28,6 +28,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] — реакция на ролик Хартманна про NVIDIA
+- [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — когда продавать долю в любимом деле [7:13]
 
 ## Related Concepts
 

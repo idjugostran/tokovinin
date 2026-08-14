@@ -3,7 +3,7 @@ title: Маржа, а не демпинг
 category: Concepts
 summary: «Я буду делать как все, только дешевле» — гарантированная смерть малого бизнеса; первая бизнес-идея обязана быть очень маржинальной — расти больше не на что
 tags: [concept, business, pricing]
-sources: [pochemu-ty-bednyy]
+sources: [pochemu-ty-bednyy, kak-stat-schastlivym-i-bogatym]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -27,6 +27,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — разбор идеи «ремонт до $600»
+- [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — «все проблемы бизнесменов — проблемы маленьких чеков» [18:08]
 
 ## Related Concepts
 
