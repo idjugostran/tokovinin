@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy]
 updated: 2026-08-15
 ---
 
@@ -51,13 +51,30 @@ updated: 2026-08-15
 ([[umet-razvestis](pages/umet-razvestis.md)]); к продукту — любить машину,
 а не стулья ([[lyubit-zavod-a-ne-stulya](pages/lyubit-zavod-a-ne-stulya.md)]).
 
+Четвёртый источник добавил психологический слой: большинство «потолков»
+субъективны — люди путают норму с возможным
+([[norma-i-vozmozhno](pages/norma-i-vozmozhno.md)]), занижают цены из
+самооценки ([[tsena-ne-zavisit-ot-sebestoimosti](pages/tsena-ne-zavisit-ot-sebestoimosti.md)])
+и не делают попыток из страха поражений
+([[tolerantnost-k-porazheniyam](pages/tolerantnost-k-porazheniyam.md)]).
+Прикладные правила малого бизнеса: маржа, а не демпинг
+([[marzha-a-ne-demping](pages/marzha-a-ne-demping.md)]); не будь первым —
+лучший тест идеи — успешный конкурент (см.
+[[nisha-i-tayming](pages/nisha-i-tayming.md)]); карьерный застой чаще
+объясняется рынком, чем злым начальником
+([[pochemu-ne-povyshayut](pages/pochemu-ne-povyshayut.md)]).
+
 ## Open Questions
 
-- Как рамка «марафона» уживается с его же советами про быстрые проверки
-  спроса и «lose fast» (ожидаются в мегавыпусках следующих ингестов)?
-- Кредиты: «лучшие деньги» для модели, окупающей ставку, но «категорически
-  нет» малому бизнесу и потребителю. Где у него граница между этими
-  режимами — по маржинальности, по размеру, по предсказуемости?
+- ~~Как рамка «марафона» уживается с «lose fast»?~~ Разрешено четвёртым
+  источником: марафон — о дистанции жизни/бизнеса, fail fast — о попытках
+  внутри неё; связка — толерантность к поражениям («одна победа перекрывает
+  девять поражений», а страх проигрыша и держит на «мёртвой лошади»).
+- Кредиты: граница прояснилась — потребкредит всегда проигрыш, ипотека
+  (актив в валюте объекта, вне экстремумов ставок) выгодна, бизнес-кредит
+  требует модели, окупающей ставку, недоступной малому бизнесу. Открытым
+  остаётся только «где кончается малый»: порог, после которого кредитное
+  плечо становится уместным, не назван.
 - «Трать меньше, чем зарабатываешь» и «деньги надо тратить не с умом, а с
   удовольствием» — не противоречие (сколько vs на что), но граница между
   «дичью, которую надо успеть сделать» и «кредитной BMW» пока сформулирована
@@ -82,3 +99,8 @@ updated: 2026-08-15
 - [[lyubit-zavod-a-ne-stulya](pages/lyubit-zavod-a-ne-stulya.md)]
 - [[hotet-a-ne-mechtat](pages/hotet-a-ne-mechtat.md)]
 - [[dengi-kak-ochki-v-tetrise](pages/dengi-kak-ochki-v-tetrise.md)]
+- [[norma-i-vozmozhno](pages/norma-i-vozmozhno.md)]
+- [[tolerantnost-k-porazheniyam](pages/tolerantnost-k-porazheniyam.md)]
+- [[tsena-ne-zavisit-ot-sebestoimosti](pages/tsena-ne-zavisit-ot-sebestoimosti.md)]
+- [[marzha-a-ne-demping](pages/marzha-a-ne-demping.md)]
+- [[pochemu-ne-povyshayut](pages/pochemu-ne-povyshayut.md)]

@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -41,12 +41,17 @@ updated: 2026-08-15
 в юности пробовал писать музыку и бросил, признав отсутствие таланта
 ([[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)],
 [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)]).
+Автор книги «Продажи людям» (написана с помощником Матвеем); член
+попечительского совета бизнес-школы «Горки»; вырос в центре Москвы, «не в
+богатой, но интеллигентной семье»; о себе — «я нормальный, здоровый
+нарцисс» ([[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)]).
 
 ## Appearances in Sources
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — ответы на вопросы: деньги, сила/слабость, потенциал, приоритеты целей
 - [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] — медиапопулизм, доверие, стоимость денег, запас прочности, консалтинг
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — мегавыпуск: ошибки, капитал, ниша, дело жизни, мечты, деньги
+- [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — мегавыпуск: потолки, fail fast, цены, кредиты, повышения
 
 ## Related Concepts
 
