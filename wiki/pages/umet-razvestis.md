@@ -3,7 +3,7 @@ title: Уметь развестись
 category: Concepts
 summary: Правильно выбрать партнёра (в браке и бизнесе) почти невозможно — «нет хорошего, есть подходящий»; настоящая ошибка — не разойтись, когда знаешь, что не то
 tags: [concept, relationships, business]
-sources: [kak-izbezhat-oshibok-v-biznese]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -29,6 +29,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответы про выбор партнёра для жизни и бизнеса
+- [[kakaya-zhenshchina-sdelaet-uspeshnym](pages/kakaya-zhenshchina-sdelaet-uspeshnym.md)] — «нет хорошего — есть подходящее» о поддержке в паре [6:17]
 
 ## Related Concepts
 
