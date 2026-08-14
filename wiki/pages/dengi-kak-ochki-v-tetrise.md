@@ -3,7 +3,7 @@ title: Деньги как очки в тетрисе
 category: Concepts
 summary: «Если вас интересуют деньги и вы их считаете — вы не миллиардер»: большой масштаб требует цинично-рационального отношения к деньгам, без любви к инвестициям
 tags: [concept, money]
-sources: [kak-izbezhat-oshibok-v-biznese]
+sources: [kak-izbezhat-oshibok-v-biznese, gde-iskat-motivatsiyu]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -29,6 +29,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — финальный ответ выпуска про мотивацию зарабатывать
+- [[gde-iskat-motivatsiyu](pages/gde-iskat-motivatsiyu.md)] — тот же ответ в перемонтаже; атрибуция цитаты Рокфеллеру [0:00]
 
 ## Related Concepts
 

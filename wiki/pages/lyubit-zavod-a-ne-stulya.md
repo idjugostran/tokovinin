@@ -3,7 +3,7 @@ title: Любить завод, а не стулья
 category: Concepts
 summary: Продукт надо «хотя бы полюбить», чтобы продавать, но детище предпринимателя — машина, производящая продукт; тогда бизнес гибок к смене продукции
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -28,6 +28,7 @@ updated: 2026-08-15
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответ «нужно ли любить свой бизнес»
 - [[kakaya-zhenshchina-sdelaet-uspeshnym](pages/kakaya-zhenshchina-sdelaet-uspeshnym.md)] — тот же ответ в коротком перемонтаже [4:08]
+- [[gde-iskat-motivatsiyu](pages/gde-iskat-motivatsiyu.md)] — антипример: прогоревший бизнес из влюблённости в проект [1:09]
 
 ## Related Concepts
 

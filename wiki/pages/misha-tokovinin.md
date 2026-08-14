@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -55,6 +55,7 @@ updated: 2026-08-15
 - [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] — реакция: долги, селлеры, Бакальчук, NVIDIA, продукт
 - [[velikiy-ekonomicheskiy-krizis](pages/velikiy-ekonomicheskiy-krizis.md)] — реакция: долг Осипова, налоги, средний класс, мировой кризис
 - [[kakaya-zhenshchina-sdelaet-uspeshnym](pages/kakaya-zhenshchina-sdelaet-uspeshnym.md)] — короткий перемонтаж мегавыпуска
+- [[gde-iskat-motivatsiyu](pages/gde-iskat-motivatsiyu.md)] — перемонтаж: деньги, траты, мечты
 
 ## Related Concepts
 
