@@ -3,7 +3,7 @@ title: Ошибки обязательны
 category: Concepts
 summary: Менеджмент — ремесло, которому «нельзя научить»: все стандартные ошибки будут совершены; умный отличается тем, что косячит два раза, а не десять
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese]
+sources: [kak-izbezhat-oshibok-v-biznese, milliardnye-dolgi-sellery-i-startapy]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -28,9 +28,15 @@ updated: 2026-08-15
 страхует инструктор, «в бизнесе не так — тут можно косячить, главное не
 часто».[^1]
 
+Менеджерское следствие принципа — не подсказывать: защищая отказ Бакальчук
+помочь селлеру с ёлками, Токовинин объясняет — получив готовое решение
+«как продать три грузовика», человек «в следующий раз не сможет придумать,
+как продать десять, потому что не прошёл путь от полутора до трёх».[^2]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — совет молодым предпринимателям, открывающий выпуск
+- [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] — «твои ёлки — твои проблемы» как педагогика ошибок
 
 ## Related Concepts
 
@@ -38,3 +44,4 @@ updated: 2026-08-15
 - [[nisha-i-tayming](pages/nisha-i-tayming.md)] — ниша прощает косяки, пока прёт
 
 [^1]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [0:00] — «любой предприниматель обязательно совершит все ошибки ... всё, что ты можешь сделать — это не пять раз накосячить, а три»
+[^2]: [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] [11:44] — «то решение ... которое не он принял, а которое я ему подсказала, он не дошёл до него своим путём»

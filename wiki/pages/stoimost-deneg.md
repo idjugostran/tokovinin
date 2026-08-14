@@ -3,7 +3,7 @@ title: Стоимость денег для бизнеса
 category: Concepts
 summary: Клиентские деньги — самые дешёвые, но ограниченные; кредитные — лучшие, если модель окупает ставку; инвесторские — самые дорогие, венчур только для «лотерей»
 tags: [concept, money, business]
-sources: [pochemu-vrut-pro-biznes-i-dengi]
+sources: [pochemu-vrut-pro-biznes-i-dengi, milliardnye-dolgi-sellery-i-startapy]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -31,9 +31,16 @@ updated: 2026-08-15
 «категорически не рекомендуются» — там дыры закрывает
 [[zapas-prochnosti](pages/zapas-prochnosti.md)], а не заёмные деньги.[^2]
 
+Обратная сторона «бесконечности» кредита — дисциплина кредитора: «глупые
+деньги распределены в маленьких чеках», крупные суммы дают только умные
+деньги под залоги и гарантии, потому что «основа кредитной деятельности
+банка — взыскание». Большое плечо без активов строится лишь пирамидой
+репо, которую обнуляет движение рынка на 1%.[^3]
+
 ## Appearances in Sources
 
 - [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] — полный разбор трёх типов денег
+- [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] — банк как машина взыскания, пирамида репо
 
 ## Related Concepts
 
@@ -42,3 +49,4 @@ updated: 2026-08-15
 
 [^1]: [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] [9:42] — «Самые дешёвые деньги - это клиентские ... самые лучшие деньги - это, конечно, кредитные, потому что они бесконечные ... инвесторские деньги привлекать надо только там, где очень высокие риски»
 [^2]: [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] [18:17] — «Брать кредиты, ну, такое в малом бизнесе категорически не рекомендуется»
+[^3]: [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] [0:00] — «если вы спросите банкира, чем он занимается ... Банк занимается взысканием. И ты не можешь построить банк, если не умеешь взыскивать кредиты»
