@@ -1,6 +1,9 @@
 __pycache__/
 *.pyc
 .DS_Store
-transcripts/*.lowres.*
-transcripts/*.webm
-transcripts/*.mp4
+
+# Raw fetch output: ~50 MB of auto-captions for 64 videos, and it grows with
+# every video. Nothing downstream reads it once the transcript has been
+# compressed into kb/videos/<id>.md - keeping it out means a clone of this
+# public repo stays small. It's still written locally as an audit trail.
+transcripts/
