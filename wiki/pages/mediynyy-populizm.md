@@ -3,7 +3,7 @@ title: Медийный популизм
 category: Concepts
 summary: Медийные люди говорят «не то, что есть, а то, что хотят слышать» — оправдания вместо правды; так растёт аудитория, и это ловушка для слушателя
 tags: [concept, media]
-sources: [pochemu-vrut-pro-biznes-i-dengi, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy]
+sources: [pochemu-vrut-pro-biznes-i-dengi, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -37,6 +37,7 @@ updated: 2026-08-15
 - [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] — разбор тезиса о миллиардерах и механики популярности
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — хайповые книги (Тилли), дисклеймер о собственных советах
 - [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] — «должен миллиард — проблема банка» (Кийосаки/KSI) как образец хайпожорства
+- [[velikiy-ekonomicheskiy-krizis](pages/velikiy-ekonomicheskiy-krizis.md)] — «фрейдизм для маленьких» в бизнес-медиа, Даннинг-Крюгер, популизм Рыбакова
 
 ## Related Concepts
 

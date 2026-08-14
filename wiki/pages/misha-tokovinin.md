@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -53,6 +53,7 @@ updated: 2026-08-15
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — мегавыпуск: ошибки, капитал, ниша, дело жизни, мечты, деньги
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — мегавыпуск: потолки, fail fast, цены, кредиты, повышения
 - [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] — реакция: долги, селлеры, Бакальчук, NVIDIA, продукт
+- [[velikiy-ekonomicheskiy-krizis](pages/velikiy-ekonomicheskiy-krizis.md)] — реакция: долг Осипова, налоги, средний класс, мировой кризис
 
 ## Related Concepts
 
