@@ -35,6 +35,7 @@ updated: 2026-08-15
 ## Related Concepts
 
 - [[biznes-kak-marafon](pages/biznes-kak-marafon.md)] — зачем нужен запас: дистанция, а не рывок
+- [[zapas-prochnosti](pages/zapas-prochnosti.md)] — то же правило на уровне бизнеса
 
 [^1]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [0:00] — «лучше тратить меньше чем зарабатываешь и немножко в время откладывать ... те которые тратят больше чем зарабатывают Ну конечно может проскочит но в основном заканчивается плаче[вно]»
 [^2]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [0:48] — «мы должны всегда тратить меньше чем мы зарабатываем Это 100% потому что мы должны спать спокойно ... ты берёшь кредит на 5 млн покупаешь BMW чтобы ощутить себя богатым»

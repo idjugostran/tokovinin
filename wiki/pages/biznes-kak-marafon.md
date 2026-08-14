@@ -33,5 +33,6 @@ updated: 2026-08-15
 
 - [[trat-menshe-chem-zarabatyvaesh](pages/trat-menshe-chem-zarabatyvaesh.md)] — финансовая сторона той же дистанции
 - [[menyat-obstoyatelstva-a-ne-sebya](pages/menyat-obstoyatelstva-a-ne-sebya.md)] — экономия усилий как стратегия
+- [[zapas-prochnosti](pages/zapas-prochnosti.md)] — чем гасятся удары на дистанции
 
 [^1]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [0:48] — «победит не тот кто умудрился совершить рывок а тот кто умудрился каждый год 40 лет по 5% расти и нам нужны ресурсы их надо беречь надо беречь нервы»
