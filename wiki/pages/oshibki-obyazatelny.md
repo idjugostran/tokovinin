@@ -3,7 +3,7 @@ title: Ошибки обязательны
 category: Concepts
 summary: Менеджмент — ремесло, которому «нельзя научить»: все стандартные ошибки будут совершены; умный отличается тем, что косячит два раза, а не десять
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, milliardnye-dolgi-sellery-i-startapy]
+sources: [kak-izbezhat-oshibok-v-biznese, milliardnye-dolgi-sellery-i-startapy, kak-ponyat-chto-ty-ne-predprinimatel]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -37,6 +37,7 @@ updated: 2026-08-15
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — совет молодым предпринимателям, открывающий выпуск
 - [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] — «твои ёлки — твои проблемы» как педагогика ошибок
+- [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — «мои первые шесть бизнесов — позор» [7:41]
 
 ## Related Concepts
 

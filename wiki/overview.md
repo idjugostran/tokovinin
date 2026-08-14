@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel]
 updated: 2026-08-15
 ---
 
@@ -64,6 +64,16 @@ updated: 2026-08-15
 объясняется рынком, чем злым начальником
 ([[pochemu-ne-povyshayut](pages/pochemu-ne-povyshayut.md)]).
 
+Десятый источник закрыл батч управленческим и продажным слоем: право
+решать привязано к тому, кто реально отвечает деньгами
+([[otvetstvennost-daet-pravo-reshat](pages/otvetstvennost-daet-pravo-reshat.md)]);
+партнёрство требует трёх решённых на входе вопросов
+([[tri-pravila-partnerstva](pages/tri-pravila-partnerstva.md)]); заработок
+растёт только через продажу навыков, риска или ответственности
+([[navyki-risk-otvetstvennost](pages/navyki-risk-otvetstvennost.md)]); на
+высоких чеках покупают не товар, а уверенность
+([[prodayut-ne-tovar-a-uverennost](pages/prodayut-ne-tovar-a-uverennost.md)]).
+
 ## Open Questions
 
 - ~~Как рамка «марафона» уживается с «lose fast»?~~ Разрешено четвёртым
@@ -113,3 +123,10 @@ updated: 2026-08-15
 - [[diversifikatsiya-samoobman](pages/diversifikatsiya-samoobman.md)]
 - [[mamin-kholodilnik](pages/mamin-kholodilnik.md)]
 - [[chek-delegirovanie-produkt](pages/chek-delegirovanie-produkt.md)]
+- [[otlozhennoe-predprinimatelstvo](pages/otlozhennoe-predprinimatelstvo.md)]
+- [[otvetstvennost-daet-pravo-reshat](pages/otvetstvennost-daet-pravo-reshat.md)]
+- [[biznes-i-mesto-ne-podgonyayutsya](pages/biznes-i-mesto-ne-podgonyayutsya.md)]
+- [[tri-pravila-partnerstva](pages/tri-pravila-partnerstva.md)]
+- [[navyki-risk-otvetstvennost](pages/navyki-risk-otvetstvennost.md)]
+- [[prodayut-ne-tovar-a-uverennost](pages/prodayut-ne-tovar-a-uverennost.md)]
+- [[kassovyy-razryv-zdorovyy-i-net](pages/kassovyy-razryv-zdorovyy-i-net.md)]
