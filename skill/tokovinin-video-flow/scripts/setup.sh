@@ -25,8 +25,8 @@
 #
 # What it does, in order:
 #   0. Clones the project repo (or `git pull --ff-only` if already cloned).
-#   1. Creates the project's directory skeleton (transcripts/, kb/, log/) and
-#      seeds kb/tokovinin_kb.md + log/videos.json - but only the files that
+#   1. Creates the project's directory skeleton (transcripts/, kb/videos/,
+#      log/) and seeds log/videos.json - but only the files that
 #      don't already exist, so re-running never clobbers real accumulated
 #      notes on a machine that's been running this for a while.
 #   2. Checks/installs yt-dlp via Homebrew (the only system dependency).
@@ -76,28 +76,16 @@ PROJECT_ROOT="$(cd "$INSTALL_DIR" && pwd)"
 SKILL_PARENT_DIR="$PROJECT_ROOT/skill"
 
 echo "== 1. Project directories =="
-mkdir -p "$PROJECT_ROOT/transcripts" "$PROJECT_ROOT/kb" "$PROJECT_ROOT/log"
-echo "  OK: transcripts/, kb/, log/ under $PROJECT_ROOT"
+mkdir -p "$PROJECT_ROOT/transcripts" "$PROJECT_ROOT/kb/videos" "$PROJECT_ROOT/log"
+echo "  OK: transcripts/, kb/videos/, log/ under $PROJECT_ROOT"
 
-KB_FILE="$PROJECT_ROOT/kb/tokovinin_kb.md"
-if [[ -f "$KB_FILE" ]]; then
-  echo "  OK: kb/tokovinin_kb.md already exists - leaving it alone"
+# kb/ is one file per video (kb/videos/<id>.md) plus a generated kb/index.md,
+# so there is no template file to seed - a fresh clone already carries both,
+# and on a brand new base the directory just starts out empty.
+if [[ -n "$(ls -A "$PROJECT_ROOT/kb/videos" 2>/dev/null)" ]]; then
+  echo "  OK: kb/videos/ has $(ls -1 "$PROJECT_ROOT/kb/videos" | wc -l | tr -d ' ') video file(s) - leaving them alone"
 else
-  cat > "$KB_FILE" <<'EOF'
-# Токовинин — база знаний по видео (сжатые конспекты)
-
-<!-- ШАБЛОН для каждого нового видео:
-## [ГГГГ-ММ-ДД] Название | video_id | длительность
-Тема: 1 строка, что за видео (реакция/монолог/интервью и т.д.)
-### [Глава/таймкод]
-- тезис 1 (кто говорит, если не сам автор — помечать)
-- тезис 2
-- цифры/факты дословно, если есть
-- цитаты только если реально ёмкие и запоминающиеся
-Не включать: рекламу, шутки/смех, воду, повторы, разбор чужого ролика дословно (только суть претензии/тезиса).
--->
-EOF
-  echo "  Created kb/tokovinin_kb.md with the template header"
+  echo "  Note: kb/videos/ is empty - it fills up as the pipeline processes videos"
 fi
 
 LOG_FILE="$PROJECT_ROOT/log/videos.json"

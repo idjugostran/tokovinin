@@ -1,4 +1,969 @@
 {
+  "-TbNOWAfe7Y": {
+    "duration_sec": 4750,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.72,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.7/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:39Z",
+      "fetched": "2026-07-08T18:11:08Z",
+      "flags_detected": "2026-07-08T18:11:08Z",
+      "transcribed": "2026-07-08T18:11:08Z"
+    },
+    "title": "Почему ты БЕДНЫЙ? Как пробить финансовый потолок и зачем сдаваться на полпути | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=-TbNOWAfe7Y"
+  },
+  "-aHMAyQjQ2U": {
+    "duration_sec": 710,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:43Z",
+      "fetched": "2026-07-08T18:11:21Z",
+      "flags_detected": "2026-07-08T18:11:21Z",
+      "transcribed": "2026-07-08T18:11:21Z"
+    },
+    "title": "Где искать МОТИВАЦИЮ и стоит ли МЕЧТАТЬ?",
+    "url": "https://www.youtube.com/watch?v=-aHMAyQjQ2U"
+  },
+  "-o1JXDb8jtI": {
+    "duration_sec": 824,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 1.53,
+        "matched_keywords": [],
+        "reason": "'>>' rate 1.5/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:44Z",
+      "fetched": "2026-07-08T18:11:11Z",
+      "flags_detected": "2026-07-08T18:11:11Z",
+      "transcribed": "2026-07-08T18:11:11Z"
+    },
+    "title": "Как НАЙТИ ЖЕНУ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=-o1JXDb8jtI"
+  },
+  "0KcWEjWqbvA": {
+    "duration_sec": 3972,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:47Z",
+      "fetched": "2026-07-08T18:09:49Z",
+      "flags_detected": "2026-07-08T18:09:51Z",
+      "transcribed": "2026-07-08T18:09:51Z"
+    },
+    "title": "Когда идти к психиатру? | МЕГАВЫПУСК 2 | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=0KcWEjWqbvA"
+  },
+  "1ez45eXZyPo": {
+    "duration_sec": 1514,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 3.8,
+        "matched_keywords": [
+          "комментируем"
+        ],
+        "reason": "high '>>' speaker-change rate: 3.8/min (threshold 3.0); title/description keywords: ['комментируем']",
+        "value": true
+      },
+      "possible_sponsor_intro": {
+        "approx_end_sec": 21,
+        "reason": "matched keywords in first 90s: ['точка банк']",
+        "value": true
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:48Z",
+      "fetched": "2026-07-08T18:06:23Z",
+      "flags_detected": "2026-07-08T18:06:25Z",
+      "transcribed": "2026-07-08T18:06:25Z"
+    },
+    "title": "Вот почему НЕ НАДО слушать блогеров | Литвин, Боня",
+    "url": "https://www.youtube.com/watch?v=1ez45eXZyPo"
+  },
+  "1oM0ngVdSM0": {
+    "duration_sec": 686,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:51Z",
+      "fetched": "2026-07-08T18:09:23Z",
+      "flags_detected": "2026-07-08T18:09:25Z",
+      "transcribed": "2026-07-08T18:09:25Z"
+    },
+    "title": "УВОЛЬСЯ И РАЗБОГАТЕЙ В 2025 году | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=1oM0ngVdSM0"
+  },
+  "34Q9B4SC5t8": {
+    "duration_sec": 826,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:53Z",
+      "fetched": "2026-07-08T18:09:39Z",
+      "flags_detected": "2026-07-08T18:09:41Z",
+      "transcribed": "2026-07-08T18:09:41Z"
+    },
+    "title": "ТОП ОШИБОК начинающих предпринимателей | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=34Q9B4SC5t8"
+  },
+  "48y15l4Y6fY": {
+    "duration_sec": 1243,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 1.01,
+        "matched_keywords": [],
+        "reason": "'>>' rate 1.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:54Z",
+      "fetched": "2026-07-08T18:07:04Z",
+      "flags_detected": "2026-07-08T18:07:06Z",
+      "transcribed": "2026-07-08T18:07:06Z"
+    },
+    "title": "ЧТО ДЕЛАТЬ в 2026 году? Советы НЕУДАЧНИКАМ | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=48y15l4Y6fY"
+  },
+  "5AEnkJSZ7og": {
+    "duration_sec": 583,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:56Z",
+      "fetched": "2026-07-08T18:09:43Z",
+      "flags_detected": "2026-07-08T18:09:45Z",
+      "transcribed": "2026-07-08T18:09:45Z"
+    },
+    "title": "Про покупку квартиры для ребенка и российские монополии | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=5AEnkJSZ7og"
+  },
+  "6NPZzP_-ZFg": {
+    "duration_sec": 666,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:13:59Z",
+      "fetched": "2026-07-08T18:08:33Z",
+      "flags_detected": "2026-07-08T18:08:35Z",
+      "transcribed": "2026-07-08T18:08:35Z"
+    },
+    "title": "КАК ЗАРАБОТАТЬ ОГРОМНЫЕ ДЕНЬГИ, если ничего не умеешь?",
+    "url": "https://www.youtube.com/watch?v=6NPZzP_-ZFg"
+  },
+  "7DGvcF9VwyE": {
+    "duration_sec": 511,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:01Z",
+      "fetched": "2026-07-08T18:05:30Z",
+      "flags_detected": "2026-07-08T18:05:32Z",
+      "transcribed": "2026-07-08T18:05:32Z"
+    },
+    "title": "Что ты делаешь не так? Про московские зарплаты, депрессию и токсичный коллектив",
+    "url": "https://www.youtube.com/watch?v=7DGvcF9VwyE"
+  },
+  "8dd8GexAPIM": {
+    "duration_sec": 1288,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.14,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.1/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:03Z",
+      "fetched": "2026-07-08T18:02:41Z",
+      "flags_detected": "2026-07-08T18:02:43Z",
+      "transcribed": "2026-07-08T18:02:43Z"
+    },
+    "title": "Почему вам врут про БИЗНЕС И ДЕНЬГИ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=8dd8GexAPIM"
+  },
+  "93haFJCtPrI": {
+    "duration_sec": 1466,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.7,
+        "matched_keywords": [
+          "разбор"
+        ],
+        "reason": "title/description keywords: ['разбор']",
+        "value": true
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-13T15:06:13Z",
+      "fetched": "2026-07-13T15:01:34Z",
+      "flags_detected": "2026-07-13T15:01:46Z",
+      "transcribed": "2026-07-13T15:01:42Z"
+    },
+    "title": "АНТИкризис: топ ЖИЗНЕННЫХ РАЗБОРОВ от Токовинина",
+    "url": "https://www.youtube.com/watch?v=93haFJCtPrI"
+  },
+  "9YxLk3u__rI": {
+    "duration_sec": 1464,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.78,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.8/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "approx_end_sec": 16,
+        "reason": "matched keywords in first 90s: ['точкобанк']",
+        "value": true
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:05Z",
+      "fetched": "2026-07-08T18:06:42Z",
+      "flags_detected": "2026-07-08T18:06:44Z",
+      "transcribed": "2026-07-08T18:06:43Z"
+    },
+    "title": "Запретите ЭТО своим ДЕТЯМ | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=9YxLk3u__rI"
+  },
+  "9qTX9Nwkl_I": {
+    "duration_sec": 972,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.19,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.2/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-08-07T15:05:03Z",
+      "fetched": "2026-08-07T15:01:22Z",
+      "flags_detected": "2026-08-07T15:01:33Z",
+      "transcribed": "2026-08-07T15:01:29Z"
+    },
+    "title": "Что грозит компании, которая ЗАДЕРЖИВАЕТ ЗАРПЛАТЫ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=9qTX9Nwkl_I"
+  },
+  "A9cWHT8_wxo": {
+    "duration_sec": 1268,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 2.79,
+        "matched_keywords": [],
+        "reason": "'>>' rate 2.8/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:07Z",
+      "fetched": "2026-07-08T18:06:55Z",
+      "flags_detected": "2026-07-08T18:06:58Z",
+      "transcribed": "2026-07-08T18:06:57Z"
+    },
+    "title": "Можно ли заработать ПО СХЕМАМ ИЗ ШОРТС? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=A9cWHT8_wxo"
+  },
+  "AVX7zrkwFvo": {
+    "duration_sec": 1398,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.52,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.5/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:09Z",
+      "fetched": "2026-07-08T18:07:16Z",
+      "flags_detected": "2026-07-08T18:07:18Z",
+      "transcribed": "2026-07-08T18:07:18Z"
+    },
+    "title": "Как СКАНДАЛЫ и РАЗОБЛАЧЕНИЯ помогают бизнесу? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=AVX7zrkwFvo"
+  },
+  "C6inw-JM7iM": {
+    "duration_sec": 592,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:12Z",
+      "fetched": "2026-07-08T18:09:28Z",
+      "flags_detected": "2026-07-08T18:09:30Z",
+      "transcribed": "2026-07-08T18:09:29Z"
+    },
+    "title": "Как ПОМЕНЯТЬ ЖИЗНЬ и почему таксисты такие умные? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=C6inw-JM7iM"
+  },
+  "DSYu40tJyEg": {
+    "duration_sec": 689,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:14Z",
+      "fetched": "2026-07-08T18:08:52Z",
+      "flags_detected": "2026-07-08T18:08:54Z",
+      "transcribed": "2026-07-08T18:08:54Z"
+    },
+    "title": "НЕ ОТКРЫВАЙ БИЗНЕС в этих нишах! Секреты ТОП-управленцев",
+    "url": "https://www.youtube.com/watch?v=DSYu40tJyEg"
+  },
+  "De3RuCYZd00": {
+    "duration_sec": 1446,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.75,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.7/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:16Z",
+      "fetched": "2026-07-08T18:07:33Z",
+      "flags_detected": "2026-07-08T18:07:34Z",
+      "transcribed": "2026-07-08T18:07:34Z"
+    },
+    "title": "БАРДАК — это тоже система: КАК УСТРОЕН НАСТОЯЩИЙ БИЗНЕС? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=De3RuCYZd00"
+  },
+  "EHMzwO8riJ4": {
+    "duration_sec": 1714,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 2.73,
+        "matched_keywords": [
+          "реакция"
+        ],
+        "reason": "title/description keywords: ['реакция']",
+        "value": true
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-24T15:03:50Z",
+      "fetched": "2026-07-24T15:00:58Z",
+      "flags_detected": "2026-07-24T15:01:16Z",
+      "transcribed": "2026-07-24T15:01:14Z"
+    },
+    "title": "Мифы о БОГАТЫХ и БЕДНЫХ, которые мешают ПРОДАВАТЬ | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=EHMzwO8riJ4"
+  },
+  "ELxIeHEYx40": {
+    "duration_sec": 765,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:19Z",
+      "fetched": "2026-07-08T18:11:14Z",
+      "flags_detected": "2026-07-08T18:11:14Z",
+      "transcribed": "2026-07-08T18:11:14Z"
+    },
+    "title": "Почему ты НЕ ДОСТИГАЕШЬ ЦЕЛЕЙ? | Миша Токовинин про амбиции и сомнения",
+    "url": "https://www.youtube.com/watch?v=ELxIeHEYx40"
+  },
+  "GKnmVMzv7o4": {
+    "duration_sec": 557,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:20Z",
+      "fetched": "2026-07-08T18:09:58Z",
+      "flags_detected": "2026-07-08T18:10:01Z",
+      "transcribed": "2026-07-08T18:10:01Z"
+    },
+    "title": "Больше тратишь — больше получаешь? | МИША ТОКОВИНИН",
+    "url": "https://www.youtube.com/watch?v=GKnmVMzv7o4"
+  },
+  "GYyi48pziuI": {
+    "duration_sec": 1356,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 1.64,
+        "matched_keywords": [],
+        "reason": "'>>' rate 1.6/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:22Z",
+      "fetched": "2026-07-08T18:06:46Z",
+      "flags_detected": "2026-07-08T18:06:48Z",
+      "transcribed": "2026-07-08T18:06:48Z"
+    },
+    "title": "Миллиардные долги, селлеры и стартапы | Разбираю странный бизнес-контент",
+    "url": "https://www.youtube.com/watch?v=GYyi48pziuI"
+  },
+  "GohbUQHXrow": {
+    "duration_sec": 680,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:24Z",
+      "fetched": "2026-07-08T18:08:17Z",
+      "flags_detected": "2026-07-08T18:08:20Z",
+      "transcribed": "2026-07-08T18:08:20Z"
+    },
+    "title": "ЛЕНЬ И ТОКСИЧНОСТЬ— как спасти коллектив?! | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=GohbUQHXrow"
+  },
+  "HP0bRGu65NA": {
+    "duration_sec": 657,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:27Z",
+      "fetched": "2026-07-08T18:08:47Z",
+      "flags_detected": "2026-07-08T18:08:49Z",
+      "transcribed": "2026-07-08T18:08:49Z"
+    },
+    "title": "Кто виноват, что у тебя НЕТ ПРОДАЖ ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=HP0bRGu65NA"
+  },
+  "HTEmfm1Ju_I": {
+    "duration_sec": 651,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:29Z",
+      "fetched": "2026-07-08T18:08:12Z",
+      "flags_detected": "2026-07-08T18:08:15Z",
+      "transcribed": "2026-07-08T18:08:15Z"
+    },
+    "title": "Как очаровать ИНВЕСТОРА и купить себе ПОРШ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=HTEmfm1Ju_I"
+  },
+  "HV7mrZIGXX4": {
+    "duration_sec": 4542,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:31Z",
+      "fetched": "2026-07-08T18:09:33Z",
+      "flags_detected": "2026-07-08T18:09:36Z",
+      "transcribed": "2026-07-08T18:09:36Z"
+    },
+    "title": "КАК СТАТЬ СЧАСТЛИВЫМ И БОГАТЫМ? Мегавыпуск | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=HV7mrZIGXX4"
+  },
+  "Hf3NRjGsW8E": {
+    "duration_sec": 1275,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.56,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.6/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:34Z",
+      "fetched": "2026-07-08T18:07:23Z",
+      "flags_detected": "2026-07-08T18:07:25Z",
+      "transcribed": "2026-07-08T18:07:25Z"
+    },
+    "title": "Кому в кризис жить хорошо? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=Hf3NRjGsW8E"
+  },
+  "IciUENs27j8": {
+    "duration_sec": 3835,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:36Z",
+      "fetched": "2026-07-08T18:05:45Z",
+      "flags_detected": "2026-07-08T18:05:48Z",
+      "transcribed": "2026-07-08T18:05:47Z"
+    },
+    "title": "Как избежать ошибок в бизнесе и найти дело жизни? МЕГАВЫПУСК",
+    "url": "https://www.youtube.com/watch?v=IciUENs27j8"
+  },
+  "Itpv9-C2WfU": {
+    "duration_sec": 674,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:38Z",
+      "fetched": "2026-07-08T18:05:04Z",
+      "flags_detected": "2026-07-08T18:05:06Z",
+      "transcribed": "2026-07-08T18:05:06Z"
+    },
+    "title": "Моё призвание — НЕ РАБОТАТЬ | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=Itpv9-C2WfU"
+  },
+  "LVDSFtF8gpk": {
+    "duration_sec": 1116,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 1.77,
+        "matched_keywords": [],
+        "reason": "'>>' rate 1.8/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:40Z",
+      "fetched": "2026-07-08T18:06:18Z",
+      "flags_detected": "2026-07-08T18:06:20Z",
+      "transcribed": "2026-07-08T18:06:20Z"
+    },
+    "title": "Чем НА САМОМ ДЕЛЕ занимаются БИЗНЕСМЕНЫ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=LVDSFtF8gpk"
+  },
+  "Lw-hmtrszCs": {
+    "duration_sec": 1743,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 2.44,
+        "matched_keywords": [],
+        "reason": "'>>' rate 2.4/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "approx_end_sec": 16,
+        "reason": "matched keywords in first 90s: ['точкобанк']",
+        "value": true
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:42Z",
+      "fetched": "2026-07-08T18:02:15Z",
+      "flags_detected": "2026-07-08T18:02:19Z",
+      "transcribed": "2026-07-08T18:02:19Z"
+    },
+    "title": "Семья, Деньги и Закон: почему система не работает? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=Lw-hmtrszCs"
+  },
+  "Lw8qAeSxtLI": {
+    "duration_sec": 1764,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 1.43,
+        "matched_keywords": [],
+        "reason": "'>>' rate 1.4/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:45Z",
+      "fetched": "2026-07-08T18:06:37Z",
+      "flags_detected": "2026-07-08T18:06:39Z",
+      "transcribed": "2026-07-08T18:06:39Z"
+    },
+    "title": "МОЖНО НЕ ДУМАТЬ. Нейросеть всё решит | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=Lw8qAeSxtLI"
+  },
+  "NcXtBqt2foQ": {
+    "duration_sec": 721,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:47Z",
+      "fetched": "2026-07-08T18:08:57Z",
+      "flags_detected": "2026-07-08T18:08:59Z",
+      "transcribed": "2026-07-08T18:08:59Z"
+    },
+    "title": "ЖАДНОСТЬ — ключ к УСПЕШНОМУ БИЗНЕСУ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=NcXtBqt2foQ"
+  },
+  "PrdI6Nx3848": {
+    "duration_sec": 700,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.86,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.9/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:48Z",
+      "fetched": "2026-07-08T18:07:42Z",
+      "flags_detected": "2026-07-08T18:07:44Z",
+      "transcribed": "2026-07-08T18:07:44Z"
+    },
+    "title": "РАЗВОДНЯК или ШАНС запрыгнуть в последний вагон?  | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=PrdI6Nx3848"
+  },
+  "Q6MbmBM7m1s": {
+    "duration_sec": 1565,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 2.65,
+        "matched_keywords": [
+          "разбор"
+        ],
+        "reason": "title/description keywords: ['разбор']",
+        "value": true
+      },
+      "possible_sponsor_intro": {
+        "approx_end_sec": 16,
+        "reason": "matched keywords in first 90s: ['точкобанк']",
+        "value": true
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:51Z",
+      "fetched": "2026-07-08T18:06:32Z",
+      "flags_detected": "2026-07-08T18:06:34Z",
+      "transcribed": "2026-07-08T18:06:34Z"
+    },
+    "title": "Большой Экономический Кризис. ЗАГОВОР или ПРАВДА? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=Q6MbmBM7m1s"
+  },
+  "Sz8cPSEmwjc": {
+    "duration_sec": 605,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:53Z",
+      "fetched": "2026-07-08T18:11:24Z",
+      "flags_detected": "2026-07-08T18:11:24Z",
+      "transcribed": "2026-07-08T18:11:24Z"
+    },
+    "title": "Какая женщина сделает тебя успешным?",
+    "url": "https://www.youtube.com/watch?v=Sz8cPSEmwjc"
+  },
+  "VbJHJBkbC8U": {
+    "duration_sec": 59,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:55Z",
+      "fetched": "2026-07-08T18:10:23Z",
+      "flags_detected": "2026-07-08T18:10:25Z",
+      "transcribed": "2026-07-08T18:10:25Z"
+    },
+    "title": "Как понять, ЧТО ты делаешь НЕ ТАК? Трейлер канала МИША ТОКОВИНИН",
+    "url": "https://www.youtube.com/watch?v=VbJHJBkbC8U"
+  },
+  "W7f4aSGQAGY": {
+    "duration_sec": 667,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.63,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.6/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:57Z",
+      "fetched": "2026-07-08T18:07:53Z",
+      "flags_detected": "2026-07-08T18:07:56Z",
+      "transcribed": "2026-07-08T18:07:55Z"
+    },
+    "title": "КОПИТЬ или ТРАТИТЬ? Про кредиты, инфляцию и меценатов | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=W7f4aSGQAGY"
+  },
+  "Y6e1GUTsH0M": {
+    "duration_sec": 5069,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:14:59Z",
+      "fetched": "2026-07-08T18:08:28Z",
+      "flags_detected": "2026-07-08T18:08:31Z",
+      "transcribed": "2026-07-08T18:08:31Z"
+    },
+    "title": "Как понять, что ты НЕ предприниматель? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=Y6e1GUTsH0M"
+  },
+  "ZS5fd3f_Lek": {
+    "duration_sec": 4981,
+    "flags": {},
+    "status": {
+      "fetched": "2026-07-08T18:04:13Z",
+      "transcribed": "2026-07-08T18:04:16Z"
+    },
+    "title": "ПРОПАГАНДА НИЩЕТЫ. Как нам рекламируют бедность? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=ZS5fd3f_Lek"
+  },
   "a8a-hy31pdI": {
     "duration_sec": 1529,
     "flags": {
@@ -25,5 +990,511 @@
     },
     "title": "Какие времена — ТАКИЕ И МЕРЫ | Миша Токовинин",
     "url": "https://www.youtube.com/watch?v=a8a-hy31pdI"
+  },
+  "bVUDiWNNW_4": {
+    "duration_sec": 698,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:01Z",
+      "fetched": "2026-07-08T18:04:56Z",
+      "flags_detected": "2026-07-08T18:05:00Z",
+      "transcribed": "2026-07-08T18:05:00Z"
+    },
+    "title": "Куда ВКЛАДЫВАТЬ ДЕНЬГИ и как не ПОЕХАТЬ КУКУХОЙ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=bVUDiWNNW_4"
+  },
+  "dcoh3uFbay8": {
+    "duration_sec": 612,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:03Z",
+      "fetched": "2026-07-08T18:08:22Z",
+      "flags_detected": "2026-07-08T18:08:24Z",
+      "transcribed": "2026-07-08T18:08:24Z"
+    },
+    "title": "НЕ УВОЛЬНЯЙСЯ, пока не посмотришь это видео! | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=dcoh3uFbay8"
+  },
+  "fi7GI4hyIJc": {
+    "duration_sec": 1384,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.69,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.7/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:06Z",
+      "fetched": "2026-07-08T18:07:38Z",
+      "flags_detected": "2026-07-08T18:07:40Z",
+      "transcribed": "2026-07-08T18:07:40Z"
+    },
+    "title": "ПЕРВЫЙ БИЗНЕС: любимые грабли новичков | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=fi7GI4hyIJc"
+  },
+  "fsB1v57M6gc": {
+    "duration_sec": 768,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.31,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.3/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:07Z",
+      "fetched": "2026-07-08T18:03:25Z",
+      "flags_detected": "2026-07-08T18:03:27Z",
+      "transcribed": "2026-07-08T18:03:27Z"
+    },
+    "title": "Что делать, если вырос в КРЕСТЬЯНСКОЙ СЕМЬЕ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=fsB1v57M6gc"
+  },
+  "ft-U30g6vZ8": {
+    "duration_sec": 613,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.1,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.1/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:09Z",
+      "fetched": "2026-07-08T18:07:58Z",
+      "flags_detected": "2026-07-08T18:08:03Z",
+      "transcribed": "2026-07-08T18:08:03Z"
+    },
+    "title": "Как открыть БИЗНЕС, который НЕ ПРОГОРИТ? Миша Токовинин про демпинг и глупые ошибки",
+    "url": "https://www.youtube.com/watch?v=ft-U30g6vZ8"
+  },
+  "gkl500isrdk": {
+    "duration_sec": 1220,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.84,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.8/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:12Z",
+      "fetched": "2026-07-08T18:07:09Z",
+      "flags_detected": "2026-07-08T18:07:12Z",
+      "transcribed": "2026-07-08T18:07:12Z"
+    },
+    "title": "Малый Бизнес в России НЕ НУЖЕН? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=gkl500isrdk"
+  },
+  "i61OJFWs45k": {
+    "duration_sec": 4413,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:14Z",
+      "fetched": "2026-07-08T18:09:08Z",
+      "flags_detected": "2026-07-08T18:09:11Z",
+      "transcribed": "2026-07-08T18:09:11Z"
+    },
+    "title": "ДИСЦИПЛИНА И ВЫГОРАНИЕ. Мегавыпуск | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=i61OJFWs45k"
+  },
+  "iKiLX0sT9eg": {
+    "duration_sec": 620,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:16Z",
+      "fetched": "2026-07-08T18:10:18Z",
+      "flags_detected": "2026-07-08T18:10:20Z",
+      "transcribed": "2026-07-08T18:10:20Z"
+    },
+    "title": "Работают ли МАРАФОНЫ ЖЕЛАНИЙ, как перестать СКРОЛЛИТЬ и зачем делать ГЛУПОСТИ?",
+    "url": "https://www.youtube.com/watch?v=iKiLX0sT9eg"
+  },
+  "ib_wkRFdhZg": {
+    "duration_sec": 653,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:18Z",
+      "fetched": "2026-07-08T18:08:42Z",
+      "flags_detected": "2026-07-08T18:08:45Z",
+      "transcribed": "2026-07-08T18:08:45Z"
+    },
+    "title": "ИЩУ ПАРТНЁРА! | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=ib_wkRFdhZg"
+  },
+  "idVQwjA0dGM": {
+    "duration_sec": 1330,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 1.31,
+        "matched_keywords": [],
+        "reason": "'>>' rate 1.3/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:20Z",
+      "fetched": "2026-07-08T18:06:27Z",
+      "flags_detected": "2026-07-08T18:06:29Z",
+      "transcribed": "2026-07-08T18:06:29Z"
+    },
+    "title": "Малый бизнес против корпораций: КТО ВЫЖИВЕТ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=idVQwjA0dGM"
+  },
+  "jOVw2MeStus": {
+    "duration_sec": 664,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:22Z",
+      "fetched": "2026-07-08T18:09:13Z",
+      "flags_detected": "2026-07-08T18:09:15Z",
+      "transcribed": "2026-07-08T18:09:15Z"
+    },
+    "title": "ПОТРАТЬ МОЛОДОСТЬ НА РАБОТУ | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=jOVw2MeStus"
+  },
+  "le9DzjPlUd8": {
+    "duration_sec": 647,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:24Z",
+      "fetched": "2026-07-08T18:08:38Z",
+      "flags_detected": "2026-07-08T18:08:40Z",
+      "transcribed": "2026-07-08T18:08:40Z"
+    },
+    "title": "Авторитаризм или Демократия? Советы астролога | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=le9DzjPlUd8"
+  },
+  "n3XqG2vLRq4": {
+    "duration_sec": 531,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:27Z",
+      "fetched": "2026-07-08T18:05:36Z",
+      "flags_detected": "2026-07-08T18:05:39Z",
+      "transcribed": "2026-07-08T18:05:39Z"
+    },
+    "title": "Как наш мозг принимает решения?",
+    "url": "https://www.youtube.com/watch?v=n3XqG2vLRq4"
+  },
+  "nDHorEvVyBM": {
+    "duration_sec": 3991,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.38,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.4/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:29Z",
+      "fetched": "2026-07-08T18:08:06Z",
+      "flags_detected": "2026-07-08T18:08:09Z",
+      "transcribed": "2026-07-08T18:08:09Z"
+    },
+    "title": "Жестокость и справедливость КАПИТАЛИЗМА. Как жить в современных реалиях? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=nDHorEvVyBM"
+  },
+  "qHUt_4NaBdQ": {
+    "duration_sec": 1494,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.68,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.7/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:31Z",
+      "fetched": "2026-07-08T18:06:51Z",
+      "flags_detected": "2026-07-08T18:06:52Z",
+      "transcribed": "2026-07-08T18:06:52Z"
+    },
+    "title": "КУДА катят мир ТОРГАШИ И СПЕКУЛЯНТЫ? | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=qHUt_4NaBdQ"
+  },
+  "rQgtiOXaGQE": {
+    "duration_sec": 926,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.58,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.6/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:33Z",
+      "fetched": "2026-07-08T18:03:08Z",
+      "flags_detected": "2026-07-08T18:03:11Z",
+      "transcribed": "2026-07-08T18:03:11Z"
+    },
+    "title": "ЦИНИЧНАЯ ПРАВДА о начальниках и подчиненных |   Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=rQgtiOXaGQE"
+  },
+  "ryoQ1FcKTrU": {
+    "duration_sec": 1369,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.75,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.7/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:34Z",
+      "fetched": "2026-07-08T18:07:28Z",
+      "flags_detected": "2026-07-08T18:07:30Z",
+      "transcribed": "2026-07-08T18:07:30Z"
+    },
+    "title": "Все, что ты хотел знать в 17 лет | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=ryoQ1FcKTrU"
+  },
+  "s9Y4ttuLmvc": {
+    "duration_sec": 598,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:36Z",
+      "fetched": "2026-07-08T18:09:53Z",
+      "flags_detected": "2026-07-08T18:09:55Z",
+      "transcribed": "2026-07-08T18:09:55Z"
+    },
+    "title": "Куда УХОДЯТ ДЕНЬГИ и как их ОСТАНОВИТЬ?",
+    "url": "https://www.youtube.com/watch?v=s9Y4ttuLmvc"
+  },
+  "sTx5kEZMeXw": {
+    "duration_sec": 763,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:38Z",
+      "fetched": "2026-07-08T18:09:18Z",
+      "flags_detected": "2026-07-08T18:09:20Z",
+      "transcribed": "2026-07-08T18:09:20Z"
+    },
+    "title": "ПРАВИЛА ЖИЗНИ НА 2025-й год | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=sTx5kEZMeXw"
+  },
+  "uTaJ-XlzFP8": {
+    "duration_sec": 673,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:40Z",
+      "fetched": "2026-07-08T18:09:01Z",
+      "flags_detected": "2026-07-08T18:09:03Z",
+      "transcribed": "2026-07-08T18:09:03Z"
+    },
+    "title": "ГДЕ МНОГО ПЛАТЯТ? Мифы о зарплатах | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=uTaJ-XlzFP8"
+  },
+  "wmlJTzB84wE": {
+    "duration_sec": 655,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:42Z",
+      "fetched": "2026-07-08T18:10:12Z",
+      "flags_detected": "2026-07-08T18:10:15Z",
+      "transcribed": "2026-07-08T18:10:15Z"
+    },
+    "title": "Как маленький бизнес становится БОЛЬШИМ и где искать НАСТАВНИКА?",
+    "url": "https://www.youtube.com/watch?v=wmlJTzB84wE"
+  },
+  "ybhcNd7aLBg": {
+    "duration_sec": 604,
+    "flags": {
+      "possible_other_speakers": {
+        "marker_rate_per_min": 0.0,
+        "matched_keywords": [],
+        "reason": "'>>' rate 0.0/min below threshold, no keyword match",
+        "value": false
+      },
+      "possible_sponsor_intro": {
+        "reason": "no sponsor keywords found in first 90s",
+        "value": false
+      }
+    },
+    "status": {
+      "compressed": "2026-07-08T18:15:44Z",
+      "fetched": "2026-07-08T18:03:43Z",
+      "flags_detected": "2026-07-08T18:03:47Z",
+      "transcribed": "2026-07-08T18:03:47Z"
+    },
+    "title": "Осознанно ПРОСРАЛ МИЛЛИАРДЫ | Миша Токовинин",
+    "url": "https://www.youtube.com/watch?v=ybhcNd7aLBg"
   }
 }
