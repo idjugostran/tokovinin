@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -35,12 +35,18 @@ updated: 2026-08-15
 
 Биографические факты из источников: первые сайты продавал через ООО
 приятеля, до регистрации собственного юрлица
-([[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)]).
+([[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)]);
+первые 7–8 лет бизнеса личных денег не видел — росли компания, компетенции
+и связи; отец — астрофизик, принципиально не хотевший быть начальником;
+в юности пробовал писать музыку и бросил, признав отсутствие таланта
+([[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)],
+[[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)]).
 
 ## Appearances in Sources
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — ответы на вопросы: деньги, сила/слабость, потенциал, приоритеты целей
 - [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] — медиапопулизм, доверие, стоимость денег, запас прочности, консалтинг
+- [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — мегавыпуск: ошибки, капитал, ниша, дело жизни, мечты, деньги
 
 ## Related Concepts
 

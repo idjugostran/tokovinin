@@ -3,7 +3,7 @@ title: Менять обстоятельства, а не себя
 category: Concepts
 summary: Из двух путей развития — чинить свои слабости или выбирать обстоятельства под сильные стороны — второй «всегда выигрышный»
 tags: [concept]
-sources: [bolshe-tratish-bolshe-poluchaesh]
+sources: [bolshe-tratish-bolshe-poluchaesh, kak-izbezhat-oshibok-v-biznese]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -24,9 +24,16 @@ updated: 2026-08-15
 переть и расти».[^1] Как искать это сильное — см.
 [[gotov-delat-besplatno](pages/gotov-delat-besplatno.md)].
 
+В мегавыпуске принцип доведён до жизненной стратегии — «сёрфер на волне»:
+«ты не создаёшь волну, твоя задача её поймать и не обосраться»; дело жизни
+не выбирают, а «правильно отыгрывают обстоятельства, в которых ты
+оказался» («если у твоего папы автомобильный завод — нехрен играть на
+скрипке»).[^3]
+
 ## Appearances in Sources
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — ответы про «как стать сильным в общении» и уличные драки
+- [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — «сёрфер на волне», отыгрывание обстоятельств вместо поиска дела жизни
 
 ## Related Concepts
 
@@ -35,3 +42,4 @@ updated: 2026-08-15
 
 [^1]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [4:18] — «есть два пути менять себя менять обстоятельства чтобы они были наиболее подходящими тебе второй всегда выигрышный»
 [^2]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [3:35] — «обезьяны захватили мир не руками а мозгом умные всё равно побеждают Зачем становиться каратистом»
+[^3]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [24:11] — «ты не управляешь своей жизнью, ты в каком-то смысле сёрфер на волне ... успех в том, чтобы не создавать [обстоятельства], а их отыграть»

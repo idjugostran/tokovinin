@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese]
 updated: 2026-08-15
 ---
 
@@ -34,6 +34,23 @@ updated: 2026-08-15
 к медийным советчикам — презумпция популизма
 ([[mediynyy-populizm](pages/mediynyy-populizm.md)]).
 
+Мегавыпуск добавил вторую опору синтеза: успех меньше зависит от
+«правильности» исполнителя, чем принято думать. Ошибки обязательны и
+несократимы ([[oshibki-obyazatelny](pages/oshibki-obyazatelny.md)]), бизнес
+растёт «вопреки косякам», если ниша прёт, а тайминг важнее темы — «ты
+никогда не опоздаешь» ([[nisha-i-tayming](pages/nisha-i-tayming.md)]).
+Дело жизни не выбирают: «сёрфер на волне» отыгрывает обстоятельства
+(развитие [[menyat-obstoyatelstva-a-ne-sebya](pages/menyat-obstoyatelstva-a-ne-sebya.md)]).
+Капитал — произведение денег, компетенций и ресурсов
+([[kapital-tri-mnozhitelya](pages/kapital-tri-mnozhitelya.md)]); на большом
+масштабе деньги — очки в тетрисе, любить их нельзя
+([[dengi-kak-ochki-v-tetrise](pages/dengi-kak-ochki-v-tetrise.md)]).
+Взрослая постановка целей — хотеть, а не мечтать
+([[hotet-a-ne-mechtat](pages/hotet-a-ne-mechtat.md)]); к партнёрствам —
+«нет хорошего, есть подходящий», и важнее уметь развестись
+([[umet-razvestis](pages/umet-razvestis.md)]); к продукту — любить машину,
+а не стулья ([[lyubit-zavod-a-ne-stulya](pages/lyubit-zavod-a-ne-stulya.md)]).
+
 ## Open Questions
 
 - Как рамка «марафона» уживается с его же советами про быстрые проверки
@@ -41,6 +58,11 @@ updated: 2026-08-15
 - Кредиты: «лучшие деньги» для модели, окупающей ставку, но «категорически
   нет» малому бизнесу и потребителю. Где у него граница между этими
   режимами — по маржинальности, по размеру, по предсказуемости?
+- «Трать меньше, чем зарабатываешь» и «деньги надо тратить не с умом, а с
+  удовольствием» — не противоречие (сколько vs на что), но граница между
+  «дичью, которую надо успеть сделать» и «кредитной BMW» пока сформулирована
+  только через чужие деньги (кредит) и возраст. Уточнится следующими
+  источниками?
 
 ## Key Entities / Concepts
 
@@ -53,3 +75,10 @@ updated: 2026-08-15
 - [[stoimost-deneg](pages/stoimost-deneg.md)]
 - [[u-kazhdogo-est-tsena](pages/u-kazhdogo-est-tsena.md)]
 - [[mediynyy-populizm](pages/mediynyy-populizm.md)]
+- [[oshibki-obyazatelny](pages/oshibki-obyazatelny.md)]
+- [[kapital-tri-mnozhitelya](pages/kapital-tri-mnozhitelya.md)]
+- [[nisha-i-tayming](pages/nisha-i-tayming.md)]
+- [[umet-razvestis](pages/umet-razvestis.md)]
+- [[lyubit-zavod-a-ne-stulya](pages/lyubit-zavod-a-ne-stulya.md)]
+- [[hotet-a-ne-mechtat](pages/hotet-a-ne-mechtat.md)]
+- [[dengi-kak-ochki-v-tetrise](pages/dengi-kak-ochki-v-tetrise.md)]
