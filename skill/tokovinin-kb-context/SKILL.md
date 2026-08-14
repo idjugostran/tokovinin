@@ -84,10 +84,11 @@ Loading all of it is the failure mode this two-step layout exists to prevent.
   "этого видео пока нет в базе" - not an attempt to process it.
 - **Where the base comes from** (background, not something a user of this
   skill has to do): a separate skill in the same repo, `tokovinin-video-flow`,
-  runs the pipeline on the maintainer's machine every 3 hours and commits new
-  entries. It needs `yt-dlp`, the Hermes CLI and cron, so it is deliberately
-  *not* part of this standalone install. Nobody reading the base needs it -
-  the HTTP source is always the current published state.
+  builds these files from YouTube captions and is run by the maintainer. It
+  needs `yt-dlp`, the Hermes CLI and cron, so it is deliberately *not* part of
+  this standalone install. Nobody reading the base needs it - the HTTP source
+  is always the current published state. It is not on a schedule, so treat the
+  base as "everything processed so far", not "everything on the channel".
 - **Portable by design - no scripts, no dependencies, one file.** In Hermes
   it's registered automatically alongside `tokovinin-video-flow` (`setup.sh`
   adds the whole `skill/` parent dir to `skills.external_dirs`). Standalone
