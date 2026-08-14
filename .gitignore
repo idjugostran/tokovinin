@@ -7,3 +7,7 @@ __pycache__/
 # compressed into kb/videos/<id>.md - keeping it out means a clone of this
 # public repo stays small. It's still written locally as an audit trail.
 transcripts/
+
+# Audit reports are regenerated local-only artifacts (wiki-audit). The committed record
+# of an audit is the `review:` frontmatter token on the audited page, not the report.
+wiki/pages/audit-*.md
