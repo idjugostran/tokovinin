@@ -3,7 +3,7 @@ title: Капитал — три множителя
 category: Concepts
 summary: Капитал = деньги × компетенции × ресурсы (энергия, здоровье, связи); в молодости растят неденежные множители — конвертация в деньги произойдёт сама
 tags: [concept, money, career]
-sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym, kak-ii-izmenit-mir]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -26,11 +26,20 @@ updated: 2026-08-15
 первые 7–8 лет бизнеса «денег не видел», но росли компания, компетенции и
 связи — «когда я захотел, сказал: пора кассировать».[^1]
 
+Наглядный пример монетизации некоторых множителей после долгого
+накопления — американские врачи: «полжизни работают в госпитале,
+нарабатывают клиентскую базу, опыт, репутацию», а потом уходят в частную
+практику. Открыть частную практику в 20 лет — «zero chances», в 50 лет с
+наработанной репутацией шансы на успех приближаются к 100%. Логика
+переносится на любую специальность: сначала растишь компетенции и
+ресурсы в найме, затем конвертируешь их в свой малый бизнес.[^2]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответ про стартовый капитал и конвертацию
 - [[kakaya-zhenshchina-sdelaet-uspeshnym](pages/kakaya-zhenshchina-sdelaet-uspeshnym.md)] — тот же ответ в коротком перемонтаже [0:00]
 - [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — нетворкинг как обмен: «ты должен что-то из себя представлять» [41:06]
+- [[kak-ii-izmenit-mir](pages/kak-ii-izmenit-mir.md)] [9:11] — пример врачей: наём как накопление, частная практика как конвертация
 
 ## Related Concepts
 
@@ -38,3 +47,4 @@ updated: 2026-08-15
 - [[dengi-kak-ochki-v-tetrise](pages/dengi-kak-ochki-v-tetrise.md)] — почему фиксация на денежном множителе мешает
 
 [^1]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [5:01] — «капитал состоит из трёх множителей ... ты на самом деле потом в течение своей жизни обмениваешь ресурсы, здоровье, связи, друзей и компетенции на деньги»
+[^2]: [[kak-ii-izmenit-mir](pages/kak-ii-izmenit-mir.md)] [9:11] — «врач полжизни работает на репутацию и компетенции, а потом монетизирует это через частную практику ... твои шансы на успех приближаются к 100%»

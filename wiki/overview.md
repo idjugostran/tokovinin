@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir]
 updated: 2026-08-15
 ---
 
@@ -112,6 +112,19 @@ updated: 2026-08-15
 ([[konkuriruy-tsennostyu-a-ne-zapretom](pages/konkuriruy-tsennostyu-a-ne-zapretom.md)]).
 Движение FIRE — обходной путь к тому, что можно сделать сразу
 ([[kritika-dvizheniya-fire](pages/kritika-dvizheniya-fire.md)]).
+
+Батч 3 закрылся единственным источником про ИИ: вторая большая
+технологическая революция в жизни поколения, аналог интернета, изменения
+масштабные, но плавные
+([[ii-vtoraya-tehnologicheskaya-revolyutsiya](pages/ii-vtoraya-tehnologicheskaya-revolyutsiya.md)]).
+Плюс три практических бизнес-приёма: моно-продукт до потолка ёмкости
+рынка
+([[emkost-rynka-modul-rasshireniya](pages/emkost-rynka-modul-rasshireniya.md)]),
+новые налоги — в цену, отдельной строкой
+([[vydeli-nalog-otdelnoy-strokoy](pages/vydeli-nalog-otdelnoy-strokoy.md)]),
+и малоплатящие требовательные клиенты как источник роста качества, а не
+проблема
+([[trebovatelnye-kliency-podnimayut-planku](pages/trebovatelnye-kliency-podnimayut-planku.md)]).
 
 ## Open Questions
 
@@ -225,3 +238,7 @@ updated: 2026-08-15
 - [[brend-eto-pozicionirovanie-ne-luchshiy](pages/brend-eto-pozicionirovanie-ne-luchshiy.md)]
 - [[konkuriruy-tsennostyu-a-ne-zapretom](pages/konkuriruy-tsennostyu-a-ne-zapretom.md)]
 - [[kritika-dvizheniya-fire](pages/kritika-dvizheniya-fire.md)]
+- [[ii-vtoraya-tehnologicheskaya-revolyutsiya](pages/ii-vtoraya-tehnologicheskaya-revolyutsiya.md)]
+- [[emkost-rynka-modul-rasshireniya](pages/emkost-rynka-modul-rasshireniya.md)]
+- [[vydeli-nalog-otdelnoy-strokoy](pages/vydeli-nalog-otdelnoy-strokoy.md)]
+- [[trebovatelnye-kliency-podnimayut-planku](pages/trebovatelnye-kliency-podnimayut-planku.md)]
