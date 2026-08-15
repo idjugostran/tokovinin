@@ -3,7 +3,7 @@ title: Кассовый разрыв — здоровый и нездоровы�
 category: Concepts
 summary: От внешнего непредсказуемого события — тащить бизнес любой ценой; от собственной ошибочной бизнес-модели — иногда правильный выход не занимать снова, а закрыться, пока долг небольшой
 tags: [concept, business, money]
-sources: [kak-ponyat-chto-ty-ne-predprinimatel]
+sources: [kak-ponyat-chto-ty-ne-predprinimatel, ischu-partnyora]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -32,6 +32,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — ответ про выход из кассового разрыва
+- [[ischu-partnyora](pages/ischu-partnyora.md)] [7:10] — тот же ответ почти дословно, в перемонтаже
 
 ## Related Concepts
 
