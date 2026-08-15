@@ -3,7 +3,7 @@ title: Продавай раньше, чем готово
 category: Concepts
 summary: Продукт готов к продаже сразу — MVP находится в момент первой покупки; даже офлайн-бизнес можно валидировать до ремонта, а продвинутая версия — продавать «услуги из будущего» со скидкой за ожидание
 tags: [concept, business]
-sources: [kak-izmenit-zhizn-taksisty]
+sources: [kak-izmenit-zhizn-taksisty, distsiplina-i-vygoranie]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,6 +30,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-izmenit-zhizn-taksisty](pages/kak-izmenit-zhizn-taksisty.md)] — ответ про готовность продукта к продаже
+- [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — тот же ответ в мегавыпуске [41:25]
 
 ## Related Concepts
 

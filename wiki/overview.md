@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie]
 updated: 2026-08-15
 ---
 
@@ -160,3 +160,11 @@ updated: 2026-08-15
 - [[esli-vokrug-vse-tupye-vyydi](pages/esli-vokrug-vse-tupye-vyydi.md)]
 - [[deshevoe-slozhnee-dorogogo](pages/deshevoe-slozhnee-dorogogo.md)]
 - [[rabota-ne-ravna-identichnosti](pages/rabota-ne-ravna-identichnosti.md)]
+- [[oshibka-vyzhivshego-uporstvo](pages/oshibka-vyzhivshego-uporstvo.md)]
+- [[sobstvennik-i-ostatochnye-prava](pages/sobstvennik-i-ostatochnye-prava.md)]
+- [[plan-veroyatnostnyy](pages/plan-veroyatnostnyy.md)]
+- [[dumat-dolgami-a-ne-tolko-prihodom](pages/dumat-dolgami-a-ne-tolko-prihodom.md)]
+- [[ne-riskovat-eto-tozhe-stavka](pages/ne-riskovat-eto-tozhe-stavka.md)]
+- [[potok-eto-mif-est-distsiplina](pages/potok-eto-mif-est-distsiplina.md)]
+- [[rabotat-skolko-lyubish-no-ne-nochyu](pages/rabotat-skolko-lyubish-no-ne-nochyu.md)]
+- [[vyuchennaya-bespomoshchnost](pages/vyuchennaya-bespomoshchnost.md)]

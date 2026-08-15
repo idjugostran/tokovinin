@@ -3,7 +3,7 @@ title: Не дано vs просрал
 category: Concepts
 summary: «Не дано» — природное ограничение, «я всё просрал» — собственный выбор; это разные вещи, но почти всегда, когда человек говорит первое, на деле верно второе
 tags: [concept, psychology, career]
-sources: [kak-izmenit-zhizn-taksisty]
+sources: [kak-izmenit-zhizn-taksisty, distsiplina-i-vygoranie]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -24,6 +24,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-izmenit-zhizn-taksisty](pages/kak-izmenit-zhizn-taksisty.md)] — ответ про страх попросить повышение
+- [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — тот же ответ в мегавыпуске [37:34]
 
 ## Related Concepts
 

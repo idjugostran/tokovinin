@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -73,6 +73,7 @@ updated: 2026-08-15
 - [[kak-izmenit-zhizn-taksisty](pages/kak-izmenit-zhizn-taksisty.md)] — не дано vs просрал, чек и достоинство, MVP
 - [[pokupka-kvartiry-rebenku-monopolii](pages/pokupka-kvartiry-rebenku-monopolii.md)] — перемонтаж; новое: «если все тупые — выйди из комнаты»
 - [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] — реакция: Logan vs Ferrari, кладовки, инфоцыганство, зумеры
+- [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — мегавыпуск: упёртость, планирование, риск, поток, беспомощность
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Уметь развестись
 category: Concepts
 summary: Правильно выбрать партнёра (в браке и бизнесе) почти невозможно — «нет хорошего, есть подходящий»; настоящая ошибка — не разойтись, когда знаешь, что не то
 tags: [concept, relationships, business]
-sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, distsiplina-i-vygoranie]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,6 +30,7 @@ updated: 2026-08-15
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответы про выбор партнёра для жизни и бизнеса
 - [[kakaya-zhenshchina-sdelaet-uspeshnym](pages/kakaya-zhenshchina-sdelaet-uspeshnym.md)] — «нет хорошего — есть подходящее» о поддержке в паре [6:17]
+- [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — «я или бизнес» как признак абьюзивных отношений [1:01:32]
 
 ## Related Concepts
 
@@ -38,3 +39,4 @@ updated: 2026-08-15
 
 [^1]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [9:07] — «хороший партнёр по бизнесу - это прежде всего тот, кто умеет быть разным и меняться вместе с этим бизнесом ... в какой-то момент любую компетенцию можно будет купить»
 [^2]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [11:11] — «не развестись - это выбор ... секрет даже не в том, как выбирать, а в том ... как уметь развестись»
+[^3]: [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] [1:01:32] — «девушка мешает бизнесу — это типичный признак абьюзивных отношений, их надо заканчивать»

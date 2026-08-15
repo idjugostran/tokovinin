@@ -3,7 +3,7 @@ title: Перемены требуют накопленного напряжен
 category: Concepts
 summary: Люди всегда заложники обстоятельств, но могут их менять; перемена случается не сразу, а когда неудовлетворённость накопится от «просто плохо» до «невыносимо» — как вода замерзает не при нуле, а ниже
 tags: [concept, psychology]
-sources: [kak-izmenit-zhizn-taksisty]
+sources: [kak-izmenit-zhizn-taksisty, distsiplina-i-vygoranie]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,6 +30,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-izmenit-zhizn-taksisty](pages/kak-izmenit-zhizn-taksisty.md)] — ответ про «заложника своей ситуации»
+- [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — тот же ответ в мегавыпуске [59:11]
 
 ## Related Concepts
 

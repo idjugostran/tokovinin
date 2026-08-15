@@ -3,7 +3,7 @@ title: Чек определяет достоинство отношений
 category: Concepts
 summary: Дешёвая услуга рождает взаимный выпендрёж продавца и покупателя («парад тщеславия»); высокий чек снимает унижение с обеих сторон — дело не в профессии, а в цене
 tags: [concept, business, pricing, psychology]
-sources: [kak-izmenit-zhizn-taksisty]
+sources: [kak-izmenit-zhizn-taksisty, distsiplina-i-vygoranie]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -28,6 +28,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-izmenit-zhizn-taksisty](pages/kak-izmenit-zhizn-taksisty.md)] — разбор «почему таксисты такие умные»
+- [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — тот же ответ в мегавыпуске [20:49]
 
 ## Related Concepts
 
