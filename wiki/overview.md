@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema]
 updated: 2026-08-15
 ---
 
@@ -135,7 +135,16 @@ updated: 2026-08-15
 ([[prodazha-doli-tolko-dlya-snizheniya-riska](pages/prodazha-doli-tolko-dlya-snizheniya-riska.md)]);
 остальные его ответы (скучный бизнес vs оригинальная идея, хобби vs
 монетизация, нетворкинг) расширили уже существующие концепции свежими
-примерами и цитатами.
+примерами и цитатами. Следующий источник дал сразу четыре новые
+концепции: инвесторы должны приходить сами, а не наоборот
+([[investory-dolzhny-prihodit-sami](pages/investory-dolzhny-prihodit-sami.md)]);
+операционный беспорядок — тоже система, судить компанию можно только по
+прибыли
+([[besporyadok-eto-tozhe-sistema](pages/besporyadok-eto-tozhe-sistema.md)]);
+сотрудники сами оплачивают лишних коллег через недополученную прибавку
+([[sotrudniki-sami-oplachivayut-bezdelnikov](pages/sotrudniki-sami-oplachivayut-bezdelnikov.md)]);
+продажа определена как сокращение трудозатрат покупателя
+([[prodazha-eto-sokrashchenie-truda-pokupatelya](pages/prodazha-eto-sokrashchenie-truda-pokupatelya.md)]).
 
 ## Open Questions
 
@@ -255,3 +264,7 @@ updated: 2026-08-15
 - [[trebovatelnye-kliency-podnimayut-planku](pages/trebovatelnye-kliency-podnimayut-planku.md)]
 - [[internet-blizhe-k-mysleniyu-chem-kniga](pages/internet-blizhe-k-mysleniyu-chem-kniga.md)]
 - [[prodazha-doli-tolko-dlya-snizheniya-riska](pages/prodazha-doli-tolko-dlya-snizheniya-riska.md)]
+- [[investory-dolzhny-prihodit-sami](pages/investory-dolzhny-prihodit-sami.md)]
+- [[besporyadok-eto-tozhe-sistema](pages/besporyadok-eto-tozhe-sistema.md)]
+- [[sotrudniki-sami-oplachivayut-bezdelnikov](pages/sotrudniki-sami-oplachivayut-bezdelnikov.md)]
+- [[prodazha-eto-sokrashchenie-truda-pokupatelya](pages/prodazha-eto-sokrashchenie-truda-pokupatelya.md)]

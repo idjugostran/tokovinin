@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -34,6 +34,13 @@ updated: 2026-08-15
 2.0») к этому набору добавляется задача создать спрос с нуля, что «очень-очень
 тяжело», и умножает все обычные проблемы бизнеса «на 100», потому что
 занимаешься «неведомой хренью».[^9]
+
+Симметричный совет для умирающей фазы — уходить рано, а не пытаться
+пережить конкурентов: если рынок скатился в демпинговую гонку и маржа у
+всех упала до 2–3%, «единственное, что может спасти этот рынок, — что он
+весь сдохнет»; стратегия «худой сдохнет, я как самый жирный выживу
+последним» плохая, потому что затянувшаяся борьба разрушает рынок
+настолько, что победитель остаётся один с той же убийственной маржой.[^10]
 
 Обратная сторона той же силы — рост прощает исполнение:
 «бизнес растёт не благодаря твоим усилиям, а вопреки твоим косякам», и
@@ -76,6 +83,7 @@ updated: 2026-08-15
 - [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] — копируй успешное с других рынков (Crunchbase) [10:02]
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [42:16, 45:00, 1:02:58] — фазы жизненного цикла ниши, Вкусвилл, «продавай лопаты»
 - [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — доставка пиццы vs секондхенд-одежда как оригинальная идея
+- [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [4:39] — выход с рынка, скатившегося в демпинговую войну
 
 ## Related Concepts
 
@@ -93,3 +101,4 @@ updated: 2026-08-15
 [^7]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [1:02:58] — «и как бы, и перестань искать золото, начни продавать лопаты»
 [^8]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [45:00] — «в девяти из десяти случаев вопреки ... 90% она выросла и преуспела не благодаря этому, а вопреки этому»
 [^9]: [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — «одно дело ты доставляешь пиццу — просто обсудить спрос и решать логистические, кадровые, производственные проблемы ... давайте возьмём неведомую хрень — очень мало шансов на успех»
+[^10]: [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [4:39] — «если рынок превратился в такую кровавую баню, что маржа опустилась до 3%, надо как можно быстрее убегать ... всерьёз рассчитывать, что я сдохну последним, — это плохая тактика»
