@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu, gde-traderov-i-spekulyantov-vedut-mir]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -57,6 +57,14 @@ updated: 2026-08-15
 время, когда видно, кто купался без трусов»: слабые конкуренты тонут, а
 сильные забирают их долю.[^12]
 
+Про большие корпорации отдельно: они редко производят прерывную
+инновацию, потому что настоящая инновация требует уничтожения
+собственного текущего бизнеса, а «мало кто из больших корпораций на это
+действительно способен» — Kodak отменил цифровую камеру внутри себя; по
+легенде, Цукерберг говорил, что нужно каждый день работать над тем, что
+убьёт Facebook, потому что если не сделаешь этого сам, сделает
+конкурент.[^13]
+
 Обратная сторона той же силы — рост прощает исполнение:
 «бизнес растёт не благодаря твоим усилиям, а вопреки твоим косякам», и
 булочная вырастает в корпорацию не потому, что владелец умнел, — «тебя
@@ -101,6 +109,7 @@ updated: 2026-08-15
 - [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [4:39] — выход с рынка, скатившегося в демпинговую войну
 - [[kak-stat-horoshim-menedzherom](pages/kak-stat-horoshim-menedzherom.md)] [3:58] — Россия как высококонкурентный развитый рынок
 - [[kogo-nelzya-brat-na-rabotu](pages/kogo-nelzya-brat-na-rabotu.md)] [14:11] — <15% доли рынка — макроэкономика неважна, кризис вымывает слабых
+- [[gde-traderov-i-spekulyantov-vedut-mir](pages/gde-traderov-i-spekulyantov-vedut-mir.md)] [0:00, 8:09] — не будь первым (повтор), корпорации не могут разрушить сами себя
 
 ## Related Concepts
 
@@ -121,3 +130,4 @@ updated: 2026-08-15
 [^10]: [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [4:39] — «если рынок превратился в такую кровавую баню, что маржа опустилась до 3%, надо как можно быстрее убегать ... всерьёз рассчитывать, что я сдохну последним, — это плохая тактика»
 [^11]: [[kak-stat-horoshim-menedzherom](pages/kak-stat-horoshim-menedzherom.md)] [3:58] — «Россия в этом смысле намного больше похожа на Францию, чем на Зимбабве ... эта точка нулевой конкуренции возможна только во вновь зарождающихся нишах, и то очень недолго»
 [^12]: [[kogo-nelzya-brat-na-rabotu](pages/kogo-nelzya-brat-na-rabotu.md)] [14:11] — «если твоя рыночная доля в любой нише менее 15%, тебе вообще на макроэкономику наплевать ... кризис — время, когда видно, кто купался без трусов»
+[^13]: [[gde-traderov-i-spekulyantov-vedut-mir](pages/gde-traderov-i-spekulyantov-vedut-mir.md)] [8:09] — «любая настоящая инновация предполагает уничтожение предыдущего бизнеса. Мало кто из больших корпораций на это действительно способен»
