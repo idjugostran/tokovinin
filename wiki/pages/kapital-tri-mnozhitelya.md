@@ -3,7 +3,7 @@ title: Капитал — три множителя
 category: Concepts
 summary: Капитал = деньги × компетенции × ресурсы (энергия, здоровье, связи); в молодости растят неденежные множители — конвертация в деньги произойдёт сама
 tags: [concept, money, career]
-sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym, kak-ii-izmenit-mir, top-oshibki-nachinayushchih-predprinimateley]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym, kak-ii-izmenit-mir, top-oshibki-nachinayushchih-predprinimateley, everything-you-wanted-to-know-at-17]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -42,6 +42,20 @@ updated: 2026-08-15
 интересно/весело. Само по себе знакомство ничего не даёт — «ты должен
 что-то из себя для этих людей представлять».[^3]
 
+Возрастная иллюстрация к «сообщающимся сосудам»: 17–20 лет — уникальное
+время именно для роста связного множителя, а не денежного. «Это время
+уникального нетворка ... с нами легко дружится, у нас появляются общие
+воспоминания, общая молодость» — друзья, заведённые в этом возрасте,
+становятся самыми преданными; тратить эти годы на бизнес вместо этого —
+упущенная возможность, которую позже не наверстать («друга-программиста
+ты мог только в 14 лет заработать»).[^4]
+
+Отдельный практический принцип выбора первого дела — «смотреть в
+зеркало, а не на рынок»: первый бизнес строится на том, что уже есть —
+навыки, знакомства, ресурсы родителей. Поскольку в первом деле всё
+получается плохо в любом случае, не стоит добавлять к этому ещё и выбор
+занятия, к которому нет никаких предпосылок.[^4]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответ про стартовый капитал и конвертацию
@@ -49,6 +63,7 @@ updated: 2026-08-15
 - [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — нетворкинг как обмен: «ты должен что-то из себя представлять» [41:06]
 - [[kak-ii-izmenit-mir](pages/kak-ii-izmenit-mir.md)] [9:11] — пример врачей: наём как накопление, частная практика как конвертация
 - [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [8:44] — таксономия оснований для нетворкинга
+- [[everything-you-wanted-to-know-at-17](pages/everything-you-wanted-to-know-at-17.md)] [14:12, 17:57] — нетворкинг в 17 лет, первый бизнес «по зеркалу»
 
 ## Related Concepts
 
@@ -58,3 +73,4 @@ updated: 2026-08-15
 [^1]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [5:01] — «капитал состоит из трёх множителей ... ты на самом деле потом в течение своей жизни обмениваешь ресурсы, здоровье, связи, друзей и компетенции на деньги»
 [^2]: [[kak-ii-izmenit-mir](pages/kak-ii-izmenit-mir.md)] [9:11] — «врач полжизни работает на репутацию и компетенции, а потом монетизирует это через частную практику ... твои шансы на успех приближаются к 100%»
 [^3]: [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [8:44] — «ты должен что-то из себя для этих людей представлять ... само по себе знакомство тебе ничего не даёт»
+[^4]: [[everything-you-wanted-to-know-at-17](pages/everything-you-wanted-to-know-at-17.md)] [17:57] — «это время уникального нетворка ... первый бизнес — вы смотрите в зеркало и делаете то, что вы можете и что вам подходит»

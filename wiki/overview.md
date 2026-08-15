@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17]
 updated: 2026-08-15
 ---
 
@@ -164,6 +164,12 @@ updated: 2026-08-15
 эко-повестка крупного бизнеса — чаще маркетинг на реальной проблеме, чем
 реальное решение
 ([[ekopovestka-marketing-na-realnoy-probleme](pages/ekopovestka-marketing-na-realnoy-probleme.md)]).
+Выпуск, адресованный подросткам, дал два новых принципа: писать людям с
+конкретным мотивом, а не мифическим компаниям
+([[pishite-lyudyam-a-ne-kompaniyam](pages/pishite-lyudyam-a-ne-kompaniyam.md)]),
+и серьёзное долгосрочное планирование уместно только в период с 30 до 50
+лет — до этого задача найти рельсы, не встать на них
+([[vozrastnye-zadachi-planirovaniya](pages/vozrastnye-zadachi-planirovaniya.md)]).
 
 ## Open Questions
 
@@ -293,3 +299,5 @@ updated: 2026-08-15
 - [[tehnologii-globalny-konyunktura-lokalna](pages/tehnologii-globalny-konyunktura-lokalna.md)]
 - [[intuitsiya-slozhnaya-logika-ne-magiya](pages/intuitsiya-slozhnaya-logika-ne-magiya.md)]
 - [[ekopovestka-marketing-na-realnoy-probleme](pages/ekopovestka-marketing-na-realnoy-probleme.md)]
+- [[pishite-lyudyam-a-ne-kompaniyam](pages/pishite-lyudyam-a-ne-kompaniyam.md)]
+- [[vozrastnye-zadachi-planirovaniya](pages/vozrastnye-zadachi-planirovaniya.md)]
