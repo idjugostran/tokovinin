@@ -3,7 +3,7 @@ title: Цена не зависит от себестоимости
 category: Concepts
 summary: Цену занижает не рынок, а самооценка мастера — «он оценивает не товар, а себя»; лекарство — продавать должен другой, с мотивом поднимать цену
 tags: [concept, business, pricing, psychology]
-sources: [pochemu-ty-bednyy]
+sources: [pochemu-ty-bednyy, za-kakuyu-zarplatu-terpet-tok]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -35,6 +35,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — вязаные игрушки, мотоблогер, ресторан
+- [[za-kakuyu-zarplatu-terpet-tok](pages/za-kakuyu-zarplatu-terpet-tok.md)] — «продавать надо не только товар, но и себя» [4:15]
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Почему тебя не повышают
 category: Concepts
 summary: Начальник корыстно заинтересован делегировать и повышать тех, кто тянет; ценных быстро хантят — «если никто не хантит, может, проблема не в начальнике»
 tags: [concept, career]
-sources: [pochemu-ty-bednyy, kak-ponyat-chto-ty-ne-predprinimatel]
+sources: [pochemu-ty-bednyy, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -34,6 +34,7 @@ updated: 2026-08-15
 
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — развёрнутый ответ «оторванному от реальности»
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — топ-менеджеров драйвят идеи и амбиции, не зарплата [43:06]
+- [[za-kakuyu-zarplatu-terpet-tok](pages/za-kakuyu-zarplatu-terpet-tok.md)] — рынок труда как безличный оценщик [4:15]
 
 ## Related Concepts
 

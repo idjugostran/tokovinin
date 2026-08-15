@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -65,6 +65,7 @@ updated: 2026-08-15
 - [[gde-iskat-motivatsiyu](pages/gde-iskat-motivatsiyu.md)] — перемонтаж: деньги, траты, мечты
 - [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — мегавыпуск: монополия, диверсификация, дети, отдых, найм, счастье
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — мегавыпуск: авторитаризм, партнёрство, продажи, кассовый разрыв
+- [[za-kakuyu-zarplatu-terpet-tok](pages/za-kakuyu-zarplatu-terpet-tok.md)] — токсичный коллектив, продажа себя, кризис среднего возраста
 
 ## Related Concepts
 
