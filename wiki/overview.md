@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley]
 updated: 2026-08-15
 ---
 
@@ -179,3 +179,6 @@ updated: 2026-08-15
 - [[dumat-medlenno-esli-ne-professional](pages/dumat-medlenno-esli-ne-professional.md)]
 - [[pensiya-vezde-vyzhivanie](pages/pensiya-vezde-vyzhivanie.md)]
 - [[samorealizatsiya-cherez-nasledie](pages/samorealizatsiya-cherez-nasledie.md)]
+- [[martido-nakoplennaya-agressiya](pages/martido-nakoplennaya-agressiya.md)]
+- [[ambitsioznaya-tsel-kak-otmazka](pages/ambitsioznaya-tsel-kak-otmazka.md)]
+- [[zdorovyy-kompromiss](pages/zdorovyy-kompromiss.md)]

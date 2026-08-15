@@ -37,6 +37,7 @@ updated: 2026-08-15
 
 - [[gotov-delat-besplatno](pages/gotov-delat-besplatno.md)] — «хочу» проверяется действием, не декларацией
 - [[dengi-kak-ochki-v-tetrise](pages/dengi-kak-ochki-v-tetrise.md)] — цели без фетишизации результата
+- [[ambitsioznaya-tsel-kak-otmazka](pages/ambitsioznaya-tsel-kak-otmazka.md)] — та же безграничная цель, использованная как способ не действовать
 
 [^1]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [44:48] — «у хочу всегда есть цена ... мечта не имеет лимитов вообще никаких ... мы выросли из мечт»
 [^2]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [58:15] — «есть большая разница между хочу и хотелось бы ... публичная социальная декларация чего-либо - это на самом деле жутко эффективно»

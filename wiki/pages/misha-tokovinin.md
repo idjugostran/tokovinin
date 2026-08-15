@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -79,6 +79,7 @@ updated: 2026-08-15
 - [[moe-prizvanie-ne-rabotat](pages/moe-prizvanie-ne-rabotat.md)] — перемонтаж: чек-лист, где учиться, жена не хочет работать
 - [[trat-molodost-na-rabotu](pages/trat-molodost-na-rabotu.md)] — перемонтаж: работа без границ, пенсия, наследие
 - [[kak-malyy-biznes-stanovitsya-bolshim](pages/kak-malyy-biznes-stanovitsya-bolshim.md)] — перемонтаж: ниша, масштабирование, наставник
+- [[pochemu-ty-ne-dostigaesh-tseley](pages/pochemu-ty-ne-dostigaesh-tseley.md)] — мартидо, недостижимые цели, компромисс
 
 ## Related Concepts
 

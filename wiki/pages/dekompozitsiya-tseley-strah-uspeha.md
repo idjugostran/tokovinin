@@ -37,5 +37,6 @@ updated: 2026-08-15
 ## Related Concepts
 
 - [[hotet-a-ne-mechtat](pages/hotet-a-ne-mechtat.md)] — «хочу» как прикладная, ограниченная версия мечты
+- [[ambitsioznaya-tsel-kak-otmazka](pages/ambitsioznaya-tsel-kak-otmazka.md)] — та же большая цель, но со стороны саботажа, а не страха финала
 
 [^1]: [[kogda-idti-k-psihiatru-2](pages/kogda-idti-k-psihiatru-2.md)] [59:40] — «мы начинаем бояться этой цели ... всегда нужно идти от флажка к флажку»

@@ -33,5 +33,6 @@ updated: 2026-08-15
 ## Related Concepts
 
 - [[norma-i-vozmozhno](pages/norma-i-vozmozhno.md)] — другая ось той же темы: субъективные ограничения против реальности
+- [[martido-nakoplennaya-agressiya](pages/martido-nakoplennaya-agressiya.md)] — тот же фрейдистский словарь: либидо/мартидо вместо эго/суперэго
 
 [^1]: [[kogda-idti-k-psihiatru-2](pages/kogda-idti-k-psihiatru-2.md)] [22:08] — «не бывает низкая или высокая, бывает адекватная оценка и неадекватная ... только где-то к 80 или 90 годам наше эго и суперэго наконец встречаются»
