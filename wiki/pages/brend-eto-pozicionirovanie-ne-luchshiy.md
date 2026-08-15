@@ -3,7 +3,7 @@ title: Бренд — это позиционирование, а не «луч�
 category: Concepts
 summary: Сильный бренд не обязан быть «лучшим» — он честно заявляет своё позиционирование (даже «вредно, но вкусно» или «дёшево, но без комфорта») и не боится отказывать клиентам вне этого позиционирования
 tags: [concept, marketing, business]
-sources: [zhestokost-i-spravedlivost-kapitalizma, intuitsiya-ili-logika]
+sources: [zhestokost-i-spravedlivost-kapitalizma, intuitsiya-ili-logika, pochemu-energetik-litvina-ne-biznes]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -51,6 +51,7 @@ AmoCRM на старте казались нелепыми, признание �
 
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [38:31] — ответ «достаточно ли быть лучшим, чтобы стать брендом»
 - [[intuitsiya-ili-logika](pages/intuitsiya-ili-logika.md)] [8:28, 13:47] — норма брендинга по стадиям, узкое позиционирование против маркетплейсов
+- [[pochemu-energetik-litvina-ne-biznes](pages/pochemu-energetik-litvina-ne-biznes.md)] [0:00] — Red Bull как честная стройная стратегия позиционирования, контраст с хайп-стантами
 
 ## Related Concepts
 
