@@ -3,7 +3,7 @@ title: Записывай расходы вручную
 category: Concepts
 summary: Осознанность трат требует ручной записи, а не автоматического учёта карт — важна не сумма, а пропорциональность: расходы должны быть соизмеримы друг другу
 tags: [concept, money]
-sources: [kogda-idti-k-psihiatru-2]
+sources: [kogda-idti-k-psihiatru-2, kuda-devayutsya-dengi]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -28,6 +28,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kogda-idti-k-psihiatru-2](pages/kogda-idti-k-psihiatru-2.md)] — ответ «куда деваются деньги»
+- [[kuda-devayutsya-dengi](pages/kuda-devayutsya-dengi.md)] [0:00] — тот же ответ почти дословно, в перемонтаже
 
 ## Related Concepts
 

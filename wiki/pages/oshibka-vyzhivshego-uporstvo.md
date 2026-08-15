@@ -3,7 +3,7 @@ title: Упёртость — ошибка выжившего
 category: Concepts
 summary: Истории упрямых победителей на виду; истории упрямцев, которых упорство погубило, — не видны никому. «Большинство упёртость убивает, в этом вся фишка»
 tags: [concept, psychology, business]
-sources: [distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2]
+sources: [distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kuda-devayutsya-dengi]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -38,6 +38,7 @@ updated: 2026-08-15
 
 - [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — ответ про годы без личной прибыли
 - [[kogda-idti-k-psihiatru-2](pages/kogda-idti-k-psihiatru-2.md)] — брокер, фокусник и мама-предсказательница [56:36]
+- [[kuda-devayutsya-dengi](pages/kuda-devayutsya-dengi.md)] [6:33] — тот же ответ почти дословно, в перемонтаже («мама была права»)
 
 ## Related Concepts
 

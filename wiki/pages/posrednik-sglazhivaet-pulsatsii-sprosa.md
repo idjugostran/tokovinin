@@ -3,7 +3,7 @@ title: Посредник сглаживает пульсации спроса
 category: Concepts
 summary: Завод производит равномерно, спрос пульсирует — посредник, складирующий и перераспределяющий товар, не паразит, а необходимый элемент цепи; настоящих паразитов в экономике мало
 tags: [concept, economy, business]
-sources: [kogda-idti-k-psihiatru-2, zhestokost-i-spravedlivost-kapitalizma]
+sources: [kogda-idti-k-psihiatru-2, zhestokost-i-spravedlivost-kapitalizma, kuda-devayutsya-dengi]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -42,6 +42,7 @@ updated: 2026-08-15
 
 - [[kogda-idti-k-psihiatru-2](pages/kogda-idti-k-psihiatru-2.md)] — ответ на обвинение в паразитизме сервисов
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [15:16] — посредник в сложных эмоциональных сделках (инвестиции, развод, продажа бизнеса)
+- [[kuda-devayutsya-dengi](pages/kuda-devayutsya-dengi.md)] [4:42] — тот же ответ про завод почти дословно, в перемонтаже
 
 ## Related Concepts
 

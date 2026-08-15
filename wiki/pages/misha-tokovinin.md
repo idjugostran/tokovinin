@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -94,6 +94,7 @@ updated: 2026-08-15
 - [[everything-you-wanted-to-know-at-17](pages/everything-you-wanted-to-know-at-17.md)] — писать людям, возрастное планирование, первый бизнес
 - [[kto-vinovat-v-otsutstvii-prodazh](pages/kto-vinovat-v-otsutstvii-prodazh.md)] — квалификация лида, зарплаты топ-менеджеров
 - [[pochemu-energetik-litvina-ne-biznes](pages/pochemu-energetik-litvina-ne-biznes.md)] — реакция: энергетик Литвина, парадокс бережливости, псевдостатистика
+- [[kuda-devayutsya-dengi](pages/kuda-devayutsya-dengi.md)] — перемонтаж без нового материала
 
 ## Related Concepts
 
