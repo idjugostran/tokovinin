@@ -54,6 +54,7 @@ updated: 2026-08-15
 - [[oshibki-obyazatelny](pages/oshibki-obyazatelny.md)] — почему косяки не фатальны в прущей нише
 - [[menyat-obstoyatelstva-a-ne-sebya](pages/menyat-obstoyatelstva-a-ne-sebya.md)] — ниша как главное «обстоятельство»
 - [[malyy-biznes-kak-polosa-prepyatstviy](pages/malyy-biznes-kak-polosa-prepyatstviy.md)] — трудность как норма ещё на уровне размера бизнеса
+- [[prodavay-ranshe-chem-gotovo](pages/prodavay-ranshe-chem-gotovo.md)] — прямая проверка ниши спросом вместо гадания
 
 [^1]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [19:20] — «хорошая ниша - это хороший тренд, это когда оно сейчас маленькое и растёт ... где гики уже наигрались, а масс-маркет ещё не пришёл»
 [^2]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [19:20] — «если ты вышел на рынок слишком рано, ты проиграл ... мы никуда не опаздываем. И даже если мы придём на рынок с небольшим опозданием, это лучше, чем если мы придём слишком рано»

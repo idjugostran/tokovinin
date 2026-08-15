@@ -3,7 +3,7 @@ title: Миша Токовинин
 category: Entities
 summary: Предприниматель, сооснователь amoCRM, автор YouTube-канала @mtokovinin о бизнесе, найме, продажах и деньгах
 tags: [entity, person]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -70,6 +70,7 @@ updated: 2026-08-15
 - [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — малый бизнес, лотерея удачи, наказания
 - [[komu-na-krizise-zhit-horosho](pages/komu-na-krizise-zhit-horosho.md)] — перемены, кража идей, культура, миф о свободе
 - [[zhadnost-li-klyuch-k-uspehu](pages/zhadnost-li-klyuch-k-uspehu.md)] — маржа как война, самомнение, бизнес и материнство
+- [[kak-izmenit-zhizn-taksisty](pages/kak-izmenit-zhizn-taksisty.md)] — не дано vs просрал, чек и достоинство, MVP
 
 ## Related Concepts
 
