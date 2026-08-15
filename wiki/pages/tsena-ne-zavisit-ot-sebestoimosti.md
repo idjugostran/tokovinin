@@ -3,7 +3,7 @@ title: Цена не зависит от себестоимости
 category: Concepts
 summary: Цену занижает не рынок, а самооценка мастера — «он оценивает не товар, а себя»; лекарство — продавать должен другой, с мотивом поднимать цену
 tags: [concept, business, pricing, psychology]
-sources: [pochemu-ty-bednyy, za-kakuyu-zarplatu-terpet-tok, haos-eto-tozhe-sistema, ischu-partnyora, chem-zanimayutsya-biznesmeny]
+sources: [pochemu-ty-bednyy, za-kakuyu-zarplatu-terpet-tok, haos-eto-tozhe-sistema, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,7 +30,12 @@ updated: 2026-08-15
 
 Оговорка для локального бизнеса с конечной ёмкостью (ресторан на район):
 резко поднять цену нельзя — постоянные клиенты «обидятся и из принципа не
-будут покупать»; либо «по 3 копеечки раз в квартал», либо ребрендинг.[^2]
+будут покупать»; либо «по 3 копеечки раз в квартал», либо ребрендинг.[^2] Причина именно в
+локальности: веб-студия, работающая на всю страну, может поднять цену и
+потерять 100 старых клиентов, набрав взамен 100 новых по новой цене; а
+локальный ресторан заперт на фиксированной аудитории района, которая уже
+знает старую цену и обидится при резком повышении — другой тысячи
+клиентов у него просто нет.[^6]
 
 Продавать дороже можно почти всегда, даже на чистом commodity: ценовая
 эластичность спроса действительно растёт по мере приближения товара к
@@ -67,6 +72,7 @@ updated: 2026-08-15
 - [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [15:46] — сахар, бензин и книжный магазин: продавать дороже даже commodity
 - [[ischu-partnyora](pages/ischu-partnyora.md)] [0:00] — «ядовитые клиенты» как недооценённый чек, одинаковые дома по разной цене
 - [[chem-zanimayutsya-biznesmeny](pages/chem-zanimayutsya-biznesmeny.md)] [10:10] — жена как «вице-президент по продажам» мужа
+- [[kak-otkryt-biznes-kotoryy-ne-provalitsya](pages/kak-otkryt-biznes-kotoryy-ne-provalitsya.md)] [4:51] — локальный бизнес vs общероссийский в способности поднимать цену
 
 ## Related Concepts
 
@@ -78,3 +84,4 @@ updated: 2026-08-15
 [^3]: [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [15:46] — «чем бы мы ни торговали, у нас всегда есть возможность продавать дороже ... мы никогда не торгуем товаром в чистом виде»
 [^4]: [[ischu-partnyora](pages/ischu-partnyora.md)] [0:00] — «не бывает ядовитых клиентов, бывают маленькие чеки ... нужно перестать испытывать эмоцию по отношению к клиенту, начать испытывать эмоцию по отношению к чеку»
 [^5]: [[chem-zanimayutsya-biznesmeny](pages/chem-zanimayutsya-biznesmeny.md)] [10:10] — «лучшее, что может сделать супруга ... она может помочь за него назвать цену. Она может за него торговаться»
+[^6]: [[kak-otkryt-biznes-kotoryy-ne-provalitsya](pages/kak-otkryt-biznes-kotoryy-ne-provalitsya.md)] [4:51] — «почему это может сделать веб-студия? Потому что она работает на всю Россию ... а здесь локальный бизнес, он работает на район»
