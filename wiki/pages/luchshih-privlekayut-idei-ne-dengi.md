@@ -35,5 +35,7 @@ Apple фразой: «ты хочешь всю жизнь продавать с�
 ## Related Concepts
 
 - [[gotov-delat-besplatno](pages/gotov-delat-besplatno.md)] — тоже про мотивацию за пределами денег
+- [[lyudi-rabotayut-radi-priznaniya-a-ne-tolko-deneg](pages/lyudi-rabotayut-radi-priznaniya-a-ne-tolko-deneg.md)] — тот же принцип на уровне не только топ-исполнителей, а большинства людей
+- [[zarplata-vsegda-nespravedliva-otkrytost-vredna](pages/zarplata-vsegda-nespravedliva-otkrytost-vredna.md)] — почему деньги не решают проблему справедливости
 
 [^1]: [[kto-vinovat-v-otsutstvii-prodazh](pages/kto-vinovat-v-otsutstvii-prodazh.md)] [6:40] — «тот, кто платит самые большие зарплаты на рынке, никогда не имеет самых лучших людей на рынке. Можете перепроверить. Исключений нет»
