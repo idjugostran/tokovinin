@@ -3,7 +3,7 @@ title: Конструктивное ворчание полезно
 category: Concepts
 summary: Критика в коллективе работает как микрофлора — в норме полезна, в избытке токсична; граница между здоровой и вредной — решаемость: «нужны новые печеньки» полезно, «всё плохо, погода» разрушительно
 tags: [concept, management, psychology]
-sources: [zhestokost-i-spravedlivost-kapitalizma]
+sources: [zhestokost-i-spravedlivost-kapitalizma, len-i-toksichnost-kak-spasti-kollektiv]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -29,6 +29,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [10:08] — ответ про «токсичных нытиков» в коллективе
+- [[len-i-toksichnost-kak-spasti-kollektiv](pages/len-i-toksichnost-kak-spasti-kollektiv.md)] [3:15] — ремикс того же ответа
 
 ## Related Concepts
 

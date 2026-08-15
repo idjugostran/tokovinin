@@ -3,7 +3,7 @@ title: Атмосфера коллектива — зона ответствен
 category: Concepts
 summary: Руководитель не обязан и не может «лечить» личную мотивацию конкретного сотрудника («мы не психотерапевты») — его зона ответственности это общий боевой настрой коллектива
 tags: [concept, management]
-sources: [zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, chto-zhdyot-sng-cherez-10-let]
+sources: [zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, chto-zhdyot-sng-cherez-10-let, len-i-toksichnost-kak-spasti-kollektiv]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -52,6 +52,7 @@ updated: 2026-08-15
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [10:08] — ответ про мотивацию сотрудников
 - [[kak-ii-izmenit-mir](pages/kak-ii-izmenit-mir.md)] [6:11] — поддержка команды через ответственные решения в горячий период
 - [[chto-zhdyot-sng-cherez-10-let](pages/chto-zhdyot-sng-cherez-10-let.md)] [8:45] — демотивация лидера каскадирует в воровство и прокрастинацию команды
+- [[len-i-toksichnost-kak-spasti-kollektiv](pages/len-i-toksichnost-kak-spasti-kollektiv.md)] [0:02] — ремикс того же ответа про мотивацию сотрудников
 
 ## Related Concepts
 
