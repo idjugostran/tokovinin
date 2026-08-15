@@ -3,7 +3,7 @@ title: Цена не зависит от себестоимости
 category: Concepts
 summary: Цену занижает не рынок, а самооценка мастера — «он оценивает не товар, а себя»; лекарство — продавать должен другой, с мотивом поднимать цену
 tags: [concept, business, pricing, psychology]
-sources: [pochemu-ty-bednyy, za-kakuyu-zarplatu-terpet-tok, haos-eto-tozhe-sistema, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya]
+sources: [pochemu-ty-bednyy, za-kakuyu-zarplatu-terpet-tok, haos-eto-tozhe-sistema, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya, what-if-peasant-family]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -73,6 +73,7 @@ updated: 2026-08-15
 - [[ischu-partnyora](pages/ischu-partnyora.md)] [0:00] — «ядовитые клиенты» как недооценённый чек, одинаковые дома по разной цене
 - [[chem-zanimayutsya-biznesmeny](pages/chem-zanimayutsya-biznesmeny.md)] [10:10] — жена как «вице-президент по продажам» мужа
 - [[kak-otkryt-biznes-kotoryy-ne-provalitsya](pages/kak-otkryt-biznes-kotoryy-ne-provalitsya.md)] [4:51] — локальный бизнес vs общероссийский в способности поднимать цену
+- [[what-if-peasant-family](pages/what-if-peasant-family.md)] [2:11] — ремикс того же ответа про вязаные игрушки и мотоблогера
 
 ## Related Concepts
 
