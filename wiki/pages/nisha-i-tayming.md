@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu, gde-traderov-i-spekulyantov-vedut-mir, kak-otkryt-biznes-kotoryy-ne-provalitsya, how-scandals-help-business]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu, gde-traderov-i-spekulyantov-vedut-mir, kak-otkryt-biznes-kotoryy-ne-provalitsya, how-scandals-help-business, how-to-charm-an-investor-and-buy-porsche]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -126,6 +126,7 @@ updated: 2026-08-15
 - [[gde-traderov-i-spekulyantov-vedut-mir](pages/gde-traderov-i-spekulyantov-vedut-mir.md)] [0:00, 8:09] — не будь первым (повтор), корпорации не могут разрушить сами себя
 - [[kak-otkryt-biznes-kotoryy-ne-provalitsya](pages/kak-otkryt-biznes-kotoryy-ne-provalitsya.md)] [2:17] — тест бизнес-идеи через аналог, почти дословный повтор
 - [[how-scandals-help-business](pages/how-scandals-help-business.md)] [20:06] — диагностика «рынок vs продукт» по конкурентам, история AmoCRM
+- [[how-to-charm-an-investor-and-buy-porsche](pages/how-to-charm-an-investor-and-buy-porsche.md)] [8:45] — ремикс ответа про Вкусвилл «благодаря или вопреки»
 
 ## Related Concepts
 
