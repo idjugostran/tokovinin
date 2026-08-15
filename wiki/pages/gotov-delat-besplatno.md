@@ -3,7 +3,7 @@ title: Готов делать бесплатно
 category: Concepts
 summary: Маркер направления с потенциалом — готовность заниматься им бесплатно и сколько угодно; но честно отличать «нравится дело» от «нравится успех»
 tags: [concept]
-sources: [bolshe-tratish-bolshe-poluchaesh, kak-stat-schastlivym-i-bogatym]
+sources: [bolshe-tratish-bolshe-poluchaesh, kak-stat-schastlivym-i-bogatym, top-oshibki-nachinayushchih-predprinimateley]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -25,10 +25,18 @@ updated: 2026-08-15
 нравится быть успешным» — и называет такое признание важным навыком:
 «осознать, что это не твоё, и просто не делать этого».[^2]
 
+Прикладное следствие для тех, кто хочет и деньги, и удовольствие: если
+любишь только часть дела (шить), а не любишь другую часть (продавать),
+нельзя получить и то, и другое даром. Либо делаешь только любимую часть
+и получаешь оплату удовольствием («шей и раздавай бесплатно в переходе —
+всё честно, ты получил то, что хотел»), либо хочешь денег — тогда придётся
+делать и нелюбимые части тоже: «кто тебе обещал удовольствие?»[^3]
+
 ## Appearances in Sources
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — формулировка критерия и история про музыку
 - [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — «Вселенная платит удовольствием»: хобби vs заработок [21:55]
+- [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — шитьё как хобби vs шитьё как бизнес с продажами
 
 ## Related Concepts
 
@@ -36,3 +44,4 @@ updated: 2026-08-15
 
 [^1]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [4:41] — «ты готов этим заниматься бесплатно и сколько угодно Это значит что тебе это нравится ... потом когда ты становишься более сильным профессиональным всё становится более вязким»
 [^2]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [4:41] — «Мне не нравится музыка Мне нравится быть успешным ... это важный навык уметь ... Осознать что это не твоё и просто не делать этого»
+[^3]: [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — «если для неё это хобби и удовольствие, значит Вселенная ей платит получением удовольствия ... либо ради удовольствия, либо ради денег»

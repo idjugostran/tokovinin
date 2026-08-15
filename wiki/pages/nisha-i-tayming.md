@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -26,6 +26,14 @@ updated: 2026-08-15
 что все побежали в нейросети — сиди, не суетись; вот когда первые гиганты
 начнут падать, тогда пора».[^2] Распознать смерть темы так же тяжело, как
 рождение: «всё умирает довольно медленно».[^2]
+
+Та же логика в приложении к идее продукта, а не рынка: типичная ошибка
+новичка — считать, что бизнесу нужна оригинальная идея. Скучная
+проверенная ниша (доставка пиццы) успешнее, потому что все её проблемы —
+это найм, финансы, маркетинг, логистика, а с оригинальной идеей («секондхенд
+2.0») к этому набору добавляется задача создать спрос с нуля, что «очень-очень
+тяжело», и умножает все обычные проблемы бизнеса «на 100», потому что
+занимаешься «неведомой хренью».[^9]
 
 Обратная сторона той же силы — рост прощает исполнение:
 «бизнес растёт не благодаря твоим усилиям, а вопреки твоим косякам», и
@@ -67,6 +75,7 @@ updated: 2026-08-15
 - [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — «товар создан не для тебя» — у каждого товара свой покупатель [12:55]
 - [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] — копируй успешное с других рынков (Crunchbase) [10:02]
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [42:16, 45:00, 1:02:58] — фазы жизненного цикла ниши, Вкусвилл, «продавай лопаты»
+- [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — доставка пиццы vs секондхенд-одежда как оригинальная идея
 
 ## Related Concepts
 
@@ -83,3 +92,4 @@ updated: 2026-08-15
 [^6]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [42:16] — «маленький растущий, большой растущий, большой нерастущий и маленький умирающий ... это будет убивать самых слабых»
 [^7]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [1:02:58] — «и как бы, и перестань искать золото, начни продавать лопаты»
 [^8]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [45:00] — «в девяти из десяти случаев вопреки ... 90% она выросла и преуспела не благодаря этому, а вопреки этому»
+[^9]: [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — «одно дело ты доставляешь пиццу — просто обсудить спрос и решать логистические, кадровые, производственные проблемы ... давайте возьмём неведомую хрень — очень мало шансов на успех»
