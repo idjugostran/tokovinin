@@ -3,7 +3,7 @@ title: Менять обстоятельства, а не себя
 category: Concepts
 summary: Из двух путей развития — чинить свои слабости или выбирать обстоятельства под сильные стороны — второй «всегда выигрышный»
 tags: [concept]
-sources: [bolshe-tratish-bolshe-poluchaesh, kak-izbezhat-oshibok-v-biznese, gde-mnogo-platyat-mify]
+sources: [bolshe-tratish-bolshe-poluchaesh, kak-izbezhat-oshibok-v-biznese, gde-mnogo-platyat-mify, kogda-idti-k-psihiatru-2]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -36,11 +36,19 @@ updated: 2026-08-15
 стратегию вокруг сильных сторон — нулевая эмпатия закрывает путь в
 продажи, но не мешает быть программистом.[^4]
 
+Ещё одна иллюстрация — метафора трёх рук: человек, родившийся с тремя
+руками, может страдать, что «одежду на него не шьют», а может признать,
+что моет посуду в полтора раза быстрее большинства. Прежде чем винить
+себя во всём, важно понять, где реальная проблема — в тебе, среде или
+окружении: не всегда правильный ответ «менять себя», иногда себя менять
+почти невозможно, и продуктивнее «научиться на недостатках играть».[^5]
+
 ## Appearances in Sources
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — ответы про «как стать сильным в общении» и уличные драки
 - [[gde-mnogo-platyat-mify](pages/gde-mnogo-platyat-mify.md)] — эмпатия как врождённое качество (аналогия с музыкальным слухом) [8:33]
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — «сёрфер на волне», отыгрывание обстоятельств вместо поиска дела жизни
+- [[kogda-idti-k-psihiatru-2](pages/kogda-idti-k-psihiatru-2.md)] — метафора трёх рук [39:15]
 
 ## Related Concepts
 
@@ -51,3 +59,4 @@ updated: 2026-08-15
 [^2]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [3:35] — «обезьяны захватили мир не руками а мозгом умные всё равно побеждают Зачем становиться каратистом»
 [^3]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [24:11] — «ты не управляешь своей жизнью, ты в каком-то смысле сёрфер на волне ... успех в том, чтобы не создавать [обстоятельства], а их отыграть»
 [^4]: [[gde-mnogo-platyat-mify](pages/gde-mnogo-platyat-mify.md)] [8:33] — «наша задача не развивать эмпатию, наша задача трезво оценивать уровень нашей эмпатии, исходя из этого строить дальнейшую жизненную стратегию»
+[^5]: [[kogda-idti-k-psihiatru-2](pages/kogda-idti-k-psihiatru-2.md)] — «представь, что ты человек с тремя руками ... намного эффективнее просто признать, что у тебя три руки — это и преимущество»

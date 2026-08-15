@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2]
 updated: 2026-08-15
 ---
 
@@ -168,3 +168,11 @@ updated: 2026-08-15
 - [[potok-eto-mif-est-distsiplina](pages/potok-eto-mif-est-distsiplina.md)]
 - [[rabotat-skolko-lyubish-no-ne-nochyu](pages/rabotat-skolko-lyubish-no-ne-nochyu.md)]
 - [[vyuchennaya-bespomoshchnost](pages/vyuchennaya-bespomoshchnost.md)]
+- [[nevozmozhno-byt-horoshim-dlya-vseh](pages/nevozmozhno-byt-horoshim-dlya-vseh.md)]
+- [[pokupka-eto-bol-prodavets-pomogaet](pages/pokupka-eto-bol-prodavets-pomogaet.md)]
+- [[zapisyvay-raskhody-vruchnuyu](pages/zapisyvay-raskhody-vruchnuyu.md)]
+- [[adekvatnaya-samootsenka-ego-superego](pages/adekvatnaya-samootsenka-ego-superego.md)]
+- [[u-vseh-svoy-temp](pages/u-vseh-svoy-temp.md)]
+- [[posrednik-sglazhivaet-pulsatsii-sprosa](pages/posrednik-sglazhivaet-pulsatsii-sprosa.md)]
+- [[horoshiy-predprinimatel-plohoy-specialist](pages/horoshiy-predprinimatel-plohoy-specialist.md)]
+- [[dekompozitsiya-tseley-strah-uspeha](pages/dekompozitsiya-tseley-strah-uspeha.md)]
