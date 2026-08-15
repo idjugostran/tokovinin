@@ -3,7 +3,7 @@ title: Менять обстоятельства, а не себя
 category: Concepts
 summary: Из двух путей развития — чинить свои слабости или выбирать обстоятельства под сильные стороны — второй «всегда выигрышный»
 tags: [concept]
-sources: [bolshe-tratish-bolshe-poluchaesh, kak-izbezhat-oshibok-v-biznese, gde-mnogo-platyat-mify, kogda-idti-k-psihiatru-2]
+sources: [bolshe-tratish-bolshe-poluchaesh, kak-izbezhat-oshibok-v-biznese, gde-mnogo-platyat-mify, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -49,6 +49,7 @@ updated: 2026-08-15
 - [[gde-mnogo-platyat-mify](pages/gde-mnogo-platyat-mify.md)] — эмпатия как врождённое качество (аналогия с музыкальным слухом) [8:33]
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — «сёрфер на волне», отыгрывание обстоятельств вместо поиска дела жизни
 - [[kogda-idti-k-psihiatru-2](pages/kogda-idti-k-psihiatru-2.md)] — метафора трёх рук [39:15]
+- [[kak-mozg-prinimaet-resheniya](pages/kak-mozg-prinimaet-resheniya.md)] — тот же ответ в перемонтаже [3:00]
 
 ## Related Concepts
 
