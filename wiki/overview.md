@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi, chto-budet-zavtra]
 updated: 2026-08-15
 ---
 
@@ -185,6 +185,16 @@ updated: 2026-08-15
 Батч 4 закрылся полным перемонтажом без нового материала — все три темы
 (учёт расходов, посредник-заводчанин, «мама была права») уже были в вики.
 
+Первый источник батча 5 — мегавыпуск с тремя новыми концепциями: фриланс
+и репетиторство — это бизнес, где продажи важнее ремесла
+([[frilans-eto-biznes-prodazhi-vazhnee-remesla](pages/frilans-eto-biznes-prodazhi-vazhnee-remesla.md)]);
+взросление устроено как повторяющийся сброс на «дальше сам» на каждом
+жизненном перепутье
+([[vzroslenie-eto-povtornyy-sbros-na-sam](pages/vzroslenie-eto-povtornyy-sbros-na-sam.md)]);
+переквалифицированного кандидата надо искать через личную сеть, а не
+хантер
+([[overqualified-idi-cherez-set-a-ne-hh](pages/overqualified-idi-cherez-set-a-ne-hh.md)]).
+
 ## Open Questions
 
 - ~~Как рамка «марафона» уживается с «lose fast»?~~ Разрешено четвёртым
@@ -319,3 +329,6 @@ updated: 2026-08-15
 - [[luchshih-privlekayut-idei-ne-dengi](pages/luchshih-privlekayut-idei-ne-dengi.md)]
 - [[energetik-eto-monetizatsiya-blogera](pages/energetik-eto-monetizatsiya-blogera.md)]
 - [[sokrashchenie-kostov-paradoks-berezhlivosti](pages/sokrashchenie-kostov-paradoks-berezhlivosti.md)]
+- [[frilans-eto-biznes-prodazhi-vazhnee-remesla](pages/frilans-eto-biznes-prodazhi-vazhnee-remesla.md)]
+- [[vzroslenie-eto-povtornyy-sbros-na-sam](pages/vzroslenie-eto-povtornyy-sbros-na-sam.md)]
+- [[overqualified-idi-cherez-set-a-ne-hh](pages/overqualified-idi-cherez-set-a-ne-hh.md)]
