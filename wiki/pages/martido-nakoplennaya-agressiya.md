@@ -3,7 +3,7 @@ title: Мартидо — накопленная агрессия
 category: Concepts
 summary: По Фрейду, подавленная агрессия (мартидо, в противовес либидо) требует разрядки; общество запрещает бить и ломать, поэтому нужны социально приемлемые выходы — спорт, игры, физическая активность
 tags: [concept, psychology]
-sources: [pochemu-ty-ne-dostigaesh-tseley]
+sources: [pochemu-ty-ne-dostigaesh-tseley, pochemu-ya-ne-chitayu-knigi]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -29,6 +29,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[pochemu-ty-ne-dostigaesh-tseley](pages/pochemu-ty-ne-dostigaesh-tseley.md)] — ответ на «я ненавижу эту жизнь»
+- [[pochemu-ya-ne-chitayu-knigi](pages/pochemu-ya-ne-chitayu-knigi.md)] [3:23] — сотрудник, каждый год меняющий команду от скуки, как форма мортидо
 
 ## Related Concepts
 

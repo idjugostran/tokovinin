@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi]
 updated: 2026-08-15
 ---
 
@@ -126,6 +126,11 @@ updated: 2026-08-15
 проблема
 ([[trebovatelnye-kliency-podnimayut-planku](pages/trebovatelnye-kliency-podnimayut-planku.md)]).
 
+Батч 4 открылся почти полным перемонтажом «Дисциплины и выгорания» —
+единственное новое: интернет структурно ближе к ассоциативному мышлению,
+чем линейное чтение книги
+([[internet-blizhe-k-mysleniyu-chem-kniga](pages/internet-blizhe-k-mysleniyu-chem-kniga.md)]).
+
 ## Open Questions
 
 - ~~Как рамка «марафона» уживается с «lose fast»?~~ Разрешено четвёртым
@@ -242,3 +247,4 @@ updated: 2026-08-15
 - [[emkost-rynka-modul-rasshireniya](pages/emkost-rynka-modul-rasshireniya.md)]
 - [[vydeli-nalog-otdelnoy-strokoy](pages/vydeli-nalog-otdelnoy-strokoy.md)]
 - [[trebovatelnye-kliency-podnimayut-planku](pages/trebovatelnye-kliency-podnimayut-planku.md)]
+- [[internet-blizhe-k-mysleniyu-chem-kniga](pages/internet-blizhe-k-mysleniyu-chem-kniga.md)]

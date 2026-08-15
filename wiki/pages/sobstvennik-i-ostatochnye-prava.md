@@ -3,7 +3,7 @@ title: Собственник и остаточные права
 category: Concepts
 summary: Скучные задачи можно делегировать (нанять, отдать долю), но есть класс задач, которые нельзя расписать заранее, — их автоматически получает владелец; труд предпринимателя поэтому невидим со стороны
 tags: [concept, business, management]
-sources: [distsiplina-i-vygoranie]
+sources: [distsiplina-i-vygoranie, pochemu-ya-ne-chitayu-knigi]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -43,6 +43,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — ответы про скучные дела и «чем ты занимаешься»
+- [[pochemu-ya-ne-chitayu-knigi](pages/pochemu-ya-ne-chitayu-knigi.md)] [7:48] — тот же ответ почти дословно, в перемонтаже
 
 ## Related Concepts
 
