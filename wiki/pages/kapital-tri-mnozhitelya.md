@@ -3,7 +3,7 @@ title: Капитал — три множителя
 category: Concepts
 summary: Капитал = деньги × компетенции × ресурсы (энергия, здоровье, связи); в молодости растят неденежные множители — конвертация в деньги произойдёт сама
 tags: [concept, money, career]
-sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym, kak-ii-izmenit-mir, top-oshibki-nachinayushchih-predprinimateley, everything-you-wanted-to-know-at-17, stryomnye-oshibki-nachinayushchih]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym, kak-ii-izmenit-mir, top-oshibki-nachinayushchih-predprinimateley, everything-you-wanted-to-know-at-17, stryomnye-oshibki-nachinayushchih, avtoritarizm-ili-demokratiya]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -66,6 +66,14 @@ soft skills: ответственность, надёжность, скромн�
 руководитель почти всегда выбирает помощника из тех, кто уже показал себя
 на проектах, а не с открытого рынка.[^5]
 
+Личный пример того же механизма: устроился на обычную должность
+сисадмина настраивать принтеры, «очень хорошо работал», был замечен,
+получил маленький отдел в подчинение, там тоже проявил инициативу — и
+человек, обративший внимание, стал вкладываться в него больше. «Нет
+никаких секретов, нет никаких лазеек» — вложив в старательного работника
+час, получаешь в ответ десять часов пользы, и это чистый расчёт, а не
+благотворительность.[^6]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответ про стартовый капитал и конвертацию
@@ -75,6 +83,7 @@ soft skills: ответственность, надёжность, скромн�
 - [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [8:44] — таксономия оснований для нетворкинга
 - [[everything-you-wanted-to-know-at-17](pages/everything-you-wanted-to-know-at-17.md)] [14:12, 17:57] — нетворкинг в 17 лет, первый бизнес «по зеркалу»
 - [[stryomnye-oshibki-nachinayushchih](pages/stryomnye-oshibki-nachinayushchih.md)] [12:41] — качества ученика «носящего портфель», найм изнутри компании
+- [[avtoritarizm-ili-demokratiya](pages/avtoritarizm-ili-demokratiya.md)] [9:12] — личная история: сисадмин, принтеры, замечен и повышен
 
 ## Related Concepts
 
@@ -86,3 +95,4 @@ soft skills: ответственность, надёжность, скромн�
 [^3]: [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [8:44] — «ты должен что-то из себя для этих людей представлять ... само по себе знакомство тебе ничего не даёт»
 [^4]: [[everything-you-wanted-to-know-at-17](pages/everything-you-wanted-to-know-at-17.md)] [17:57] — «это время уникального нетворка ... первый бизнес — вы смотрите в зеркало и делаете то, что вы можете и что вам подходит»
 [^5]: [[stryomnye-oshibki-nachinayushchih](pages/stryomnye-oshibki-nachinayushchih.md)] [12:41] — «важно, что сейчас, и важно, что как бы к чему это придёт завтра ... на ответственность, на то, чтобы можно было положиться, на скромность»
+[^6]: [[avtoritarizm-ili-demokratiya](pages/avtoritarizm-ili-demokratiya.md)] [9:12] — «я хорошо работал ... проявлял инициативу, старался ... нет никаких секретов, нет никаких лазеек»
