@@ -1,5 +1,5 @@
 ---
-name: tokovinin-kb-context
+name: tokovinin-wiki-context
 description: "Answers Tokovinin/Токовинин questions from the wiki: Миша Токовинин — бизнес, найм, продажи, деньги, мотивация (конспекты видео канала @mtokovinin)"
 ---
 
@@ -127,7 +127,7 @@ don't substitute a similar-looking page.
      came from the wiki.
    - **Disclose that this skill answered.** End the reply with a short
      plain-text marker on its own line, e.g. `📚 Источник: Tokovinin Wiki
-     (tokovinin-kb-context)` — no brackets or links.
+     (tokovinin-wiki-context)` — no brackets or links.
 
 4. **Never write to the wiki from this skill.** This is read-only context
    grounding. All 64 videos on the channel as of 2026-08-15 are ingested and

@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-# Installer for the tokovinin-kb-context Claude skill.
+# Installer for the tokovinin-wiki-context Claude skill.
 #
 # Installs ONE file (SKILL.md) — the knowledge base itself is never
 # downloaded, the skill fetches it from GitHub over HTTPS at answer time.
 # No git, no clone. Run it straight from GitHub with nothing pre-cloned:
 #
-#   curl -fsSL https://raw.githubusercontent.com/idjugostran/tokovinin/main/skill/tokovinin-kb-context/scripts/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/idjugostran/tokovinin/main/skill/tokovinin-wiki-context/scripts/install.sh | bash
 #
 # Idempotent — re-running just overwrites the installed SKILL.md with the
 # current one (that's also how you update it).
@@ -14,14 +14,14 @@
 #   TOKOVININ_SKILLS_DIR   --dir PATH   skills dir (default: ~/.claude/skills)
 #
 # claude.ai (web) has no skills directory to write into — there, install by
-# uploading the skill/tokovinin-kb-context/ folder through the Skills UI instead.
+# uploading the skill/tokovinin-wiki-context/ folder through the Skills UI instead.
 #
-# To uninstall: rm -rf ~/.claude/skills/tokovinin-kb-context
+# To uninstall: rm -rf ~/.claude/skills/tokovinin-wiki-context
 
 set -euo pipefail
 
 BASE_URL="https://raw.githubusercontent.com/idjugostran/tokovinin/main"
-SKILL_NAME="tokovinin-kb-context"
+SKILL_NAME="tokovinin-wiki-context"
 SKILLS_DIR="${TOKOVININ_SKILLS_DIR:-$HOME/.claude/skills}"
 
 while [[ $# -gt 0 ]]; do
@@ -47,7 +47,7 @@ echo "  OK: $INDEX_URL ($PAGES pages)"
 echo "== 2. Install SKILL.md =="
 DEST="$SKILLS_DIR/$SKILL_NAME"
 mkdir -p "$DEST"
-curl -fsS "$BASE_URL/skill/tokovinin-kb-context/SKILL.md" -o "$DEST/SKILL.md"
+curl -fsS "$BASE_URL/skill/tokovinin-wiki-context/SKILL.md" -o "$DEST/SKILL.md"
 echo "  OK: $DEST/SKILL.md"
 
 echo "== Done =="

@@ -3,7 +3,7 @@
 ## Identity
 - **Path:** /Users/idjugostran/Projects/Tokovinin
 - **Domain:** Миша Токовинин — бизнес, найм, продажи, деньги, мотивация (конспекты видео канала @mtokovinin)
-- **Source types:** compressed YouTube video conspects (raw/<video_id>.md, produced by the tokovinin-video-flow pipeline)
+- **Source types:** full YouTube auto-caption transcripts of @mtokovinin videos (raw/<video_id>.txt)
 - **Created:** 2026-08-15
 
 ## Page Frontmatter
