@@ -31,18 +31,18 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-# Check the kb is actually readable BEFORE installing anything - otherwise a
-# network problem or a repo rename would install a skill that 404s on every
-# question.
-echo "== 1. Check knowledge base is readable =="
-INDEX_URL="$BASE_URL/kb/index.md"
+# Check the wiki is actually readable BEFORE installing anything - otherwise
+# a network problem or a repo rename would install a skill that 404s on
+# every question.
+echo "== 1. Check wiki is readable =="
+INDEX_URL="$BASE_URL/wiki/index.md"
 if ! INDEX="$(curl -fsS "$INDEX_URL")"; then
   echo "  ERROR: cannot read $INDEX_URL" >&2
   echo "         Check network access and that the repo is public." >&2
   exit 1
 fi
-VIDEOS="$(printf '%s\n' "$INDEX" | grep -c '^### ' || true)"
-echo "  OK: $INDEX_URL ($VIDEOS videos)"
+PAGES="$(printf '%s\n' "$INDEX" | grep -c '^- \[\[' || true)"
+echo "  OK: $INDEX_URL ($PAGES pages)"
 
 echo "== 2. Install SKILL.md =="
 DEST="$SKILLS_DIR/$SKILL_NAME"
