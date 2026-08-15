@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh]
 updated: 2026-08-15
 ---
 
@@ -170,6 +170,12 @@ updated: 2026-08-15
 и серьёзное долгосрочное планирование уместно только в период с 30 до 50
 лет — до этого задача найти рельсы, не встать на них
 ([[vozrastnye-zadachi-planirovaniya](pages/vozrastnye-zadachi-planirovaniya.md)]).
+Восьмой источник батча 4 добавил два управленческих приёма: объективный
+маркер квалификации лида разводит спор маркетинга и продаж
+([[kvalifikatsiya-lida-obektivny-marker](pages/kvalifikatsiya-lida-obektivny-marker.md)]);
+лучших людей на рынке привлекают идеи и амбиции, а не самая большая
+зарплата
+([[luchshih-privlekayut-idei-ne-dengi](pages/luchshih-privlekayut-idei-ne-dengi.md)]).
 
 ## Open Questions
 
@@ -301,3 +307,5 @@ updated: 2026-08-15
 - [[ekopovestka-marketing-na-realnoy-probleme](pages/ekopovestka-marketing-na-realnoy-probleme.md)]
 - [[pishite-lyudyam-a-ne-kompaniyam](pages/pishite-lyudyam-a-ne-kompaniyam.md)]
 - [[vozrastnye-zadachi-planirovaniya](pages/vozrastnye-zadachi-planirovaniya.md)]
+- [[kvalifikatsiya-lida-obektivny-marker](pages/kvalifikatsiya-lida-obektivny-marker.md)]
+- [[luchshih-privlekayut-idei-ne-dengi](pages/luchshih-privlekayut-idei-ne-dengi.md)]
