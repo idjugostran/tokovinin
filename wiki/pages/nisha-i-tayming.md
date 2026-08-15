@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -47,11 +47,13 @@ updated: 2026-08-15
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — критерии ниши, тайминг, масштабирование
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — «не будь первым», тест успешным конкурентом, «гики наигрались, мама не начинала»
+- [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — «товар создан не для тебя» — у каждого товара свой покупатель [12:55]
 
 ## Related Concepts
 
 - [[oshibki-obyazatelny](pages/oshibki-obyazatelny.md)] — почему косяки не фатальны в прущей нише
 - [[menyat-obstoyatelstva-a-ne-sebya](pages/menyat-obstoyatelstva-a-ne-sebya.md)] — ниша как главное «обстоятельство»
+- [[malyy-biznes-kak-polosa-prepyatstviy](pages/malyy-biznes-kak-polosa-prepyatstviy.md)] — трудность как норма ещё на уровне размера бизнеса
 
 [^1]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [19:20] — «хорошая ниша - это хороший тренд, это когда оно сейчас маленькое и растёт ... где гики уже наигрались, а масс-маркет ещё не пришёл»
 [^2]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [19:20] — «если ты вышел на рынок слишком рано, ты проиграл ... мы никуда не опаздываем. И даже если мы придём на рынок с небольшим опозданием, это лучше, чем если мы придём слишком рано»

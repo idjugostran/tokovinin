@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii]
 updated: 2026-08-15
 ---
 
@@ -143,3 +143,7 @@ updated: 2026-08-15
 - [[prodat-sebya-cherez-drugogo](pages/prodat-sebya-cherez-drugogo.md)]
 - [[sytost-krizis-srednego-vozrasta](pages/sytost-krizis-srednego-vozrasta.md)]
 - [[zarplata-marzha-i-verifitsiruemost](pages/zarplata-marzha-i-verifitsiruemost.md)]
+- [[malyy-biznes-kak-polosa-prepyatstviy](pages/malyy-biznes-kak-polosa-prepyatstviy.md)]
+- [[pervyy-uspeshnyy-biznes-eto-loteree](pages/pervyy-uspeshnyy-biznes-eto-loteree.md)]
+- [[tri-sposoba-zastavit-rabotat-na-sebya](pages/tri-sposoba-zastavit-rabotat-na-sebya.md)]
+- [[nakazanie-ne-nuzhno](pages/nakazanie-ne-nuzhno.md)]

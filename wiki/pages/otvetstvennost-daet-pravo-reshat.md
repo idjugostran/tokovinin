@@ -3,7 +3,7 @@ title: Ответственность даёт право решать
 category: Concepts
 summary: «Бирюзовые» компании без единого решающего нежизнеспособны — кто реально отвечает деньгами из своего кармана, тот и должен принимать решение
 tags: [concept, business, management]
-sources: [kak-ponyat-chto-ty-ne-predprinimatel]
+sources: [kak-ponyat-chto-ty-ne-predprinimatel, malyy-biznes-ne-nuzhen-v-rossii]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -29,10 +29,12 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — ответ про «бирюзовую компанию»
+- [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — наказание как ложная альтернатива реальным рычагам [15:00]
 
 ## Related Concepts
 
 - [[biznes-stremitsya-k-monopolii](pages/biznes-stremitsya-k-monopolii.md)] — та же трезвая природа бизнеса без морализаторства
 - [[tri-pravila-partnerstva](pages/tri-pravila-partnerstva.md)] — «кто главнее» — тот же принцип применительно к партнёрству
+- [[nakazanie-ne-nuzhno](pages/nakazanie-ne-nuzhno.md)] — реальные управленческие рычаги против ритуалов власти
 
 [^1]: [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] [10:57] — «прежде чем мы говорим про ответственность, кто-то должен ответственность взять и сказать: я решил, что будет так, и я несу за это ответственность»

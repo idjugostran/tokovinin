@@ -3,7 +3,7 @@ title: Навыки, риск, ответственность — три уро�
 category: Concepts
 summary: Есть только три способа зарабатывать больше — продавать навыки (потолок известен), продавать риск (навыки × риск = бизнес, «бескрайние горизонты») или продавать ответственность (менеджмент)
 tags: [concept, career, money]
-sources: [kak-ponyat-chto-ty-ne-predprinimatel]
+sources: [kak-ponyat-chto-ty-ne-predprinimatel, malyy-biznes-ne-nuzhen-v-rossii]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,10 +30,12 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — ответ программисту о переходе на «пассивный» доход
+- [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — та же триада с точки зрения нанимателя [9:57]
 
 ## Related Concepts
 
 - [[tri-pravila-partnerstva](pages/tri-pravila-partnerstva.md)] — партнёрство как способ купить недостающую готовность к риску
 - [[kapital-tri-mnozhitelya](pages/kapital-tri-mnozhitelya.md)] — риск и ответственность как ещё два способа конвертации капитала
+- [[tri-sposoba-zastavit-rabotat-na-sebya](pages/tri-sposoba-zastavit-rabotat-na-sebya.md)] — зеркальная триада: чем ты платишь за чужой труд
 
 [^1]: [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] [49:39] — «ты зарабатываешь либо продавая навыки, либо беря на себя риск, либо беря на себя ответственность ... если ты хочешь продолжать продавать навыки, скорее всего, ничего принципиально поменяться не может»
