@@ -3,7 +3,7 @@ title: Цена не зависит от себестоимости
 category: Concepts
 summary: Цену занижает не рынок, а самооценка мастера — «он оценивает не товар, а себя»; лекарство — продавать должен другой, с мотивом поднимать цену
 tags: [concept, business, pricing, psychology]
-sources: [pochemu-ty-bednyy, za-kakuyu-zarplatu-terpet-tok, haos-eto-tozhe-sistema, ischu-partnyora]
+sources: [pochemu-ty-bednyy, za-kakuyu-zarplatu-terpet-tok, haos-eto-tozhe-sistema, ischu-partnyora, chem-zanimayutsya-biznesmeny]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -53,12 +53,20 @@ updated: 2026-08-15
 постройки, а не из-за разницы в самих домах — так же, как сайт за $1 млн
 не отличается технически от сайта за $100 тыс.[^4]
 
+Ещё одна иллюстрация того же приёма «продавать должен кто-то другой» —
+супруг(а) как персональный продавец: предприниматели часто
+идентифицируют себя со своим делом («синдром самозванца»), из-за чего
+занижают чек. Жена, которая объективно ценит мужа выше, чем он сам себя,
+может назначать цену, торговаться и презентовать его за него —
+представляясь не «женой», а, например, «вице-президентом по продажам».[^5]
+
 ## Appearances in Sources
 
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — вязаные игрушки, мотоблогер, ресторан
 - [[za-kakuyu-zarplatu-terpet-tok](pages/za-kakuyu-zarplatu-terpet-tok.md)] — «продавать надо не только товар, но и себя» [4:15]
 - [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [15:46] — сахар, бензин и книжный магазин: продавать дороже даже commodity
 - [[ischu-partnyora](pages/ischu-partnyora.md)] [0:00] — «ядовитые клиенты» как недооценённый чек, одинаковые дома по разной цене
+- [[chem-zanimayutsya-biznesmeny](pages/chem-zanimayutsya-biznesmeny.md)] [10:10] — жена как «вице-президент по продажам» мужа
 
 ## Related Concepts
 
@@ -69,3 +77,4 @@ updated: 2026-08-15
 [^2]: [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] [49:05] — «они обидятся и не будут из принципа покупать ... либо по чуть-чуть, по 3 копеечки раз в квартал, либо делать ребрендинг»
 [^3]: [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [15:46] — «чем бы мы ни торговали, у нас всегда есть возможность продавать дороже ... мы никогда не торгуем товаром в чистом виде»
 [^4]: [[ischu-partnyora](pages/ischu-partnyora.md)] [0:00] — «не бывает ядовитых клиентов, бывают маленькие чеки ... нужно перестать испытывать эмоцию по отношению к клиенту, начать испытывать эмоцию по отношению к чеку»
+[^5]: [[chem-zanimayutsya-biznesmeny](pages/chem-zanimayutsya-biznesmeny.md)] [10:10] — «лучшее, что может сделать супруга ... она может помочь за него назвать цену. Она может за него торговаться»
