@@ -37,5 +37,6 @@ updated: 2026-08-15
 ## Related Concepts
 
 - [[nisha-i-tayming](pages/nisha-i-tayming.md)] — тайминг больших трендов: рано хуже, чем поздно
+- [[ne-robot-a-chelovek-s-robotom](pages/ne-robot-a-chelovek-s-robotom.md)] — карьерное следствие той же революции: заменит не робот, а человек с роботом
 
 [^1]: [[kak-ii-izmenit-mir](pages/kak-ii-izmenit-mir.md)] [0:00] — «самая ближайшая аналогия к тому, что будет происходить с ИИ, что уже происходит с ИИ — это интернет ... изменения будут такого же порядка»

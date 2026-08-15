@@ -3,7 +3,7 @@ title: Капитал — три множителя
 category: Concepts
 summary: Капитал = деньги × компетенции × ресурсы (энергия, здоровье, связи); в молодости растят неденежные множители — конвертация в деньги произойдёт сама
 tags: [concept, money, career]
-sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym, kak-ii-izmenit-mir, top-oshibki-nachinayushchih-predprinimateley, everything-you-wanted-to-know-at-17]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, kak-stat-schastlivym-i-bogatym, kak-ii-izmenit-mir, top-oshibki-nachinayushchih-predprinimateley, everything-you-wanted-to-know-at-17, stryomnye-oshibki-nachinayushchih]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -56,6 +56,16 @@ updated: 2026-08-15
 получается плохо в любом случае, не стоит добавлять к этому ещё и выбор
 занятия, к которому нет никаких предпосылок.[^4]
 
+Дополнение к стратегии «носить портфель» — реестра, кто и сколько носил
+портфель, не существует и не нужен: «важно, что сейчас, и важно, что
+будет завтра», а не история прошлых ставок. Качества, которые ценятся в
+таком ученичестве, — не компетенции («они потом придут»), а базовые
+soft skills: ответственность, надёжность, скромность, готовность
+вкладываться. Практический путь внутрь такой роли — не хантинг с улицы,
+а зарекомендовать себя внутри уже существующей компании или структуры:
+руководитель почти всегда выбирает помощника из тех, кто уже показал себя
+на проектах, а не с открытого рынка.[^5]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответ про стартовый капитал и конвертацию
@@ -64,6 +74,7 @@ updated: 2026-08-15
 - [[kak-ii-izmenit-mir](pages/kak-ii-izmenit-mir.md)] [9:11] — пример врачей: наём как накопление, частная практика как конвертация
 - [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [8:44] — таксономия оснований для нетворкинга
 - [[everything-you-wanted-to-know-at-17](pages/everything-you-wanted-to-know-at-17.md)] [14:12, 17:57] — нетворкинг в 17 лет, первый бизнес «по зеркалу»
+- [[stryomnye-oshibki-nachinayushchih](pages/stryomnye-oshibki-nachinayushchih.md)] [12:41] — качества ученика «носящего портфель», найм изнутри компании
 
 ## Related Concepts
 
@@ -74,3 +85,4 @@ updated: 2026-08-15
 [^2]: [[kak-ii-izmenit-mir](pages/kak-ii-izmenit-mir.md)] [9:11] — «врач полжизни работает на репутацию и компетенции, а потом монетизирует это через частную практику ... твои шансы на успех приближаются к 100%»
 [^3]: [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [8:44] — «ты должен что-то из себя для этих людей представлять ... само по себе знакомство тебе ничего не даёт»
 [^4]: [[everything-you-wanted-to-know-at-17](pages/everything-you-wanted-to-know-at-17.md)] [17:57] — «это время уникального нетворка ... первый бизнес — вы смотрите в зеркало и делаете то, что вы можете и что вам подходит»
+[^5]: [[stryomnye-oshibki-nachinayushchih](pages/stryomnye-oshibki-nachinayushchih.md)] [12:41] — «важно, что сейчас, и важно, что как бы к чему это придёт завтра ... на ответственность, на то, чтобы можно было положиться, на скромность»

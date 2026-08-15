@@ -3,7 +3,7 @@ title: Критика движения FIRE
 category: Concepts
 summary: Копить капитал, чтобы жить на пассивный доход и потом заняться любимым делом, — избыточно сложный обходной путь; логическая ошибка в том, что можно заняться любимым делом сразу
 tags: [concept, money, career]
-sources: [zhestokost-i-spravedlivost-kapitalizma]
+sources: [zhestokost-i-spravedlivost-kapitalizma, stryomnye-oshibki-nachinayushchih]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -27,9 +27,21 @@ Early) и жизнь на дивиденды — две логические о�
 больше, трать разумно, и ты проживёшь хорошую, счастливую, насыщенную
 жизнь».[^1]
 
+Ответ хейтерам защищает практичность совета «уволься и найди любимую
+работу» уточнением: нелюбовь к работе почти никогда не про саму
+профессию — «суперредко» человек говорит «я работаю программистом, но
+не люблю программирование»; чаще речь про место, где эту профессию
+делают — компанию, людей, атмосферу. Когда эти два уровня путают, смена
+профессии кажется сложнее, чем смена компании. Замена оправдана только
+когда разница в оплате «очень-очень» большая — не просто «много», а
+именно очень; иначе высокая зарплата на нелюбимой работе и есть та самая
+«любимая часть», которая держит человека на месте сильнее, чем кажется
+самому человеку.[^2]
+
 ## Appearances in Sources
 
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [59:35] — ответ про движение FIRE
+- [[stryomnye-oshibki-nachinayushchih](pages/stryomnye-oshibki-nachinayushchih.md)] [18:09] — ответ хейтерам: работа vs место работы
 
 ## Related Concepts
 
@@ -37,3 +49,4 @@ Early) и жизнь на дивиденды — две логические о�
 - [[rabota-ne-ravna-identichnosti](pages/rabota-ne-ravna-identichnosti.md)] — смежная тема отношения к работе
 
 [^1]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [59:35] — «займись сразу любимой работой. Что ты, что ты так усложняешь-то? ... уволься, блин, уволься и пойди на любимую работу, и всё станет хорошо»
+[^2]: [[stryomnye-oshibki-nachinayushchih](pages/stryomnye-oshibki-nachinayushchih.md)] [18:09] — «крайне редко речь идёт про то, что мы делаем. Намного чаще речь идёт про то, где мы это делаем»
