@@ -46,6 +46,7 @@ updated: 2026-08-15
 
 - [[zapas-prochnosti](pages/zapas-prochnosti.md)] — почему малому бизнесу резервы вместо кредитов
 - [[trat-menshe-chem-zarabatyvaesh](pages/trat-menshe-chem-zarabatyvaesh.md)] — личная версия того же отношения к заёмному
+- [[kredit-vygoden-tolko-na-dorozhayushchiy-aktiv](pages/kredit-vygoden-tolko-na-dorozhayushchiy-aktiv.md)] — та же логика «выгодно, если окупает ставку», но для личного кредита
 
 [^1]: [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] [9:42] — «Самые дешёвые деньги - это клиентские ... самые лучшие деньги - это, конечно, кредитные, потому что они бесконечные ... инвесторские деньги привлекать надо только там, где очень высокие риски»
 [^2]: [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] [18:17] — «Брать кредиты, ну, такое в малом бизнесе категорически не рекомендуется»

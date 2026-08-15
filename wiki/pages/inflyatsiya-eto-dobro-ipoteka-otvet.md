@@ -3,7 +3,7 @@ title: Инфляция — добро, ипотека — ответ
 category: Concepts
 summary: Твои расходы — чьи-то доходы: накопительство вредно экономике, траты полезны; отказ от кофе не приближает к покупке квартиры — просто мало зарабатываешь; ипотека превращает инфляцию из врага в союзника
 tags: [concept, money, economy]
-sources: [chto-delat-v-2026-sovety-neudachnikam]
+sources: [chto-delat-v-2026-sovety-neudachnikam, save-or-spend-loans-inflation-philanthropists]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -25,13 +25,26 @@ updated: 2026-08-15
 том, чтобы купить в ипотеку», и тогда рост цен работает на тебя — «о,
 квартира подорожала, я выгодно купил».[^1]
 
+Та же мысль другими словами — деньги как «промежуточное состояние»:
+получил деньги за свой труд, чтобы обменять их на чужой труд, и
+инфляция существует именно для того, чтобы ускорить этот обмен, а не
+дать деньгам залежаться. Метафора с ракушками: «вам выдали ваши ракушки,
+иди обменяй ракушки на товар, который тебе нужен» — попытка беречь
+ракушки вместо обмена на товар оставляет тебя ни с чем, когда ракушки
+обесценятся. Отсюда практический вывод — превращать деньги в активы и
+ценности как можно быстрее (квартира в ипотеку, машина, техника): «нет
+денег, нет проблем», инфляция для тебя перестаёт быть угрозой.[^2]
+
 ## Appearances in Sources
 
 - [[chto-delat-v-2026-sovety-neudachnikam](pages/chto-delat-v-2026-sovety-neudachnikam.md)] — ответ про инфляцию и «бабблти вместо накоплений»
+- [[save-or-spend-loans-inflation-philanthropists](pages/save-or-spend-loans-inflation-philanthropists.md)] [0:00] — метафора денег-ракушек, инфляция как стимул к обмену
 
 ## Related Concepts
 
 - [[stoimost-deneg](pages/stoimost-deneg.md)] — ипотека как «почти всегда выгодный» кредит
 - [[trat-menshe-chem-zarabatyvaesh](pages/trat-menshe-chem-zarabatyvaesh.md)] — сберегать нужно, но не бесконечно и не любой ценой
+- [[kredit-vygoden-tolko-na-dorozhayushchiy-aktiv](pages/kredit-vygoden-tolko-na-dorozhayushchiy-aktiv.md)] — детальная математика: почему именно ипотека выгодна, а потребкредит — нет
 
 [^1]: [[chto-delat-v-2026-sovety-neudachnikam](pages/chto-delat-v-2026-sovety-neudachnikam.md)] [3:41] — «наши расходы — это чьи-то доходы ... задача не в том, чтобы копить, а в том, чтобы купить в ипотеку»
+[^2]: [[save-or-spend-loans-inflation-philanthropists](pages/save-or-spend-loans-inflation-philanthropists.md)] [0:00] — «вам выдали ваши ракушки, иди обменяй ракушки на товар, который тебе нужен ... нет денег, нет проблем»
