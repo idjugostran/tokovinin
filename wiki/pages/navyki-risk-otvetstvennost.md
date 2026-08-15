@@ -3,7 +3,7 @@ title: Навыки, риск, ответственность — три уро�
 category: Concepts
 summary: Есть только три способа зарабатывать больше — продавать навыки (потолок известен), продавать риск (навыки × риск = бизнес, «бескрайние горизонты») или продавать ответственность (менеджмент)
 tags: [concept, career, money]
-sources: [kak-ponyat-chto-ty-ne-predprinimatel, malyy-biznes-ne-nuzhen-v-rossii]
+sources: [kak-ponyat-chto-ty-ne-predprinimatel, malyy-biznes-ne-nuzhen-v-rossii, zhadnost-li-klyuch-k-uspehu]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -27,10 +27,18 @@ updated: 2026-08-15
 поделитесь прибылью» — пример: Возняк (инженер) + Джобс + инвестор
 Маркула, сложившиеся в Apple.[^1]
 
+Наглядный предел «продажи ответственности»: в бизнесе платят не за
+часы, а за риск и ответственность — поэтому мать троих детей, не способная
+работать «с утра до вечера» по найму, вполне может управлять бизнесом
+через нанятую команду; правильно построенный бизнес работает и без
+ежедневного присутствия владельца. «Если ты в бизнесе пашешь как чёрт
+20 часов — скорее всего, ты что-то делаешь не так».[^2]
+
 ## Appearances in Sources
 
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — ответ программисту о переходе на «пассивный» доход
 - [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — та же триада с точки зрения нанимателя [9:57]
+- [[zhadnost-li-klyuch-k-uspehu](pages/zhadnost-li-klyuch-k-uspehu.md)] — бизнес без владельца на месте, «ресторан Пушкин» [7:44]
 
 ## Related Concepts
 
@@ -39,3 +47,4 @@ updated: 2026-08-15
 - [[tri-sposoba-zastavit-rabotat-na-sebya](pages/tri-sposoba-zastavit-rabotat-na-sebya.md)] — зеркальная триада: чем ты платишь за чужой труд
 
 [^1]: [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] [49:39] — «ты зарабатываешь либо продавая навыки, либо беря на себя риск, либо беря на себя ответственность ... если ты хочешь продолжать продавать навыки, скорее всего, ничего принципиально поменяться не может»
+[^2]: [[zhadnost-li-klyuch-k-uspehu](pages/zhadnost-li-klyuch-k-uspehu.md)] [7:44] — «в бизнесе платят не за человека-часы ... если ты в бизнесе пашешь 20 часов как чёрт, скорее всего, ты что-то делаешь не так»

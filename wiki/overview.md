@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu]
 updated: 2026-08-15
 ---
 
@@ -151,3 +151,5 @@ updated: 2026-08-15
 - [[idei-ne-kradut](pages/idei-ne-kradut.md)]
 - [[korporativnaya-kultura-eto-otbor](pages/korporativnaya-kultura-eto-otbor.md)]
 - [[mif-o-svobode-predprinimatelstva](pages/mif-o-svobode-predprinimatelstva.md)]
+- [[marzha-eto-voyna-a-ne-zhadnost](pages/marzha-eto-voyna-a-ne-zhadnost.md)]
+- [[samomnenie-bez-podkrepleniya](pages/samomnenie-bez-podkrepleniya.md)]
