@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -41,6 +41,13 @@ updated: 2026-08-15
 весь сдохнет»; стратегия «худой сдохнет, я как самый жирный выживу
 последним» плохая, потому что затянувшаяся борьба разрушает рынок
 настолько, что победитель остаётся один с той же убийственной маржой.[^10]
+
+Про исходную ёмкость ниши на уровне целой страны: Россия структурно
+похожа на развитую экономику (Францию, не Зимбабве) — «все ниши имеют
+довольно высокую конкуренцию», и точка нулевой конкуренции возможна
+только во вновь зарождающихся категориях, и то ненадолго; ниши без
+конкуренции по другой причине обычно требуют уникальных ресурсов, которых
+«ни у кого нет, и у вас тоже не будет».[^11]
 
 Обратная сторона той же силы — рост прощает исполнение:
 «бизнес растёт не благодаря твоим усилиям, а вопреки твоим косякам», и
@@ -84,6 +91,7 @@ updated: 2026-08-15
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [42:16, 45:00, 1:02:58] — фазы жизненного цикла ниши, Вкусвилл, «продавай лопаты»
 - [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — доставка пиццы vs секондхенд-одежда как оригинальная идея
 - [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [4:39] — выход с рынка, скатившегося в демпинговую войну
+- [[kak-stat-horoshim-menedzherom](pages/kak-stat-horoshim-menedzherom.md)] [3:58] — Россия как высококонкурентный развитый рынок
 
 ## Related Concepts
 
@@ -102,3 +110,4 @@ updated: 2026-08-15
 [^8]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [45:00] — «в девяти из десяти случаев вопреки ... 90% она выросла и преуспела не благодаря этому, а вопреки этому»
 [^9]: [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — «одно дело ты доставляешь пиццу — просто обсудить спрос и решать логистические, кадровые, производственные проблемы ... давайте возьмём неведомую хрень — очень мало шансов на успех»
 [^10]: [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [4:39] — «если рынок превратился в такую кровавую баню, что маржа опустилась до 3%, надо как можно быстрее убегать ... всерьёз рассчитывать, что я сдохну последним, — это плохая тактика»
+[^11]: [[kak-stat-horoshim-menedzherom](pages/kak-stat-horoshim-menedzherom.md)] [3:58] — «Россия в этом смысле намного больше похожа на Францию, чем на Зимбабве ... эта точка нулевой конкуренции возможна только во вновь зарождающихся нишах, и то очень недолго»
