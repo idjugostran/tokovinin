@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify]
 updated: 2026-08-15
 ---
 
@@ -74,6 +74,15 @@ updated: 2026-08-15
 высоких чеках покупают не товар, а уверенность
 ([[prodayut-ne-tovar-a-uverennost](pages/prodayut-ne-tovar-a-uverennost.md)]).
 
+Начало второго батча (11-й и 12-й источники) добавило рыночный слой:
+рынок оценивает труд, а не приятность и не эмоции
+([[rynok-otsenivaet-trud-a-ne-priyatnost](pages/rynok-otsenivaet-trud-a-ne-priyatnost.md)]),
+не умеешь продавать себя — найми того, кто продаст
+([[prodat-sebya-cherez-drugogo](pages/prodat-sebya-cherez-drugogo.md)]),
+а зарплата — функция маржи нанимателя и верифицируемости навыка, а не
+модной отрасли
+([[zarplata-marzha-i-verifitsiruemost](pages/zarplata-marzha-i-verifitsiruemost.md)]).
+
 ## Open Questions
 
 - ~~Как рамка «марафона» уживается с «lose fast»?~~ Разрешено четвёртым
@@ -130,3 +139,7 @@ updated: 2026-08-15
 - [[navyki-risk-otvetstvennost](pages/navyki-risk-otvetstvennost.md)]
 - [[prodayut-ne-tovar-a-uverennost](pages/prodayut-ne-tovar-a-uverennost.md)]
 - [[kassovyy-razryv-zdorovyy-i-net](pages/kassovyy-razryv-zdorovyy-i-net.md)]
+- [[rynok-otsenivaet-trud-a-ne-priyatnost](pages/rynok-otsenivaet-trud-a-ne-priyatnost.md)]
+- [[prodat-sebya-cherez-drugogo](pages/prodat-sebya-cherez-drugogo.md)]
+- [[sytost-krizis-srednego-vozrasta](pages/sytost-krizis-srednego-vozrasta.md)]
+- [[zarplata-marzha-i-verifitsiruemost](pages/zarplata-marzha-i-verifitsiruemost.md)]

@@ -3,7 +3,7 @@ title: Менять обстоятельства, а не себя
 category: Concepts
 summary: Из двух путей развития — чинить свои слабости или выбирать обстоятельства под сильные стороны — второй «всегда выигрышный»
 tags: [concept]
-sources: [bolshe-tratish-bolshe-poluchaesh, kak-izbezhat-oshibok-v-biznese]
+sources: [bolshe-tratish-bolshe-poluchaesh, kak-izbezhat-oshibok-v-biznese, gde-mnogo-platyat-mify]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,9 +30,16 @@ updated: 2026-08-15
 оказался» («если у твоего папы автомобильный завод — нехрен играть на
 скрипке»).[^3]
 
+Эмпатия — тот же принцип на конкретном примере: это врождённое качество,
+«практически не поддающееся искусственному развитию», как музыкальный
+слух. Задача не развивать его, а трезво оценить уровень и строить
+стратегию вокруг сильных сторон — нулевая эмпатия закрывает путь в
+продажи, но не мешает быть программистом.[^4]
+
 ## Appearances in Sources
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — ответы про «как стать сильным в общении» и уличные драки
+- [[gde-mnogo-platyat-mify](pages/gde-mnogo-platyat-mify.md)] — эмпатия как врождённое качество (аналогия с музыкальным слухом) [8:33]
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — «сёрфер на волне», отыгрывание обстоятельств вместо поиска дела жизни
 
 ## Related Concepts
@@ -43,3 +50,4 @@ updated: 2026-08-15
 [^1]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [4:18] — «есть два пути менять себя менять обстоятельства чтобы они были наиболее подходящими тебе второй всегда выигрышный»
 [^2]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [3:35] — «обезьяны захватили мир не руками а мозгом умные всё равно побеждают Зачем становиться каратистом»
 [^3]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [24:11] — «ты не управляешь своей жизнью, ты в каком-то смысле сёрфер на волне ... успех в том, чтобы не создавать [обстоятельства], а их отыграть»
+[^4]: [[gde-mnogo-platyat-mify](pages/gde-mnogo-platyat-mify.md)] [8:33] — «наша задача не развивать эмпатию, наша задача трезво оценивать уровень нашей эмпатии, исходя из этого строить дальнейшую жизненную стратегию»
