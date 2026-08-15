@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi, chto-budet-zavtra, stryomnye-oshibki-nachinayushchih, kogo-nelzya-brat-na-rabotu, kak-nakazyvat-sotrudnikov, gde-traderov-i-spekulyantov-vedut-mir, ban-this-from-your-children, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya, ne-delay-kak-durov, ne-uvolnyaysya-poka-ne-posmotrish, save-or-spend-loans-inflation-philanthropists]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi, chto-budet-zavtra, stryomnye-oshibki-nachinayushchih, kogo-nelzya-brat-na-rabotu, kak-nakazyvat-sotrudnikov, gde-traderov-i-spekulyantov-vedut-mir, ban-this-from-your-children, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya, ne-delay-kak-durov, ne-uvolnyaysya-poka-ne-posmotrish, save-or-spend-loans-inflation-philanthropists, where-to-invest-and-avoid-going-nuts]
 updated: 2026-08-15
 ---
 
@@ -267,6 +267,10 @@ B2B-маркетинг в enterprise-сегменте сводится к охв
 плюс первая в вики страница про благотворительность: издержки
 перераспределения естественны, а стыд за пожертвования вреден обществу
 ([[blagotvoritelnost-nuzhno-delat-gromko](pages/blagotvoritelnost-nuzhno-delat-gromko.md)]).
+Третий источник почти целиком ремикс «kak-stat-schastlivym-i-bogatym» —
+кроме нового ответа про «зашкварные» профессии: зашкварен не род занятий,
+а сознательный обман внутри него
+([[zashkvar-eto-obman-a-ne-professiya](pages/zashkvar-eto-obman-a-ne-professiya.md)]).
 
 ## Open Questions
 
@@ -429,3 +433,4 @@ B2B-маркетинг в enterprise-сегменте сводится к охв
 - [[zarplata-vsegda-nespravedliva-otkrytost-vredna](pages/zarplata-vsegda-nespravedliva-otkrytost-vredna.md)]
 - [[kredit-vygoden-tolko-na-dorozhayushchiy-aktiv](pages/kredit-vygoden-tolko-na-dorozhayushchiy-aktiv.md)]
 - [[blagotvoritelnost-nuzhno-delat-gromko](pages/blagotvoritelnost-nuzhno-delat-gromko.md)]
+- [[zashkvar-eto-obman-a-ne-professiya](pages/zashkvar-eto-obman-a-ne-professiya.md)]

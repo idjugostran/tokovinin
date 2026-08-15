@@ -3,7 +3,7 @@ title: Диверсификация — самообман
 category: Concepts
 summary: «Если корзина хорошая, туда надо всё положить»: диверсификация — самообман неспособности просчитать риск; клади ресурсы туда, где у тебя есть компетенции
 tags: [concept, money, business]
-sources: [kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel]
+sources: [kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, where-to-invest-and-avoid-going-nuts]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -36,6 +36,7 @@ updated: 2026-08-15
 
 - [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — ответ на поговорку про яйца в разных корзинах
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — «среднее плюс среднее равно среднее»: диверсификация против ставки [34:05]
+- [[where-to-invest-and-avoid-going-nuts](pages/where-to-invest-and-avoid-going-nuts.md)] [5:57] — ремикс того же ответа про яйца и корзину
 
 ## Related Concepts
 
