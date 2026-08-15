@@ -3,7 +3,7 @@ title: Работай сколько любишь, но не по ночам
 category: Concepts
 summary: Работа над любимым бизнесом без границ («мы не грузчики, у бизнеса нет смены») — это не вред, а удовольствие; но ночная работа за счёт сна — доказанно вредна и не окупается никогда
 tags: [concept, productivity, health]
-sources: [distsiplina-i-vygoranie]
+sources: [distsiplina-i-vygoranie, trat-molodost-na-rabotu]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -30,6 +30,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[distsiplina-i-vygoranie](pages/distsiplina-i-vygoranie.md)] — ответ про режим 60–80 часов в неделю
+- [[trat-molodost-na-rabotu](pages/trat-molodost-na-rabotu.md)] — тот же ответ в перемонтаже, с историей про офис в подвале и путь домой два часа [0:00]
 
 ## Related Concepts
 
