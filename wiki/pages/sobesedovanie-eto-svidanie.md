@@ -3,7 +3,7 @@ title: Собеседование — это свидание
 category: Concepts
 summary: На собеседовании невозможно оценить ответственность или надёжность («монетка надёжнее») — единственное, что оно улавливает, это взаимную симпатию; пригодность к делегированию проверяется только совместной работой
 tags: [concept, hiring, management]
-sources: [zhestokost-i-spravedlivost-kapitalizma]
+sources: [zhestokost-i-spravedlivost-kapitalizma, ne-uvolnyaysya-poka-ne-posmotrish]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -33,6 +33,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [21:01] — ответ про выбор людей для делегирования
+- [[ne-uvolnyaysya-poka-ne-posmotrish](pages/ne-uvolnyaysya-poka-ne-posmotrish.md)] — ремикс того же ответа
 
 ## Related Concepts
 

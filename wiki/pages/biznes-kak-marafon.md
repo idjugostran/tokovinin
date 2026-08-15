@@ -3,7 +3,7 @@ title: Бизнес как марафон
 category: Concepts
 summary: Жизнь и бизнес — дистанция на 20–40 лет; побеждает стабильный рост ~5% в год, а не рывки, поэтому ресурсы (нервы, возможности) надо беречь
 tags: [concept]
-sources: [bolshe-tratish-bolshe-poluchaesh, zhestokost-i-spravedlivost-kapitalizma]
+sources: [bolshe-tratish-bolshe-poluchaesh, zhestokost-i-spravedlivost-kapitalizma, ne-uvolnyaysya-poka-ne-posmotrish]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -38,6 +38,7 @@ updated: 2026-08-15
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — формулировка «не спринт, а марафон», 5% в год, критика кредитной BMW
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [48:14] — Excel на 40 лет при выборе работы, жизнь пятилетками
+- [[ne-uvolnyaysya-poka-ne-posmotrish](pages/ne-uvolnyaysya-poka-ne-posmotrish.md)] — ремикс того же ответа про смену работы ради 2x
 
 ## Related Concepts
 

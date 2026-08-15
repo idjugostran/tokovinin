@@ -3,7 +3,7 @@ title: Критика движения FIRE
 category: Concepts
 summary: Копить капитал, чтобы жить на пассивный доход и потом заняться любимым делом, — избыточно сложный обходной путь; логическая ошибка в том, что можно заняться любимым делом сразу
 tags: [concept, money, career]
-sources: [zhestokost-i-spravedlivost-kapitalizma, stryomnye-oshibki-nachinayushchih]
+sources: [zhestokost-i-spravedlivost-kapitalizma, stryomnye-oshibki-nachinayushchih, ne-uvolnyaysya-poka-ne-posmotrish]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -42,6 +42,7 @@ Early) и жизнь на дивиденды — две логические о�
 
 - [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [59:35] — ответ про движение FIRE
 - [[stryomnye-oshibki-nachinayushchih](pages/stryomnye-oshibki-nachinayushchih.md)] [18:09] — ответ хейтерам: работа vs место работы
+- [[ne-uvolnyaysya-poka-ne-posmotrish](pages/ne-uvolnyaysya-poka-ne-posmotrish.md)] — ремикс того же ответа про FIRE
 
 ## Related Concepts
 
