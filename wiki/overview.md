@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma]
 updated: 2026-08-15
 ---
 
@@ -91,6 +91,27 @@ updated: 2026-08-15
 Отдельная линия — доминирование в паре как оборотная сторона
 ответственности, а не просто власти
 ([[dominirovanie-i-otvetstvennost](pages/dominirovanie-i-otvetstvennost.md)]).
+
+Очередной мегавыпуск добавил управленческий слой: текучка не всегда
+проблема, а иногда естественная ротация отрасли
+([[tekuchka-ne-vsegda-problema](pages/tekuchka-ne-vsegda-problema.md)]);
+личная мотивация сотрудника — не зона ответственности руководителя, в
+отличие от общей атмосферы коллектива
+([[atmosfera-a-ne-lichnaya-motivatsiya](pages/atmosfera-a-ne-lichnaya-motivatsiya.md)]),
+а критика в коллективе полезна ровно до той черты, где перестаёт быть
+решаемой
+([[konstruktivnoe-vorchanie-polezno](pages/konstruktivnoe-vorchanie-polezno.md)]).
+Наём и делегирование он сравнивает со свиданием: собеседование ловит
+только симпатию, пригодность проверяется только совместной работой
+([[sobesedovanie-eto-svidanie](pages/sobesedovanie-eto-svidanie.md)]).
+Бренд — не «лучший», а честное позиционирование, готовое отказывать
+части клиентов
+([[brend-eto-pozicionirovanie-ne-luchshiy](pages/brend-eto-pozicionirovanie-ne-luchshiy.md)]),
+а конкуренция с маркетплейсами выигрывается ценностью, а не запретом
+трогать товар
+([[konkuriruy-tsennostyu-a-ne-zapretom](pages/konkuriruy-tsennostyu-a-ne-zapretom.md)]).
+Движение FIRE — обходной путь к тому, что можно сделать сразу
+([[kritika-dvizheniya-fire](pages/kritika-dvizheniya-fire.md)]).
 
 ## Open Questions
 
@@ -197,3 +218,10 @@ updated: 2026-08-15
 - [[prodavay-podhod-a-ne-sebya](pages/prodavay-podhod-a-ne-sebya.md)]
 - [[semeynyy-kodeks-dlya-srednego](pages/semeynyy-kodeks-dlya-srednego.md)]
 - [[dominirovanie-i-otvetstvennost](pages/dominirovanie-i-otvetstvennost.md)]
+- [[tekuchka-ne-vsegda-problema](pages/tekuchka-ne-vsegda-problema.md)]
+- [[atmosfera-a-ne-lichnaya-motivatsiya](pages/atmosfera-a-ne-lichnaya-motivatsiya.md)]
+- [[konstruktivnoe-vorchanie-polezno](pages/konstruktivnoe-vorchanie-polezno.md)]
+- [[sobesedovanie-eto-svidanie](pages/sobesedovanie-eto-svidanie.md)]
+- [[brend-eto-pozicionirovanie-ne-luchshiy](pages/brend-eto-pozicionirovanie-ne-luchshiy.md)]
+- [[konkuriruy-tsennostyu-a-ne-zapretom](pages/konkuriruy-tsennostyu-a-ne-zapretom.md)]
+- [[kritika-dvizheniya-fire](pages/kritika-dvizheniya-fire.md)]

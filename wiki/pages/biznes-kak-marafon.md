@@ -3,7 +3,7 @@ title: Бизнес как марафон
 category: Concepts
 summary: Жизнь и бизнес — дистанция на 20–40 лет; побеждает стабильный рост ~5% в год, а не рывки, поэтому ресурсы (нервы, возможности) надо беречь
 tags: [concept]
-sources: [bolshe-tratish-bolshe-poluchaesh]
+sources: [bolshe-tratish-bolshe-poluchaesh, zhestokost-i-spravedlivost-kapitalizma]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -25,9 +25,19 @@ updated: 2026-08-15
 запас нужен, чтобы «спать спокойно» на длинной дистанции, а не для
 разового прыжка.
 
+Конкретный инструмент для решений «в моменте» — считать в дистанции, а не
+в моменте: на вопрос «стоит ли менять работу ради зарплаты х2» совет —
+свести в Excel два столбика на 40 лет вперёд, один с зарплатой, вдвое
+большей всё это время, другой с ростом на 5% в год, — и во втором
+столбике почти всегда выгоднее. Отсюда практика «жить пятилетками»:
+формулировать не «здесь и сейчас», а «эти пять лет я прожил так, следующие
+пять хочу прожить эдак», потому что «большие вещи требуют времени», и
+крупные решения нельзя оценивать по тактическому эффекту.[^2]
+
 ## Appearances in Sources
 
 - [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] — формулировка «не спринт, а марафон», 5% в год, критика кредитной BMW
+- [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [48:14] — Excel на 40 лет при выборе работы, жизнь пятилетками
 
 ## Related Concepts
 
@@ -36,3 +46,4 @@ updated: 2026-08-15
 - [[zapas-prochnosti](pages/zapas-prochnosti.md)] — чем гасятся удары на дистанции
 
 [^1]: [[bolshe-tratish-bolshe-poluchaesh](pages/bolshe-tratish-bolshe-poluchaesh.md)] [0:48] — «победит не тот кто умудрился совершить рывок а тот кто умудрился каждый год 40 лет по 5% расти и нам нужны ресурсы их надо беречь надо беречь нервы»
+[^2]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [48:14] — «сделай Excel, моя зарплата за ближайшие 40 лет ... на самом деле во втором столбике намного выгоднее»

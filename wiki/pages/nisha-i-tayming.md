@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -47,12 +47,26 @@ updated: 2026-08-15
 других рынках, и переносить: «копируй, не придумывай ... где-то это
 успешно, а у нас этого нет — это можно скопировать».[^5]
 
+Рост стоимости лида при падении прибыли — не аномалия, а естественная
+фаза той же кривой: «маленький растущий, большой растущий, большой
+нерастущий и маленький умирающий» — каждая ниша проходит эти стадии, и
+паниковать стоит только слабейшим игрокам, потому что насыщение убивает
+слабых и освобождает место остальным.[^6] Уход из перенасыщенной ниши не
+обязан означать полную смену темы — «продавай лопаты, а не золото»:
+остаться в предметной области, но продавать то, что нужно перегруженным
+конкурентам, а не конечному потребителю.[^7] Ту же логику «успех вопреки,
+а не благодаря» подтверждает пример Вкусвилла: когда компания растёт на
+управленческой моде («бирюзовость»), в девяти случаях из десяти рост
+происходит вопреки этой моде, а не благодаря ей, — и обычно даже сам
+фаундер не может точно назвать, что именно сработало.[^8]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — критерии ниши, тайминг, масштабирование
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — «не будь первым», тест успешным конкурентом, «гики наигрались, мама не начинала»
 - [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — «товар создан не для тебя» — у каждого товара свой покупатель [12:55]
 - [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] — копируй успешное с других рынков (Crunchbase) [10:02]
+- [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [42:16, 45:00, 1:02:58] — фазы жизненного цикла ниши, Вкусвилл, «продавай лопаты»
 
 ## Related Concepts
 
@@ -66,3 +80,6 @@ updated: 2026-08-15
 [^3]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [41:17] — «основная проблема при масштабировании может возникнуть, если мы очень быстро растём — быстрее, чем растут наши компетенции и компетенции наших людей ... рост всё простит»
 [^4]: [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] [1:00:53] — «лучший тест на свою бизнес-идею: где-то кто-то это делает, и он уже успешен ... Хороший предприниматель знает, как из рынка на миллион долларов сделать рынок на миллиард»
 [^5]: [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] [10:02] — «где-то это успешно, а у нас этого нет — это можно скопировать ... в целом нормальная рабочая механика»
+[^6]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [42:16] — «маленький растущий, большой растущий, большой нерастущий и маленький умирающий ... это будет убивать самых слабых»
+[^7]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [1:02:58] — «и как бы, и перестань искать золото, начни продавать лопаты»
+[^8]: [[zhestokost-i-spravedlivost-kapitalizma](pages/zhestokost-i-spravedlivost-kapitalizma.md)] [45:00] — «в девяти из десяти случаев вопреки ... 90% она выросла и преуспела не благодаря этому, а вопреки этому»
