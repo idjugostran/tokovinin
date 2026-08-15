@@ -31,5 +31,6 @@ updated: 2026-08-15
 ## Related Concepts
 
 - [[otvetstvennost-daet-pravo-reshat](pages/otvetstvennost-daet-pravo-reshat.md)] — тот же управленческий блок: реальные рычаги, а не ритуалы власти
+- [[korporativnaya-kultura-eto-otbor](pages/korporativnaya-kultura-eto-otbor.md)] — среда и отбор вместо штрафов и наказаний
 
 [^1]: [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] [15:00] — «люди себя наказывают сами ... задача руководителя — просто не мешать людям наказывать себя самим»

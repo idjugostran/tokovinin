@@ -3,7 +3,7 @@ title: Отложенное предпринимательство
 category: Concepts
 summary: Многодетному/обременённому наёмнику — не спешить в бизнес: копить репутацию, связи и капитал в найме до момента, когда обстоятельства позволят рискнуть (например к 45)
 tags: [concept, career, business]
-sources: [kak-ponyat-chto-ty-ne-predprinimatel]
+sources: [kak-ponyat-chto-ty-ne-predprinimatel, komu-na-krizise-zhit-horosho]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -24,9 +24,16 @@ updated: 2026-08-15
 обстоятельства позволят рискнуть, будут не только свобода и накопления,
 но и «огромный социальный капитал — люди, которые могут тебе помочь».[^1]
 
+Зеркальная рекомендация — после неудавшегося бизнеса: «пойти поработать в
+найм ... учишься за чужой счёт, и кто-то другой разорится от твоих
+удивительных способностей», а наставник не даст делать глупости.[^2]
+Отложенное предпринимательство работает в обе стороны — и до первой
+попытки, и после неудачной.
+
 ## Appearances in Sources
 
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — ответ многодетному отцу в IT
+- [[komu-na-krizise-zhit-horosho](pages/komu-na-krizise-zhit-horosho.md)] — найм как обучение за чужой счёт после провала [12:21]
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Запас прочности
 category: Concepts
 summary: Хороший бизнес держит «жирок» — резервы, компенсирующие пульсации выручки; нет запаса — значит низкая маржинальность, и очередной удар добьёт
 tags: [concept, business, money]
-sources: [pochemu-vrut-pro-biznes-i-dengi]
+sources: [pochemu-vrut-pro-biznes-i-dengi, komu-na-krizise-zhit-horosho]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -28,9 +28,14 @@ updated: 2026-08-15
 [[biznes-kak-marafon](pages/biznes-kak-marafon.md)]: дистанция длинная,
 удары неизбежны, выживает тот, у кого есть чем их гасить.
 
+Практическое правило по выводу прибыли из «жирка»: «чем больше сумма
+выводимых денег, тем реже её можно выводить» — тяга тащить деньги из
+кассы каждую неделю выдаёт, что в бизнесе критически мало резерва.[^2]
+
 ## Appearances in Sources
 
 - [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] — ответ про кассовые разрывы студии
+- [[komu-na-krizise-zhit-horosho](pages/komu-na-krizise-zhit-horosho.md)] — как часто выводить прибыль собственнику [20:01]
 
 ## Related Concepts
 
@@ -39,3 +44,4 @@ updated: 2026-08-15
 - [[stoimost-deneg](pages/stoimost-deneg.md)] — почему не кредиты
 
 [^1]: [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] [18:17] — «Хороший бизнес должен обеспечивать достаточную маржинальность, чтобы у вас был небольшой жирок и запас прочности ... В периоды хорошей выручки откладывать, в периоды низкой выручки докладывать»
+[^2]: [[komu-na-krizise-zhit-horosho](pages/komu-na-krizise-zhit-horosho.md)] [20:01] — «чем больше сумма этих выводимых денег, тем реже их можно выводить ... если вас тянет тащить из кассы каждую неделю, там очень мало денег»

@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho]
 updated: 2026-08-15
 ---
 
@@ -147,3 +147,7 @@ updated: 2026-08-15
 - [[pervyy-uspeshnyy-biznes-eto-loteree](pages/pervyy-uspeshnyy-biznes-eto-loteree.md)]
 - [[tri-sposoba-zastavit-rabotat-na-sebya](pages/tri-sposoba-zastavit-rabotat-na-sebya.md)]
 - [[nakazanie-ne-nuzhno](pages/nakazanie-ne-nuzhno.md)]
+- [[peremeny-vygodny-golodnym](pages/peremeny-vygodny-golodnym.md)]
+- [[idei-ne-kradut](pages/idei-ne-kradut.md)]
+- [[korporativnaya-kultura-eto-otbor](pages/korporativnaya-kultura-eto-otbor.md)]
+- [[mif-o-svobode-predprinimatelstva](pages/mif-o-svobode-predprinimatelstva.md)]

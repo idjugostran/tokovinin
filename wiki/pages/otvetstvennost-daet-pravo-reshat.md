@@ -36,5 +36,6 @@ updated: 2026-08-15
 - [[biznes-stremitsya-k-monopolii](pages/biznes-stremitsya-k-monopolii.md)] — та же трезвая природа бизнеса без морализаторства
 - [[tri-pravila-partnerstva](pages/tri-pravila-partnerstva.md)] — «кто главнее» — тот же принцип применительно к партнёрству
 - [[nakazanie-ne-nuzhno](pages/nakazanie-ne-nuzhno.md)] — реальные управленческие рычаги против ритуалов власти
+- [[korporativnaya-kultura-eto-otbor](pages/korporativnaya-kultura-eto-otbor.md)] — среда как замена постоянному контролю
 
 [^1]: [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] [10:57] — «прежде чем мы говорим про ответственность, кто-то должен ответственность взять и сказать: я решил, что будет так, и я несу за это ответственность»
