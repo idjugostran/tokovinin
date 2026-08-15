@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi, chto-budet-zavtra, stryomnye-oshibki-nachinayushchih, kogo-nelzya-brat-na-rabotu, kak-nakazyvat-sotrudnikov, gde-traderov-i-spekulyantov-vedut-mir, ban-this-from-your-children, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya, ne-delay-kak-durov, ne-uvolnyaysya-poka-ne-posmotrish, save-or-spend-loans-inflation-philanthropists, where-to-invest-and-avoid-going-nuts, avtoritarizm-ili-demokratiya, do-manifestation-challenges-work, how-scandals-help-business, how-to-charm-an-investor-and-buy-porsche, deliberately-lost-billions, scam-or-chance-to-jump-on-last-wagon, what-if-peasant-family, how-to-find-a-wife]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi, chto-budet-zavtra, stryomnye-oshibki-nachinayushchih, kogo-nelzya-brat-na-rabotu, kak-nakazyvat-sotrudnikov, gde-traderov-i-spekulyantov-vedut-mir, ban-this-from-your-children, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya, ne-delay-kak-durov, ne-uvolnyaysya-poka-ne-posmotrish, save-or-spend-loans-inflation-philanthropists, where-to-invest-and-avoid-going-nuts, avtoritarizm-ili-demokratiya, do-manifestation-challenges-work, how-scandals-help-business, how-to-charm-an-investor-and-buy-porsche, deliberately-lost-billions, scam-or-chance-to-jump-on-last-wagon, what-if-peasant-family, how-to-find-a-wife, what-happens-when-company-delays-paychecks]
 updated: 2026-08-15
 ---
 
@@ -328,6 +328,17 @@ B2B-маркетинг в enterprise-сегменте сводится к охв
 ([[zhena-eto-demoversiya-detey](pages/zhena-eto-demoversiya-detey.md)]);
 исполнителя нельзя верифицировать заранее, только пробой
 ([[proba-edinstvennyy-sposob-verificirovat-ispolnitelya](pages/proba-edinstvennyy-sposob-verificirovat-ispolnitelya.md)]).
+Второй источник батча 7 — пять управленческих концептов: коллектив не
+устаёт, устают только люди
+([[kollektiv-ne-ustaet-tolko-lyudi](pages/kollektiv-ne-ustaet-tolko-lyudi.md)]);
+коммерческое мышление — главный навык предпринимателя
+([[kommercheskoe-myshlenie-glavny-navyk-predprinimatelya](pages/kommercheskoe-myshlenie-glavny-navyk-predprinimatelya.md)]);
+задержку зарплаты нельзя компенсировать задним числом (дополняет
+[[zarplata-vovremya-osnova-kontrakta](pages/zarplata-vovremya-osnova-kontrakta.md)]);
+опытный предприниматель сокращает штат, а не наращивает
+([[minimiziruy-shtat-a-ne-naraschivay](pages/minimiziruy-shtat-a-ne-naraschivay.md)]);
+менеджмент — утилизация падающей отдачи от роста команды
+([[menedzhment-eto-utilizatsiya-padayushchey-otdachi](pages/menedzhment-eto-utilizatsiya-padayushchey-otdachi.md)]).
 
 ## Open Questions
 
@@ -510,3 +521,7 @@ B2B-маркетинг в enterprise-сегменте сводится к охв
 - [[ne-umeesh-prodavat-ty-subpodryadchik](pages/ne-umeesh-prodavat-ty-subpodryadchik.md)]
 - [[zhena-eto-demoversiya-detey](pages/zhena-eto-demoversiya-detey.md)]
 - [[proba-edinstvennyy-sposob-verificirovat-ispolnitelya](pages/proba-edinstvennyy-sposob-verificirovat-ispolnitelya.md)]
+- [[kollektiv-ne-ustaet-tolko-lyudi](pages/kollektiv-ne-ustaet-tolko-lyudi.md)]
+- [[kommercheskoe-myshlenie-glavny-navyk-predprinimatelya](pages/kommercheskoe-myshlenie-glavny-navyk-predprinimatelya.md)]
+- [[minimiziruy-shtat-a-ne-naraschivay](pages/minimiziruy-shtat-a-ne-naraschivay.md)]
+- [[menedzhment-eto-utilizatsiya-padayushchey-otdachi](pages/menedzhment-eto-utilizatsiya-padayushchey-otdachi.md)]
