@@ -3,7 +3,7 @@ title: Медийный популизм
 category: Concepts
 summary: Медийные люди говорят «не то, что есть, а то, что хотят слышать» — оправдания вместо правды; так растёт аудитория, и это ловушка для слушателя
 tags: [concept, media]
-sources: [pochemu-vrut-pro-biznes-i-dengi, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis]
+sources: [pochemu-vrut-pro-biznes-i-dengi, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, mozhno-li-zarabotat-na-shortsah]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -32,12 +32,18 @@ updated: 2026-08-15
 «я вас развлекаю, вы развлекаетесь, а я зарабатываю на рекламе ... если вы
 на этом канале слушаете моё мнение — зачем вы это слушаете?»[^4]
 
+Разновидность в формате инфоцыганства: подросток ведёт подкаст «как я
+зарабатываю на Airbnb», а реально зарабатывает на подкасте и продаже
+курсов про заработок на Airbnb — «если бы он зарабатывал на Airbnb, зачем
+ему подкаст и продажа курсов?»[^5]
+
 ## Appearances in Sources
 
 - [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] — разбор тезиса о миллиардерах и механики популярности
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — хайповые книги (Тилли), дисклеймер о собственных советах
 - [[milliardnye-dolgi-sellery-i-startapy](pages/milliardnye-dolgi-sellery-i-startapy.md)] — «должен миллиард — проблема банка» (Кийосаки/KSI) как образец хайпожорства
 - [[velikiy-ekonomicheskiy-krizis](pages/velikiy-ekonomicheskiy-krizis.md)] — «фрейдизм для маленьких» в бизнес-медиа, Даннинг-Крюгер, популизм Рыбакова
+- [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] — инфоцыганский подкаст про Airbnb [10:02]
 
 ## Related Concepts
 
@@ -47,3 +53,4 @@ updated: 2026-08-15
 [^2]: [[pochemu-vrut-pro-biznes-i-dengi](pages/pochemu-vrut-pro-biznes-i-dengi.md)] [0:00] — «Надо смотреть в процентном отношении, где процент новых миллиардеров больше или меньше ... Россия тут будет далеко не в аутсайдерах»
 [^3]: [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] [34:04] — «жизнь основывается на здравой логике, дальше упаковывается в красивые слова, продаётся большим тиражом, называется бестселлер»
 [^4]: [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] [1:09:00] — «если вы на этом канале зачем-то слушаете моё мнение, значит, это мнение для вас значимое ... я вас развлекаю ... а я зарабатываю на рекламе»
+[^5]: [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] [10:02] — «зарабатывает он не на Airbnb, естественно, потому что зарабатывает на подкасте и на продаже курсов»

@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -43,11 +43,16 @@ updated: 2026-08-15
 инновацию: «когда кажется, что всё закончилось» — «гики наигрались, мама
 не начинала».[^4]
 
+Практический способ найти такую нишу — смотреть, что уже взлетело на
+других рынках, и переносить: «копируй, не придумывай ... где-то это
+успешно, а у нас этого нет — это можно скопировать».[^5]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — критерии ниши, тайминг, масштабирование
 - [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] — «не будь первым», тест успешным конкурентом, «гики наигрались, мама не начинала»
 - [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — «товар создан не для тебя» — у каждого товара свой покупатель [12:55]
+- [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] — копируй успешное с других рынков (Crunchbase) [10:02]
 
 ## Related Concepts
 
@@ -60,3 +65,4 @@ updated: 2026-08-15
 [^2]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [19:20] — «если ты вышел на рынок слишком рано, ты проиграл ... мы никуда не опаздываем. И даже если мы придём на рынок с небольшим опозданием, это лучше, чем если мы придём слишком рано»
 [^3]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [41:17] — «основная проблема при масштабировании может возникнуть, если мы очень быстро растём — быстрее, чем растут наши компетенции и компетенции наших людей ... рост всё простит»
 [^4]: [[pochemu-ty-bednyy](pages/pochemu-ty-bednyy.md)] [1:00:53] — «лучший тест на свою бизнес-идею: где-то кто-то это делает, и он уже успешен ... Хороший предприниматель знает, как из рынка на миллион долларов сделать рынок на миллиард»
+[^5]: [[mozhno-li-zarabotat-na-shortsah](pages/mozhno-li-zarabotat-na-shortsah.md)] [10:02] — «где-то это успешно, а у нас этого нет — это можно скопировать ... в целом нормальная рабочая механика»
