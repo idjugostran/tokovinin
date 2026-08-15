@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi, chto-budet-zavtra, stryomnye-oshibki-nachinayushchih, kogo-nelzya-brat-na-rabotu, kak-nakazyvat-sotrudnikov, gde-traderov-i-spekulyantov-vedut-mir, ban-this-from-your-children, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya, ne-delay-kak-durov, ne-uvolnyaysya-poka-ne-posmotrish, save-or-spend-loans-inflation-philanthropists, where-to-invest-and-avoid-going-nuts, avtoritarizm-ili-demokratiya]
+sources: [bolshe-tratish-bolshe-poluchaesh, pochemu-vrut-pro-biznes-i-dengi, kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, milliardnye-dolgi-sellery-i-startapy, velikiy-ekonomicheskiy-krizis, kakaya-zhenshchina-sdelaet-uspeshnym, gde-iskat-motivatsiyu, kak-stat-schastlivym-i-bogatym, kak-ponyat-chto-ty-ne-predprinimatel, za-kakuyu-zarplatu-terpet-tok, gde-mnogo-platyat-mify, malyy-biznes-ne-nuzhen-v-rossii, komu-na-krizise-zhit-horosho, zhadnost-li-klyuch-k-uspehu, kak-izmenit-zhizn-taksisty, pokupka-kvartiry-rebenku-monopolii, mozhno-li-zarabotat-na-shortsah, distsiplina-i-vygoranie, kogda-idti-k-psihiatru-2, kak-mozg-prinimaet-resheniya, moe-prizvanie-ne-rabotat, trat-molodost-na-rabotu, kak-malyy-biznes-stanovitsya-bolshim, pochemu-ty-ne-dostigaesh-tseley, pravila-zhizni-na-2025, chto-delat-v-2026-sovety-neudachnikam, semya-dengi-i-zakon, zhestokost-i-spravedlivost-kapitalizma, kak-ii-izmenit-mir, pochemu-ya-ne-chitayu-knigi, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, chto-zhdyot-sng-cherez-10-let, intuitsiya-ili-logika, everything-you-wanted-to-know-at-17, kto-vinovat-v-otsutstvii-prodazh, pochemu-energetik-litvina-ne-biznes, kuda-devayutsya-dengi, chto-budet-zavtra, stryomnye-oshibki-nachinayushchih, kogo-nelzya-brat-na-rabotu, kak-nakazyvat-sotrudnikov, gde-traderov-i-spekulyantov-vedut-mir, ban-this-from-your-children, ischu-partnyora, chem-zanimayutsya-biznesmeny, kak-otkryt-biznes-kotoryy-ne-provalitsya, ne-delay-kak-durov, ne-uvolnyaysya-poka-ne-posmotrish, save-or-spend-loans-inflation-philanthropists, where-to-invest-and-avoid-going-nuts, avtoritarizm-ili-demokratiya, do-manifestation-challenges-work]
 updated: 2026-08-15
 ---
 
@@ -278,6 +278,13 @@ B2B-маркетинг в enterprise-сегменте сводится к охв
 астрология — ложь, но чужая вера в неё эксплуатируема, потому что
 детерминирует поведение верящего
 ([[astrologiya-lozh-no-veru-v-nee-mozhno-ispolzovat](pages/astrologiya-lozh-no-veru-v-nee-mozhno-ispolzovat.md)]).
+Пятый источник батча — почти целиком ремикс «kak-izbezhat-oshibok-v-biznese»
+с двумя новыми иллюстрациями: мозг как желудок, которому нужен
+развивающий, а не «холостой» контент
+([[poleznyy-kontent-vyrabatyvaet-navyk](pages/poleznyy-kontent-vyrabatyvaet-navyk.md)]),
+и дичь молодости как ресурс, который нужно успеть потратить, пока кормят
+родители
+([[dich-molodosti-eto-ne-oshibka](pages/dich-molodosti-eto-ne-oshibka.md)]).
 
 ## Open Questions
 
@@ -443,3 +450,5 @@ B2B-маркетинг в enterprise-сегменте сводится к охв
 - [[zashkvar-eto-obman-a-ne-professiya](pages/zashkvar-eto-obman-a-ne-professiya.md)]
 - [[avtoritarizm-tam-gde-otvetstvennost](pages/avtoritarizm-tam-gde-otvetstvennost.md)]
 - [[astrologiya-lozh-no-veru-v-nee-mozhno-ispolzovat](pages/astrologiya-lozh-no-veru-v-nee-mozhno-ispolzovat.md)]
+- [[poleznyy-kontent-vyrabatyvaet-navyk](pages/poleznyy-kontent-vyrabatyvaet-navyk.md)]
+- [[dich-molodosti-eto-ne-oshibka](pages/dich-molodosti-eto-ne-oshibka.md)]

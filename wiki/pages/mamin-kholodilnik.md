@@ -33,5 +33,6 @@ updated: 2026-08-15
 
 - [[kapital-tri-mnozhitelya](pages/kapital-tri-mnozhitelya.md)] — годы без денег, но с растущими компетенциями и связями
 - [[gotov-delat-besplatno](pages/gotov-delat-besplatno.md)] — тот же ресурс времени, использованный на поиск призвания
+- [[dich-molodosti-eto-ne-oshibka](pages/dich-molodosti-eto-ne-oshibka.md)] — та же метафора, применённая к опыту, а не к карьере
 
 [^1]: [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] [14:42] — «лучшее, что мы можем дать своим детям на старте карьеры, — это свободу заниматься тем, чем они хотят ... я сидел один в трёхкомнатной квартире в центре Москвы»

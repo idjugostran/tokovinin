@@ -3,7 +3,7 @@ title: Хотеть, а не мечтать
 category: Concepts
 summary: У «хочу» есть цена, срок и ресурс — мечта лимитов не имеет; «Маск не мечтает — он хочет, у него план»; публичная декларация желания реально работает
 tags: [concept, motivation]
-sources: [kak-izbezhat-oshibok-v-biznese, gde-iskat-motivatsiyu]
+sources: [kak-izbezhat-oshibok-v-biznese, gde-iskat-motivatsiyu, do-manifestation-challenges-work]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -32,6 +32,7 @@ updated: 2026-08-15
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — ответы про цели, мечты, карты желаний и марафоны
 - [[gde-iskat-motivatsiyu](pages/gde-iskat-motivatsiyu.md)] — перемонтаж; мостик «мечта → хочу → прикладные шаги» [8:50]
+- [[do-manifestation-challenges-work](pages/do-manifestation-challenges-work.md)] [0:00] — перемонтаж; марафоны желаний, Чалдини, свадьба
 
 ## Related Concepts
 

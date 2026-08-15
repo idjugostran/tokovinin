@@ -3,7 +3,7 @@ title: Тратить деньги с удовольствием, а не с у�
 category: Concepts
 summary: FOMO и сожаление о цене покупки («мог купить дешевле вчера») — неизлечимая базовая человеческая уязвимость, а не решаемая задача; у каждого есть своя категория трат, где его «бомбит»; рутинные покупки лечатся привычкой, редкие остаются мучительными
 tags: [concept, money, psychology]
-sources: [gde-traderov-i-spekulyantov-vedut-mir]
+sources: [gde-traderov-i-spekulyantov-vedut-mir, do-manifestation-challenges-work]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -40,9 +40,11 @@ FOMO: страх, что «завтра может быть лучше, а гд�
 ## Appearances in Sources
 
 - [[gde-traderov-i-spekulyantov-vedut-mir](pages/gde-traderov-i-spekulyantov-vedut-mir.md)] [18:31] — ответ «как тратить деньги без стресса»
+- [[do-manifestation-challenges-work](pages/do-manifestation-challenges-work.md)] [6:29] — тот же принцип на примере выбора первой машины
 
 ## Related Concepts
 
 - [[trat-menshe-chem-zarabatyvaesh](pages/trat-menshe-chem-zarabatyvaesh.md)] — финансовая дисциплина как отдельная от эмоций трат тема
+- [[dich-molodosti-eto-ne-oshibka](pages/dich-molodosti-eto-ne-oshibka.md)] — тот же принцип, расширенный на опыт молодости в целом
 
 [^1]: [[gde-traderov-i-spekulyantov-vedut-mir](pages/gde-traderov-i-spekulyantov-vedut-mir.md)] [18:31] — «деньги надо тратить не с умом, а с удовольствием ... те люди, которые говорят, что у них так получается, лукавят»
