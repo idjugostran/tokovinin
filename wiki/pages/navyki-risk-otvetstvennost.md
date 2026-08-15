@@ -3,7 +3,7 @@ title: Навыки, риск, ответственность — три уро�
 category: Concepts
 summary: Есть только три способа зарабатывать больше — продавать навыки (потолок известен), продавать риск (навыки × риск = бизнес, «бескрайние горизонты») или продавать ответственность (менеджмент)
 tags: [concept, career, money]
-sources: [kak-ponyat-chto-ty-ne-predprinimatel, malyy-biznes-ne-nuzhen-v-rossii, zhadnost-li-klyuch-k-uspehu]
+sources: [kak-ponyat-chto-ty-ne-predprinimatel, malyy-biznes-ne-nuzhen-v-rossii, zhadnost-li-klyuch-k-uspehu, chto-zhdyot-sng-cherez-10-let]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -39,6 +39,7 @@ updated: 2026-08-15
 - [[kak-ponyat-chto-ty-ne-predprinimatel](pages/kak-ponyat-chto-ty-ne-predprinimatel.md)] — ответ программисту о переходе на «пассивный» доход
 - [[malyy-biznes-ne-nuzhen-v-rossii](pages/malyy-biznes-ne-nuzhen-v-rossii.md)] — та же триада с точки зрения нанимателя [9:57]
 - [[zhadnost-li-klyuch-k-uspehu](pages/zhadnost-li-klyuch-k-uspehu.md)] — бизнес без владельца на месте, «ресторан Пушкин» [7:44]
+- [[chto-zhdyot-sng-cherez-10-let](pages/chto-zhdyot-sng-cherez-10-let.md)] [8:45] — тот же ответ почти дословно, в перемонтаже
 
 ## Related Concepts
 
