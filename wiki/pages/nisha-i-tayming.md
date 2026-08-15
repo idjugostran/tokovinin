@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -49,6 +49,14 @@ updated: 2026-08-15
 конкуренции по другой причине обычно требуют уникальных ресурсов, которых
 «ни у кого нет, и у вас тоже не будет».[^11]
 
+Практическое следствие для малого игрока: если рыночная доля меньше
+15%, макроэкономика почти не имеет значения — даже при падении рынка на
+20% можно вырасти в два раза за счёт менее эффективных конкурентов,
+которые умирают первыми и освобождают долю. Кризис особенно выгоден
+маржинальным, эффективным игрокам — по формуле Баффетта, «кризис —
+время, когда видно, кто купался без трусов»: слабые конкуренты тонут, а
+сильные забирают их долю.[^12]
+
 Обратная сторона той же силы — рост прощает исполнение:
 «бизнес растёт не благодаря твоим усилиям, а вопреки твоим косякам», и
 булочная вырастает в корпорацию не потому, что владелец умнел, — «тебя
@@ -92,6 +100,7 @@ updated: 2026-08-15
 - [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — доставка пиццы vs секондхенд-одежда как оригинальная идея
 - [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [4:39] — выход с рынка, скатившегося в демпинговую войну
 - [[kak-stat-horoshim-menedzherom](pages/kak-stat-horoshim-menedzherom.md)] [3:58] — Россия как высококонкурентный развитый рынок
+- [[kogo-nelzya-brat-na-rabotu](pages/kogo-nelzya-brat-na-rabotu.md)] [14:11] — <15% доли рынка — макроэкономика неважна, кризис вымывает слабых
 
 ## Related Concepts
 
@@ -111,3 +120,4 @@ updated: 2026-08-15
 [^9]: [[top-oshibki-nachinayushchih-predprinimateley](pages/top-oshibki-nachinayushchih-predprinimateley.md)] [4:10] — «одно дело ты доставляешь пиццу — просто обсудить спрос и решать логистические, кадровые, производственные проблемы ... давайте возьмём неведомую хрень — очень мало шансов на успех»
 [^10]: [[haos-eto-tozhe-sistema](pages/haos-eto-tozhe-sistema.md)] [4:39] — «если рынок превратился в такую кровавую баню, что маржа опустилась до 3%, надо как можно быстрее убегать ... всерьёз рассчитывать, что я сдохну последним, — это плохая тактика»
 [^11]: [[kak-stat-horoshim-menedzherom](pages/kak-stat-horoshim-menedzherom.md)] [3:58] — «Россия в этом смысле намного больше похожа на Францию, чем на Зимбабве ... эта точка нулевой конкуренции возможна только во вновь зарождающихся нишах, и то очень недолго»
+[^12]: [[kogo-nelzya-brat-na-rabotu](pages/kogo-nelzya-brat-na-rabotu.md)] [14:11] — «если твоя рыночная доля в любой нише менее 15%, тебе вообще на макроэкономику наплевать ... кризис — время, когда видно, кто купался без трусов»
