@@ -33,5 +33,6 @@ updated: 2026-08-15
 ## Related Concepts
 
 - [[umet-razvestis](pages/umet-razvestis.md)] — противоположный полюс: когда компромисс уже не работает, надо уметь выйти
+- [[dominirovanie-i-otvetstvennost](pages/dominirovanie-i-otvetstvennost.md)] — компромисс ролей как альтернатива борьбе за доминирование
 
 [^1]: [[pochemu-ty-ne-dostigaesh-tseley](pages/pochemu-ty-ne-dostigaesh-tseley.md)] [9:01] — «для того чтобы построить отношения, нужно найти компромисс ... если лягушку варить медленно, она привыкает»

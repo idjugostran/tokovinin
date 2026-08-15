@@ -3,7 +3,7 @@ title: Уметь развестись
 category: Concepts
 summary: Правильно выбрать партнёра (в браке и бизнесе) почти невозможно — «нет хорошего, есть подходящий»; настоящая ошибка — не разойтись, когда знаешь, что не то
 tags: [concept, relationships, business]
-sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, distsiplina-i-vygoranie]
+sources: [kak-izbezhat-oshibok-v-biznese, kakaya-zhenshchina-sdelaet-uspeshnym, distsiplina-i-vygoranie, semya-dengi-i-zakon]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -37,6 +37,7 @@ updated: 2026-08-15
 - [[oshibki-obyazatelny](pages/oshibki-obyazatelny.md)] — ошибка выбора неизбежна и исправима; невыход из неё — нет
 - [[u-kazhdogo-est-tsena](pages/u-kazhdogo-est-tsena.md)] — трезвый взгляд на людей без обид
 - [[zdorovyy-kompromiss](pages/zdorovyy-kompromiss.md)] — граница, за которой компромисс превращается в терпение абьюза
+- [[dominirovanie-i-otvetstvennost](pages/dominirovanie-i-otvetstvennost.md)] — почему двум сильным личностям сложно быть вместе
 
 [^1]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [9:07] — «хороший партнёр по бизнесу - это прежде всего тот, кто умеет быть разным и меняться вместе с этим бизнесом ... в какой-то момент любую компетенцию можно будет купить»
 [^2]: [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] [11:11] — «не развестись - это выбор ... секрет даже не в том, как выбирать, а в том ... как уметь развестись»
