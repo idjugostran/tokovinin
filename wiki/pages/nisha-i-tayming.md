@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu, gde-traderov-i-spekulyantov-vedut-mir, kak-otkryt-biznes-kotoryy-ne-provalitsya, how-scandals-help-business, how-to-charm-an-investor-and-buy-porsche, deliberately-lost-billions]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu, gde-traderov-i-spekulyantov-vedut-mir, kak-otkryt-biznes-kotoryy-ne-provalitsya, how-scandals-help-business, how-to-charm-an-investor-and-buy-porsche, deliberately-lost-billions, how-to-find-a-wife]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -112,6 +112,19 @@ updated: 2026-08-15
 вышедшие на тот же рынок позже и добившиеся не худших результатов, —
 косвенное подтверждение второй версии.[^14]
 
+Мировоззренческое дополнение к «не будь первым» — правильная эмоция
+предпринимателя на отсутствие нужного товара или услуги на рынке — это
+радость, а не жалоба: «любой недостаток системы, окружающего мира — это
+возможность заработать». Простой диагностический тест на
+предпринимательское мышление — реакция на «в этой стране плохие стулья»:
+если тянет обратиться к государству, чтобы оно всё исправило, — это не
+предпринимательская реакция; если тянет самому сделать хорошие стулья —
+предпринимательская. Пойманный инсайт не обязательно означает, что надо
+срочно строить бизнес: иногда полезнее «подержать его в себе» — многие
+инсайты закрываются сами, стоит погуглить и убедиться, что решение уже
+существует; идти делать бизнес стоит только когда инсайт выдерживает
+эту проверку.[^15]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — критерии ниши, тайминг, масштабирование
@@ -128,6 +141,7 @@ updated: 2026-08-15
 - [[how-scandals-help-business](pages/how-scandals-help-business.md)] [20:06] — диагностика «рынок vs продукт» по конкурентам, история AmoCRM
 - [[how-to-charm-an-investor-and-buy-porsche](pages/how-to-charm-an-investor-and-buy-porsche.md)] [8:45] — ремикс ответа про Вкусвилл «благодаря или вопреки»
 - [[deliberately-lost-billions](pages/deliberately-lost-billions.md)] [6:36] — ремикс «продавай лопаты», явно связанный с токсичными отношениями
+- [[how-to-find-a-wife](pages/how-to-find-a-wife.md)] [8:01, 10:15] — ремикс «не будь первым», дополнено «радоваться, а не жаловаться»
 
 ## Related Concepts
 
@@ -150,3 +164,4 @@ updated: 2026-08-15
 [^12]: [[kogo-nelzya-brat-na-rabotu](pages/kogo-nelzya-brat-na-rabotu.md)] [14:11] — «если твоя рыночная доля в любой нише менее 15%, тебе вообще на макроэкономику наплевать ... кризис — время, когда видно, кто купался без трусов»
 [^13]: [[gde-traderov-i-spekulyantov-vedut-mir](pages/gde-traderov-i-spekulyantov-vedut-mir.md)] [8:09] — «любая настоящая инновация предполагает уничтожение предыдущего бизнеса. Мало кто из больших корпораций на это действительно способен»
 [^14]: [[how-scandals-help-business](pages/how-scandals-help-business.md)] [20:06] — «если нам нужно объяснять людям, что мы делаем, почему мы делаем, что за продукт, — это уже плохо ... может, это не мы через 5 лет слова нашли, это, может, рынок созрел»
+[^15]: [[how-to-find-a-wife](pages/how-to-find-a-wife.md)] [10:15] — «правильная мотивация предпринимателя — это радоваться, а не жаловаться ... любой недостаток системы — это возможность заработать»
