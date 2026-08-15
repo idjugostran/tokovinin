@@ -3,7 +3,7 @@ title: Ниша и тайминг
 category: Concepts
 summary: Хорошая ниша — «маленькое и растёт»; тайминг сложнее темы, рано хуже, чем поздно («ты никогда не опоздаешь»); прущая ниша прощает все косяки
 tags: [concept, business]
-sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu, gde-traderov-i-spekulyantov-vedut-mir, kak-otkryt-biznes-kotoryy-ne-provalitsya]
+sources: [kak-izbezhat-oshibok-v-biznese, pochemu-ty-bednyy, malyy-biznes-ne-nuzhen-v-rossii, mozhno-li-zarabotat-na-shortsah, zhestokost-i-spravedlivost-kapitalizma, top-oshibki-nachinayushchih-predprinimateley, haos-eto-tozhe-sistema, kak-stat-horoshim-menedzherom, kogo-nelzya-brat-na-rabotu, gde-traderov-i-spekulyantov-vedut-mir, kak-otkryt-biznes-kotoryy-ne-provalitsya, how-scandals-help-business]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -98,6 +98,20 @@ updated: 2026-08-15
 происходит вопреки этой моде, а не благодаря ей, — и обычно даже сам
 фаундер не может точно назвать, что именно сработало.[^8]
 
+Диагностический приём, отделяющий «рынок не готов» от «продукт сырой»:
+если новый продукт приходится долго объяснять, чтобы объяснить, почему
+это круто, — проблема есть в любом случае, и неважно, в чём именно.
+Различить их можно по конкурентам: нет конкурентов вообще — значит, нет
+рынка; конкуренты есть, но клиент выбирает их — значит, сыроват продукт.
+Но диагноз ситуацию не спасает: «если нам нужно объяснять людям, что мы
+делаем и почему, — это уже плохо, уже тяжело, уже вязко». Личный пример
+неопределённости причины успеха — AmoCRM потратила первые пять лет на
+поиск нужных слов для объяснения продукта, но задним числом непонятно,
+это команда наконец нашла формулировки или просто дозрел рынок: «может,
+это не мы через 5 лет слова нашли — может, рынок созрел». Конкуренты,
+вышедшие на тот же рынок позже и добившиеся не худших результатов, —
+косвенное подтверждение второй версии.[^14]
+
 ## Appearances in Sources
 
 - [[kak-izbezhat-oshibok-v-biznese](pages/kak-izbezhat-oshibok-v-biznese.md)] — критерии ниши, тайминг, масштабирование
@@ -111,6 +125,7 @@ updated: 2026-08-15
 - [[kogo-nelzya-brat-na-rabotu](pages/kogo-nelzya-brat-na-rabotu.md)] [14:11] — <15% доли рынка — макроэкономика неважна, кризис вымывает слабых
 - [[gde-traderov-i-spekulyantov-vedut-mir](pages/gde-traderov-i-spekulyantov-vedut-mir.md)] [0:00, 8:09] — не будь первым (повтор), корпорации не могут разрушить сами себя
 - [[kak-otkryt-biznes-kotoryy-ne-provalitsya](pages/kak-otkryt-biznes-kotoryy-ne-provalitsya.md)] [2:17] — тест бизнес-идеи через аналог, почти дословный повтор
+- [[how-scandals-help-business](pages/how-scandals-help-business.md)] [20:06] — диагностика «рынок vs продукт» по конкурентам, история AmoCRM
 
 ## Related Concepts
 
@@ -132,3 +147,4 @@ updated: 2026-08-15
 [^11]: [[kak-stat-horoshim-menedzherom](pages/kak-stat-horoshim-menedzherom.md)] [3:58] — «Россия в этом смысле намного больше похожа на Францию, чем на Зимбабве ... эта точка нулевой конкуренции возможна только во вновь зарождающихся нишах, и то очень недолго»
 [^12]: [[kogo-nelzya-brat-na-rabotu](pages/kogo-nelzya-brat-na-rabotu.md)] [14:11] — «если твоя рыночная доля в любой нише менее 15%, тебе вообще на макроэкономику наплевать ... кризис — время, когда видно, кто купался без трусов»
 [^13]: [[gde-traderov-i-spekulyantov-vedut-mir](pages/gde-traderov-i-spekulyantov-vedut-mir.md)] [8:09] — «любая настоящая инновация предполагает уничтожение предыдущего бизнеса. Мало кто из больших корпораций на это действительно способен»
+[^14]: [[how-scandals-help-business](pages/how-scandals-help-business.md)] [20:06] — «если нам нужно объяснять людям, что мы делаем, почему мы делаем, что за продукт, — это уже плохо ... может, это не мы через 5 лет слова нашли, это, может, рынок созрел»
