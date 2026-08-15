@@ -3,7 +3,7 @@ title: Бизнес стремится к монополии
 category: Concepts
 summary: Стремление к монополии — природа любого бизнеса, как у любого организма; сдерживает её не мораль, а внешний механизм — антимонопольное законодательство
 tags: [concept, business]
-sources: [kak-stat-schastlivym-i-bogatym]
+sources: [kak-stat-schastlivym-i-bogatym, pokupka-kvartiry-rebenku-monopolii]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -28,6 +28,7 @@ Standard Oil).[^1]
 ## Appearances in Sources
 
 - [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — ответ про экосистемы Сбера
+- [[pokupka-kvartiry-rebenku-monopolii](pages/pokupka-kvartiry-rebenku-monopolii.md)] — тот же ответ в перемонтаже [4:31]
 
 ## Related Concepts
 

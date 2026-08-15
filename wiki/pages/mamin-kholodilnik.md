@@ -3,7 +3,7 @@ title: Мамин холодильник
 category: Concepts
 summary: Лучший подарок ребёнку — не пентхаус, а закрытые базовые потребности («2 года заниматься ерундой») ради свободы выбора; должен быть дискомфорт, но не голод
 tags: [concept, career, parenting]
-sources: [kak-stat-schastlivym-i-bogatym]
+sources: [kak-stat-schastlivym-i-bogatym, pokupka-kvartiry-rebenku-monopolii]
 created: 2026-08-15
 updated: 2026-08-15
 ---
@@ -27,6 +27,7 @@ updated: 2026-08-15
 ## Appearances in Sources
 
 - [[kak-stat-schastlivym-i-bogatym](pages/kak-stat-schastlivym-i-bogatym.md)] — ответ про финансовую помощь взрослым детям
+- [[pokupka-kvartiry-rebenku-monopolii](pages/pokupka-kvartiry-rebenku-monopolii.md)] — тот же ответ в перемонтаже [5:57]
 
 ## Related Concepts
 
