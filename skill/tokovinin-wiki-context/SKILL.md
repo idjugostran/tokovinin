@@ -69,6 +69,15 @@ unreachable. If a direct-fetch tool (`curl`, `WebFetch`/`web_fetch`) is
 available, call it on the URL immediately; don't search for the repo or the
 URL first and treat empty results as failure.
 
+**If a GitHub app/connector tool is also available, don't use it for this —
+go straight to `curl`/`WebFetch`/`web_fetch` instead.** GitHub connector
+tools are built around the GitHub API (`api.github.com`) or `github.com`
+blob URLs; `raw.githubusercontent.com` is a separate CDN host that such a
+tool will typically reject outright with a generic "failed to fetch" and no
+useful detail — that failure means the tool doesn't handle this URL, not
+that the wiki is unreachable. Don't try the connector first and fall back
+after it fails; skip it and fetch the raw URL directly from the start.
+
 Page URLs are never guessed. `wiki/index.md` lists every page as
 `[[slug](pages/slug.md)]` — that relative path maps to
 `<base>/wiki/pages/slug.md`. A 404 means the index is out of date: say so,
@@ -151,6 +160,10 @@ don't substitute a similar-looking page.
   GitHub content URLs aren't indexed by search engines regardless of repo
   visibility — an empty search result is expected and is not evidence the
   repo is private or down. Call the fetch tool on the URL directly.
+- **Don't route the fetch through a GitHub app/connector tool.** It's built
+  for `api.github.com`/`github.com`, not the `raw.githubusercontent.com` CDN,
+  and will typically fail immediately on this URL. Use `curl`/`WebFetch`/
+  `web_fetch` from the start instead of trying the connector first.
 - **Don't fetch the whole `wiki/pages/` tree.** 231 files, ~180k tokens.
   Fetch the index, then only what it says is relevant.
 - **Don't regenerate `wiki/index.md`.** It's committed, not a runtime
