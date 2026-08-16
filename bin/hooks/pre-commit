@@ -3,6 +3,12 @@
 # flag (check-contradictions.py) or a structural problem — missing frontmatter, a broken
 # link, or a slug collision (lint-mechanical.py --staged). Both are deterministic, no LLM.
 # Override: git commit --no-verify.
+#
+# Plain python3, not `uv run`: both scripts are pure stdlib, there is no
+# pyproject.toml/uv.lock in this repo, and `uv run` would resolve an environment
+# (and possibly download an interpreter) on every commit — i.e. it needs network.
+# In a sandbox with restricted egress that turned the gate into a dead end, since
+# this repo's skills are forbidden from passing --no-verify.
 ROOT="$(git rev-parse --show-toplevel)"
-uv run "$ROOT/bin/check-contradictions.py" || exit 1
-uv run "$ROOT/bin/lint-mechanical.py" --staged || exit 1
+python3 "$ROOT/bin/check-contradictions.py" || exit 1
+python3 "$ROOT/bin/lint-mechanical.py" --staged || exit 1

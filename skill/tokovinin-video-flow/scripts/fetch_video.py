@@ -7,14 +7,15 @@ signals from the transcript and metadata alone (see detect_flags.py), not
 from video frames.
 
 Usage:
-    uv run python3 fetch_video.py <url_or_video_id> --out-dir DIR [--lang ru,en]
+    python3 fetch_video.py <url_or_video_id> --out-dir DIR [--lang ru,en]
 
 Writes into DIR:
     <id>.ru.vtt / <id>.en.vtt   - raw auto-subtitles
     <id>.info.json              - metadata (title, duration, chapters, channel)
 
-Requires a system binary (not pip-installable): yt-dlp.
-    brew install yt-dlp
+Requires the `yt-dlp` executable on PATH. It IS pip-installable — SKILL.md step 0
+installs it with `python3 -m pip install --user yt-dlp` and puts ~/.local/bin on
+PATH; `brew install yt-dlp` is just the local convenience route.
 """
 
 import argparse

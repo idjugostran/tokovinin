@@ -11,3 +11,6 @@ transcripts/
 # Audit reports are regenerated local-only artifacts (wiki-audit). The committed record
 # of an audit is the `review:` frontmatter token on the audited page, not the report.
 wiki/pages/audit-*.md
+
+# Scratch output of list_new_videos.py (SKILL.md step 1) — never committed.
+new_videos.txt
