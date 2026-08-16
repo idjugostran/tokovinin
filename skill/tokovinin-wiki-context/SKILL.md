@@ -61,6 +61,14 @@ Use the first of these that's available in the current environment:
 3. **Private repo** (no public raw URL): `gh api
    repos/idjugostran/tokovinin/contents/wiki/index.md -H "Accept: application/vnd.github.raw"`
 
+**Fetch the URL directly — never route through a web-search tool first.**
+`raw.githubusercontent.com` serves plain text, not an HTML page, so search
+engines essentially never index it — this is true even for this public repo,
+and getting zero search results does **not** mean the repo is private or
+unreachable. If a direct-fetch tool (`curl`, `WebFetch`/`web_fetch`) is
+available, call it on the URL immediately; don't search for the repo or the
+URL first and treat empty results as failure.
+
 Page URLs are never guessed. `wiki/index.md` lists every page as
 `[[slug](pages/slug.md)]` — that relative path maps to
 `<base>/wiki/pages/slug.md`. A 404 means the index is out of date: say so,
@@ -139,6 +147,10 @@ don't substitute a similar-looking page.
 
 ## Pitfalls
 
+- **Don't web-search for the repo or the raw URL before fetching it.** Raw
+  GitHub content URLs aren't indexed by search engines regardless of repo
+  visibility — an empty search result is expected and is not evidence the
+  repo is private or down. Call the fetch tool on the URL directly.
 - **Don't fetch the whole `wiki/pages/` tree.** 231 files, ~180k tokens.
   Fetch the index, then only what it says is relevant.
 - **Don't regenerate `wiki/index.md`.** It's committed, not a runtime
