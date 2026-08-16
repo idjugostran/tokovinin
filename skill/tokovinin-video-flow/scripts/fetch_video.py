@@ -7,10 +7,17 @@ signals from the transcript and metadata alone (see detect_flags.py), not
 from video frames.
 
 Usage:
-    python3 fetch_video.py <url_or_video_id> --out-dir DIR [--lang ru,en]
+    python3 fetch_video.py <url_or_video_id> --out-dir DIR [--lang ru-orig,ru,en]
 
 Writes into DIR:
-    <id>.ru.vtt / <id>.en.vtt   - raw auto-subtitles
+    <id>.ru-orig.vtt            - ASR of the actually-spoken Russian. Preferred.
+    <id>.ru.vtt                 - measured byte-identical to ru-orig on this
+                                  channel, but that is YouTube's choice, not a
+                                  guarantee; ru-orig is the unambiguous one.
+    <id>.en.vtt                 - MACHINE TRANSLATION, not a transcript. This
+                                  channel speaks Russian, so an English track is
+                                  always translated. Never clean this into raw/;
+                                  see SKILL.md step 3, which stops on en-only.
     <id>.info.json              - metadata (title, duration, chapters, channel)
 
 Requires the `yt-dlp` executable on PATH. It IS pip-installable — SKILL.md step 0
@@ -47,7 +54,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("url", help="YouTube URL or 11-char video ID")
     ap.add_argument("--out-dir", default="transcripts", help="Output directory")
-    ap.add_argument("--lang", default="ru,en", help="Subtitle languages, comma-separated")
+    ap.add_argument("--lang", default="ru-orig,ru,en",
+                    help="Subtitle languages, comma-separated. ru-orig first: it "
+                         "is YouTube's code for the original spoken language, "
+                         "unambiguous where a bare 'ru' need not be.")
     args = ap.parse_args()
 
     video_id = extract_video_id(args.url)

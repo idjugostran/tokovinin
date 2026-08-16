@@ -180,8 +180,9 @@ moving. Read the script's stderr for `NOTE:` lines before proceeding.
 python3 skill/tokovinin-video-flow/scripts/fetch_video.py "$VIDEO_ID" --out-dir transcripts
 ```
 
-Writes `transcripts/$VIDEO_ID.ru.vtt` (or `.en.vtt` if Russian captions aren't
-available), `transcripts/$VIDEO_ID.info.json`, `transcripts/$VIDEO_ID.description`.
+Writes `transcripts/$VIDEO_ID.ru-orig.vtt` and `.ru.vtt` (and `.en.vtt`, which step 3
+deliberately refuses to use — it is a machine translation, not a transcript),
+`transcripts/$VIDEO_ID.info.json`, `transcripts/$VIDEO_ID.description`.
 Read `title` and `duration` from `.info.json`, then:
 
 ```bash
@@ -193,9 +194,30 @@ python3 skill/tokovinin-video-flow/scripts/log_registry.py touch "$VIDEO_ID" \
 ### 3. [script] Clean straight into `raw/` — or record "no captions" and stop
 
 ```bash
-VTT="transcripts/$VIDEO_ID.ru.vtt"
-[ -f "$VTT" ] || VTT="transcripts/$VIDEO_ID.en.vtt"
+VTT=""
+for L in ru-orig ru; do
+  [ -f "transcripts/$VIDEO_ID.$L.vtt" ] && VTT="transcripts/$VIDEO_ID.$L.vtt" && break
+done
 ```
+
+**Russian only, and `ru-orig` first.** `ru-orig` is YouTube's code for an ASR of the
+language actually spoken; a bare `ru` on this channel measured byte-identical to it,
+but that is YouTube's current choice, not a promise. `en` is deliberately **not** in
+this loop: the channel speaks Russian, so an English track is a machine translation
+of the Russian, not a transcript of the video. Cleaning one into `raw/` would put
+translated text — mid-sentence language switches and all — under a `**Source:**`
+header that claims to be the transcript, and nothing downstream would catch it. If
+`$VTT` is empty but `transcripts/$VIDEO_ID.en.vtt` exists, stamp it and commit the
+stamp, exactly as for no-captions below but with the `translated_only` stage:
+
+```bash
+python3 skill/tokovinin-video-flow/scripts/log_registry.py stage "$VIDEO_ID" translated_only
+```
+
+Report "only a translated (`en`) track for `<id>` — `<title>`, needs a human", commit
+the stamp with `Wiki-Op: ingest-translated-only`, push, and stop for this video. Like
+`no_captions`, it is terminal in step 1's queue for the same queue-deadlock reason,
+and re-surfaced the same way.
 
 **If neither file exists, the video has no captions on YouTube at all** — this is
 real, not hypothetical: `ZS5fd3f_Lek` (204k views, the channel's most-viewed
@@ -300,8 +322,8 @@ Follow `wiki-ingest` steps 4–7 for this one video:
   chronological "update" section) or create from the template in SCHEMA.md /
   `wiki-skills:wiki-ingest`.
 - **Citations**: `[^N]: [[slug](pages/slug.md)] [M:SS] — «verbatim quote»` (or
-  `[synthesis] — description`). `[M:SS]` timestamps come from the `.ru.vtt`/`.en.vtt`
-  WebVTT cue times — `raw/<id>.txt` itself carries no timing info at all, it's one
+  `[synthesis] — description`). `[M:SS]` timestamps come from the `$VTT` chosen in
+  step 3 (`.ru-orig.vtt`/`.ru.vtt`) WebVTT cue times — `raw/<id>.txt` itself carries no timing info at all, it's one
   continuous paragraph. No `L<n>` line-range needed — transcripts are exempt per
   SCHEMA.md's Citations section.
 - **Backlink audit**: scan every existing `wiki/pages/*.md` for mentions of this

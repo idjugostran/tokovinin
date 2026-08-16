@@ -69,10 +69,13 @@ DEFAULT_CHANNEL = "https://www.youtube.com/@mtokovinin/videos"
 
 SOURCE_LINE_RE = re.compile(r"\*\*Source:\*\*\s+raw/([A-Za-z0-9_-]{11})\.txt")
 
-# A stage that means "this video can never be ingested from YouTube captions".
-# Kept as a tuple so a future terminal stage (e.g. members_only) is a one-line
-# change here rather than a new branch.
-TERMINAL_STAGES = ("no_captions",)
+# Stages meaning "this video can never be ingested from YouTube captions as they
+# stand". Kept as a tuple so a future terminal stage (e.g. members_only) is a
+# one-line change here rather than a new branch.
+#   no_captions     - YouTube has no caption track at all.
+#   translated_only - only a machine-translated (en) track exists; the channel
+#                     speaks Russian, so that is not a transcript of the video.
+TERMINAL_STAGES = ("no_captions", "translated_only")
 
 
 def fetch_channel_lines(channel_url: str) -> list[str]:
@@ -125,12 +128,18 @@ def wiki_ingested_ids(pages_dir: Path) -> set[str]:
     return ids
 
 
-def terminal_ids(log_data: dict) -> set[str]:
-    """Video IDs carrying a terminal stage - excluded from the work queue."""
-    return {
-        vid for vid, rec in log_data.items()
-        if any(s in (rec.get("status") or {}) for s in TERMINAL_STAGES)
-    }
+def terminal_ids(log_data: dict) -> dict[str, str]:
+    """Video ID -> the terminal stage it carries. Excluded from the work queue.
+    Returns the stage, not just the id, so the operator's NOTE can say WHICH
+    terminal reason applied - "no captions" and "translated only" need
+    different follow-up, and a single lumped message would misreport one."""
+    found = {}
+    for vid, rec in log_data.items():
+        for s in TERMINAL_STAGES:
+            if s in (rec.get("status") or {}):
+                found[vid] = s
+                break
+    return found
 
 
 def main():
@@ -160,15 +169,17 @@ def main():
         log_data = json.loads(args.log.read_text(encoding="utf-8"))
     log_ids = set(log_data)
 
-    excluded = terminal_ids(log_data)
+    terminal = terminal_ids(log_data)
+    detail = ", ".join(f"{vid} ({stage})" for vid, stage in sorted(terminal.items()))
+    excluded = set(terminal)
     if args.include_no_captions:
-        if excluded:
-            print(f"NOTE: --include-no-captions: {len(excluded)} terminal id(s) "
-                  f"re-surfaced for manual triage: {sorted(excluded)}", file=sys.stderr)
+        if terminal:
+            print(f"NOTE: --include-no-captions: {len(terminal)} terminal id(s) "
+                  f"re-surfaced for manual triage: {detail}", file=sys.stderr)
         excluded = set()
-    elif excluded:
-        print(f"NOTE: {len(excluded)} id(s) skipped - no captions on YouTube "
-              f"(terminal): {sorted(excluded)}", file=sys.stderr)
+    elif terminal:
+        print(f"NOTE: {len(terminal)} id(s) skipped as terminal: {detail}",
+              file=sys.stderr)
 
     stale = log_ids - known_ids - excluded
     orphan = known_ids - log_ids
