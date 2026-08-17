@@ -33,24 +33,33 @@ is a first-class part of the routine, cloned at the start of every run, and
 pushes carry your own GitHub identity. Configure the routine as:
 
 - **Repositories** — `idjugostran/tokovinin`.
-- **Environment → Network access** — `Custom`, with **Allowed domains**
-  containing `*.youtube.com`, `youtube.com`, `youtubei.googleapis.com`, and
-  "also include default list of common package managers" checked. Without this
-  every run dies at step 1: the default `Trusted` policy rejects YouTube with
-  `403` / `x-deny-reason: host_not_allowed`, which surfaces as yt-dlp's
-  "Unable to connect to proxy" and "Unable to download API page". That is a
-  network policy refusing to open the tunnel, not YouTube's bot check.
-- **Environment → Setup script** — `python3 -m pip install --user yt-dlp` (the
-  result is cached, so it does not re-run every session). Step 0 still checks
-  and installs as a fallback, but the setup script is where this belongs.
-- **Connectors** — none needed. Remove them all; this flow uses git and yt-dlp,
-  nothing else.
-- **Trigger** — schedule (minimum interval is one hour), or **Run now**.
+- **Connectors** — **TubeAlfred** (`tubealfred.com`), and nothing else. This is
+  the only route to YouTube that works here, and the reason the flow no longer
+  ships a `yt-dlp` fetcher. Verified in a real Routine run.
+- **Environment → Network access** — leave at the default `Trusted`. Nothing
+  needs adding: connector traffic does not pass through the session's HTTP
+  proxy, so the domain allowlist never applies to it.
+- **Environment → Setup script** — empty. Every script here is pure stdlib.
+- **Trigger** — schedule, or **Run now**. The channel publishes a handful of
+  videos a year, so a daily schedule matches reality; the one-hour minimum
+  would spend ~24 sessions a day reporting "caught up".
+
+**Why the connector rather than `yt-dlp`.** A Routine forces all egress through
+a proxy. With YouTube off the allowlist, yt-dlp dies at step 1 with `Unable to
+connect to proxy` / `Tunnel connection failed: 403 Forbidden` — measured; note
+that is the proxy refusing to open the tunnel, not YouTube's bot check, which
+would look like "Sign in to confirm you're not a bot" *after* connecting.
+Allow-listing YouTube would fix the tunnel but leaves the datacenter IP exposed
+to the actual bot check. The connector sidesteps both, and it hands back cues
+already parsed, which is why `fetch_video.py` and `clean_transcript.py` are gone
+rather than ported.
 
 **B. Local** — Claude Code on the owner's machine, interactively or as a Desktop
 scheduled task (Routines → New routine → **Local**), with the working folder set
 to the repository. Push is handled by the `osxkeychain` credential helper that is
-already configured; yt-dlp reaches YouTube over the normal network.
+already configured. YouTube is still reached through the TubeAlfred connector, not
+over the local network — one code path, so a local run actually exercises what a
+Routine run does.
 
 **Not supported: a generic cloud sandbox** (Claude Cowork and similar). Measured
 there: `youtube.com` is not on the egress allowlist, so step 1 cannot run, and
@@ -82,7 +91,9 @@ elif [ -d tokovinin/.git ]; then
 else
   git clone https://github.com/idjugostran/tokovinin.git tokovinin && cd tokovinin
 fi
-git pull --ff-only
+git rev-parse --abbrev-ref HEAD    # must print: main
+git checkout main || { echo "cannot reach main — stop"; exit 1; }
+git pull --ff-only origin main
 ```
 
 The first branch is the normal one in both supported environments. The clone
@@ -90,10 +101,24 @@ fallback stays for the odd case of an empty working directory — and clones int
 `tokovinin/`, never into the cwd, because `git clone <url> .` fails outright
 (exit 128) if the cwd holds anything at all.
 
-If the pull aborts — `Your local changes to the following files would be
-overwritten by merge` — a previous run left uncommitted state behind. **Stop and
-surface it.** This is the one place autonomy doesn't extend to silently
-discarding unknown local state.
+**Get onto `main` explicitly, and name the remote and branch in the pull.** This
+flow commits straight to `main` — that is what every commit in this repo's history
+does and what step 11 assumes. Neither half of that can be left implicit:
+
+- A bare `git pull --ff-only` needs the current branch to have an upstream. Some
+  agent environments start you on a generated working branch with no tracking
+  information, and the pull then dies with `There is no tracking information for
+  the current branch` — observed. Naming `origin main` removes the dependency.
+- Worse, and silent: on such a branch step 11's `git push` would push *that*
+  branch rather than `main`, so the wiki update would land somewhere nobody reads
+  while every command still reported success. The `checkout main` is what prevents
+  that, not the pull.
+
+If the checkout or the pull aborts with `Your local changes to the following files
+would be overwritten` — a previous run left uncommitted state behind. **Stop and
+surface it.** This is the one place autonomy doesn't extend to silently discarding
+unknown local state. A failure that merely says the branch has no upstream is a
+different thing and is what the explicit `origin main` above already fixes.
 
 ```bash
 git config user.name  "idjugostran"
@@ -122,34 +147,32 @@ the keychain helper is in charge. The `--dry-run` authenticates for real against
 the remote, turning "can't push here" from a step-11 failure *after* a full ingest
 into a two-second stop before any work.
 
-```bash
-export PATH="$HOME/.local/bin:$PATH"
-command -v yt-dlp >/dev/null \
-  || python3 -m pip install --user yt-dlp \
-  || python3 -m pip install --user --break-system-packages yt-dlp
-command -v yt-dlp >/dev/null || { echo "yt-dlp unavailable — stop"; exit 1; }
-```
-
-A fallback for when the routine's setup script hasn't run or the environment is
-local-without-yt-dlp. Three things this guards, all of which bite on a stock Linux
-image: `pip` may not exist as a command (only `python3 -m pip`); `--user` installs
-land in `~/.local/bin`, which is often not on `PATH`, so `command -v` stays empty
-*after* a successful install; and PEP 668 makes the plain `--user` install refuse
-with `externally-managed-environment`, which the `--break-system-packages` retry
-clears. The final re-check is what actually matters — never proceed to step 1
-assuming the install worked.
+Finally, confirm the **TubeAlfred connector's tools are actually available** in
+this session before doing anything else. If they are not, stop and say so — steps
+1 and 2 have no other way to reach YouTube, and there is nothing to install that
+would create one.
 
 ### 1. [script] Discover the one video to process
 
+First, **list the channel through the connector**: call its channel-videos tool for
+`@mtokovinin`, then keep calling it with the returned continuation token until
+there is none left. One page is ~30 videos and the channel has ~65, so expect
+three calls — a single page is **not** the whole channel, and stopping early would
+silently hide the oldest unprocessed videos.
+
+Write the result to `channel_videos.txt`, newest first, one tab-separated
+`id<TAB>title<TAB>duration<TAB>views` line per video. Tab, not `|`, on purpose:
+the titles routinely contain a literal `|`.
+
+The titles the channel listing returns are **YouTube's English auto-translations**
+("Deliberately LOSSED BILLIONS"), not what the video is called. That is fine here —
+this file exists to answer "which ids exist", and step 2 fetches the real Russian
+title. Do not use a title from this file for a slug or a page heading.
+
 ```bash
 python3 skill/tokovinin-video-flow/scripts/list_new_videos.py \
-  --log log/videos.json --wiki-pages wiki/pages --out channel_videos.txt \
-  > new_videos.txt || {
-    echo "channel listing FAILED — not 'caught up'."
-    echo "Most likely: the environment's Allowed domains don't include YouTube,"
-    echo "or yt-dlp hit YouTube's bot check. Read the traceback before retrying."
-    exit 1
-  }
+  --channel-file channel_videos.txt --log log/videos.json --wiki-pages wiki/pages \
+  > new_videos.txt || { echo "listing FAILED — not 'caught up'"; exit 1; }
 VIDEO_ID=$(head -1 new_videos.txt)
 ```
 
@@ -174,56 +197,59 @@ that never finished and still needs processing. It also **excludes** videos
 stamped `no_captions`; see step 3 for why that exclusion is what keeps the queue
 moving. Read the script's stderr for `NOTE:` lines before proceeding.
 
-### 2. [script] Fetch
+### 2. [script] Fetch through the connector
 
-```bash
-python3 skill/tokovinin-video-flow/scripts/fetch_video.py "$VIDEO_ID" --out-dir transcripts
+Two connector calls for `$VIDEO_ID`:
+
+1. **Video details** — ask for `title,description`. This returns the **Russian
+   original** («Осознанно ПРОСРАЛ МИЛЛИАРДЫ | Миша Токовинин») plus the full
+   Russian description, which usually carries the author's own chapter list. This
+   is the *only* source of the real title; the step-1 listing gives translations.
+   Duration comes from the `duration`/`length_seconds` column of
+   `channel_videos.txt`.
+2. **Transcript** — with `language: ru`, `kind: any`.
+
+Write both into one capture file, `transcripts/$VIDEO_ID.json`, exactly this shape
+(everything downstream reads it, nothing else):
+
+```json
+{"video_id": "...", "title": "<Russian title>", "description": "<Russian description>",
+ "duration_sec": 604, "language_code": "ru", "is_auto_generated": true,
+ "available_tracks": [...],
+ "transcript": [{"text": "...", "start_ms": "2360", "start_time_text": "0:02"}, ...]}
 ```
 
-Writes `transcripts/$VIDEO_ID.ru-orig.vtt` and `.ru.vtt` (and `.en.vtt`, which step 3
-deliberately refuses to use — it is a machine translation, not a transcript),
-`transcripts/$VIDEO_ID.info.json`, `transcripts/$VIDEO_ID.description`.
-Read `title` and `duration` from `.info.json`, then:
+`transcripts/` is gitignored — this capture is a working artifact, not a record.
+Then:
 
 ```bash
 python3 skill/tokovinin-video-flow/scripts/log_registry.py touch "$VIDEO_ID" \
-  --title "<title>" --url "https://www.youtube.com/watch?v=$VIDEO_ID" \
+  --title "<Russian title>" --url "https://www.youtube.com/watch?v=$VIDEO_ID" \
   --duration-sec <duration> --stage fetched
 ```
 
-### 3. [script] Clean straight into `raw/` — or record "no captions" and stop
+### 3. [script] Write `raw/` — or record a terminal stage and stop
 
-```bash
-VTT=""
-for L in ru-orig ru; do
-  [ -f "transcripts/$VIDEO_ID.$L.vtt" ] && VTT="transcripts/$VIDEO_ID.$L.vtt" && break
-done
-```
+Judge the capture from step 2 by two of its fields, in this order:
 
-**Russian only, and `ru-orig` first.** `ru-orig` is YouTube's code for an ASR of the
-language actually spoken; a bare `ru` on this channel measured byte-identical to it,
-but that is YouTube's current choice, not a promise. `en` is deliberately **not** in
-this loop: the channel speaks Russian, so an English track is a machine translation
-of the Russian, not a transcript of the video. Cleaning one into `raw/` would put
+**`language_code` is not `ru`** → the connector had no Russian track and gave a
+translation. The channel speaks Russian, so a non-Russian track is a machine
+translation, not a transcript of the video. Putting it in `raw/` would file
 translated text — mid-sentence language switches and all — under a `**Source:**`
-header that claims to be the transcript, and nothing downstream would catch it. If
-`$VTT` is empty but `transcripts/$VIDEO_ID.en.vtt` exists, stamp it and commit the
-stamp, exactly as for no-captions below but with the `translated_only` stage:
+header claiming to be the transcript, and nothing downstream would catch it. Stamp
+the terminal stage, commit it with `Wiki-Op: ingest-translated-only`, push, report
+"only a translated (`<code>`) track for `<id>` — `<title>`, needs a human", and stop
+for this video:
 
 ```bash
 python3 skill/tokovinin-video-flow/scripts/log_registry.py stage "$VIDEO_ID" translated_only
 ```
 
-Report "only a translated (`en`) track for `<id>` — `<title>`, needs a human", commit
-the stamp with `Wiki-Op: ingest-translated-only`, push, and stop for this video. Like
-`no_captions`, it is terminal in step 1's queue for the same queue-deadlock reason,
-and re-surfaced the same way.
-
-**If neither file exists, the video has no captions on YouTube at all** — this is
-real, not hypothetical: `ZS5fd3f_Lek` (204k views, the channel's most-viewed
-video) hit exactly this. `yt-dlp --list-subs` on it reports "has no automatic
-captions" / "has no subtitles" — nothing to fetch, no fallback language helps.
-When this happens, **stamp it and commit the stamp**:
+**`available_tracks` is empty and `transcript` is empty** → the video has no
+captions on YouTube at all. This is real, not hypothetical: `ZS5fd3f_Lek` (204k
+views, the channel's most-viewed video) returns exactly that — `language: "Unknown"`,
+`transcript: []`, `available_tracks: []`. Nothing to fetch, no other language helps.
+**Stamp it and commit the stamp**:
 
 ```bash
 python3 skill/tokovinin-video-flow/scripts/log_registry.py stage "$VIDEO_ID" no_captions
@@ -258,24 +284,33 @@ its log record.
 
 Otherwise:
 
+Write the capture's `transcript_only_text` **verbatim** to `raw/$VIDEO_ID.txt`, and
+only if that file does not already exist:
+
 ```bash
-[ -f "raw/$VIDEO_ID.txt" ] || python3 skill/tokovinin-video-flow/scripts/clean_transcript.py \
-  "$VTT" --out "raw/$VIDEO_ID.txt"
+[ -f "raw/$VIDEO_ID.txt" ] && echo "raw/ already has it — do not touch"
 ```
 
-`raw/$VIDEO_ID.txt` is the **only** cleaned-transcript output — no intermediate
-`transcripts/<id>_full.txt` duplicate. The existence guard respects `raw/`'s
-documented immutability (SCHEMA.md: "raw/ is immutable — skills never modify it")
-on a retried run after a crash.
+There is no cleaning step any more. The connector returns the cues already
+stripped of WebVTT markup, and `transcript_only_text` is their concatenation —
+verified byte-for-byte against `raw/ybhcNd7aLBg.txt`, which the retired
+`clean_transcript.py` had produced from the `.ru-orig.vtt` of the same video
+(same 246 cues, same first and last characters). Do not re-wrap, re-punctuate or
+"tidy" it: `raw/` is immutable per SCHEMA.md ("raw/ is immutable — skills never
+modify it"), and every footnote timestamp is anchored to this exact text. The
+existence guard is what makes a retried run after a crash safe.
 
 ### 4. [script] Detect flags
 
 ```bash
-python3 skill/tokovinin-video-flow/scripts/detect_flags.py "$VTT" \
-  --info "transcripts/$VIDEO_ID.info.json" --out "transcripts/$VIDEO_ID.flags.json"
+python3 skill/tokovinin-video-flow/scripts/detect_flags.py \
+  "transcripts/$VIDEO_ID.json" --out "transcripts/$VIDEO_ID.flags.json"
 python3 skill/tokovinin-video-flow/scripts/log_registry.py set-flags "$VIDEO_ID" \
   "transcripts/$VIDEO_ID.flags.json"
 ```
+
+One argument now: the step-2 capture carries the cues, the title and the
+description, so the separate `--info` file is gone with `yt-dlp`.
 
 ### 5. [judgment] Ground before writing
 
@@ -322,8 +357,10 @@ Follow `wiki-ingest` steps 4–7 for this one video:
   chronological "update" section) or create from the template in SCHEMA.md /
   `wiki-skills:wiki-ingest`.
 - **Citations**: `[^N]: [[slug](pages/slug.md)] [M:SS] — «verbatim quote»` (or
-  `[synthesis] — description`). `[M:SS]` timestamps come from the `$VTT` chosen in
-  step 3 (`.ru-orig.vtt`/`.ru.vtt`) WebVTT cue times — `raw/<id>.txt` itself carries no timing info at all, it's one
+  `[synthesis] — description`). `[M:SS]` timestamps are the capture's
+  `start_time_text`, which already arrives in exactly that form — find the cue
+  containing the quote and copy its value; no arithmetic on `start_ms`, no parsing
+  of anything. `raw/<id>.txt` itself carries no timing info at all, it's one
   continuous paragraph. No `L<n>` line-range needed — transcripts are exempt per
   SCHEMA.md's Citations section.
 - **Backlink audit**: scan every existing `wiki/pages/*.md` for mentions of this
@@ -440,9 +477,16 @@ unambiguously: ingested, caught up, skipped (no captions), or blocked.
   from a caption-less video; uncommitted, the pipeline deadlocks on it forever.
 - **Don't pass `--include-no-captions` in the normal flow.** It exists for manual
   triage and re-introduces exactly that deadlock.
-- **Don't leave `transcripts/<id>_full.txt` as a second copy of the cleaned
-  transcript.** `raw/<id>.txt` is the only one; `transcripts/` isn't even tracked
-  by git (`.gitignore`).
+- **Don't stop at the first page of the channel listing.** It returns ~30 of ~65
+  videos plus a continuation token; paginate to the end. A partial listing hides
+  the oldest unprocessed videos, which are exactly the ones the queue wants next.
+- **Don't take a title from `channel_videos.txt`.** Those are YouTube's English
+  auto-translations. The real Russian title comes from step 2's video-details call,
+  and the slug is transliterated from *that*.
+- **Don't reintroduce a `yt-dlp` path "as a fallback".** In a Routine it cannot
+  reach YouTube at all, so a fallback would only add a way to fail slower.
+- **Don't keep a second copy of the transcript.** `raw/<id>.txt` is the only one;
+  `transcripts/` isn't even tracked by git (`.gitignore`).
 - **Don't touch `raw/<id>.txt` once it exists.** It's immutable per SCHEMA.md —
   footnote line/timestamp references depend on it never changing after the fact.
 - **Don't hand-write `wiki/index.md`.** Always regenerate via
@@ -475,22 +519,33 @@ unambiguously: ingested, caught up, skipped (no captions), or blocked.
 
 After building or changing this skill, before relying on it:
 
-1. Run `list_new_videos.py` alone and confirm its stdout matches what's actually
-   missing from `wiki/pages/`, minus anything stamped `no_captions` (cross-check
-   with `grep -L` or similar) — not just what's missing from `log/videos.json`.
-   Then run it again with `--include-no-captions` and confirm the excluded ids
-   come back. **Confirmed working**: `ZS5fd3f_Lek` is excluded by default and
-   re-surfaced by the flag.
+0. **Connector reachability, before anything else.** Fetch the transcript for
+   `ybhcNd7aLBg` and check `language_code: ru`, `is_auto_generated: true`, and 246
+   cues. **Confirmed working in a real Routine run** — that is what established the
+   connector is usable there at all, and it is the check to repeat first whenever
+   a run fails, since every later step depends on it.
+1. Run `list_new_videos.py` alone against the committed `channel_videos.txt` and
+   confirm its stdout matches what's actually missing from `wiki/pages/`, minus
+   anything carrying a terminal stage (cross-check with `grep -L` or similar) —
+   not just what's missing from `log/videos.json`. Then run it again with
+   `--include-no-captions` and confirm the excluded ids come back. **Confirmed
+   working**: reads 65 videos, excludes `ZS5fd3f_Lek (no_captions)`, prints 0
+   candidates, and re-surfaces it under the flag. Both guards were exercised too —
+   a missing file and an empty file each stop the run instead of reporting "caught
+   up".
 2. Run the full flow once against a real backlog video, confirm: `raw/<id>.txt`
    created, a new `wiki/pages/<slug>.md` with the full Source header, three new
    `status` keys in `log/videos.json` for that id, index regenerated, commit
    pushed. **Not yet completed end-to-end against a real video with captions** —
-   the one real candidate in this repo (`ZS5fd3f_Lek`) has no YouTube captions at
-   all, which is what step 3's fallback was built for and is confirmed working.
-   Every other step *has* been exercised end-to-end on synthetic input in an
-   isolated container (fetch → clean → flags → pages → index → hooks → commit →
-   push), including both the no-captions and contradiction-blocked branches. Re-run
-   this check the next time a video with real captions is available.
+   the one real candidate in this repo (`ZS5fd3f_Lek`) has no captions at all, and
+   the connector confirms it independently of the retired yt-dlp path (`transcript:
+   []`, `available_tracks: []`), which is what step 3's terminal branch was built
+   for. The pieces either side of it are verified: `detect_flags.py` on a
+   connector-shaped capture reproduces the flags already stored in
+   `log/videos.json` for `ybhcNd7aLBg`, and the write path (pages → index → hooks →
+   commit → push) was exercised on synthetic input, including the
+   contradiction-blocked branch. Re-run this the next time a captioned video is
+   available.
 3. Re-run `list_new_videos.py` immediately after a successful full run — that
    video must no longer appear. **Confirmed working.**
 4. `log_registry.py verify <id>` → all three `REQUIRED_STAGES` present.

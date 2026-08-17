@@ -25,7 +25,14 @@ references/*.txt so they can be edited without touching this script):
     not a precise cut point.
 
 Usage:
-    uv run python3 detect_flags.py VIDEO.ru.vtt --info VIDEO.info.json --out flags.json
+    python3 detect_flags.py transcripts/<id>.json --out flags.json
+
+Note on signal 1 (the `>>` marker): measured across all 75 caption files this
+repo has ever fetched, `>>` appears exactly ZERO times - YouTube does not emit
+it on this channel. The signal is inert and every flag raised so far came from
+signal 2 (keywords). It is kept because it costs nothing and would start
+working if YouTube's caption format changed; do not read a `False` here as
+evidence that a video is single-voice.
 """
 
 import argparse
@@ -46,32 +53,23 @@ def load_keywords(name: str) -> list[str]:
     ]
 
 
-def ts_to_sec(ts: str) -> float:
-    h, m, s = ts.split(":")
-    return int(h) * 3600 + int(m) * 60 + float(s)
+def parse_capture(path: Path):
+    """Yield (start_seconds, text) per caption cue from a step-2 capture file.
 
-
-def parse_vtt_entries(path: Path):
-    """Yield (start_seconds, raw_text_with_markers) per unique caption line."""
-    content = path.read_text(encoding="utf-8")
+    The capture is the single JSON SKILL.md step 2 writes from the TubeAlfred
+    connector: {video_id, title, description, duration_sec, language_code,
+    transcript: [{text, start_ms, start_time_text}, ...]}. It replaced a
+    WebVTT parser - the connector hands back parsed cues, so re-deriving them
+    from subtitle markup would be work for nothing.
+    """
+    data = json.loads(path.read_text(encoding="utf-8"))
     prev_text = None
-    for block in content.split("\n\n"):
-        lines = block.split("\n")
-        ts_line = next((l for l in lines if "-->" in l), None)
-        if not ts_line:
+    for cue in data.get("transcript") or []:
+        text = html.unescape(re.sub(r"<[^>]+>", "", cue.get("text", "")).strip())
+        if not text or text == prev_text:
             continue
-        try:
-            t = ts_to_sec(ts_line.split("-->")[0].strip().split(" ")[0])
-        except ValueError:
-            continue
-        for l in lines:
-            if "-->" in l or not l.strip():
-                continue
-            clean = re.sub(r"<[^>]+>", "", l).strip()
-            clean = html.unescape(clean)
-            if clean and clean != prev_text:
-                yield t, clean
-                prev_text = clean
+        yield float(cue["start_ms"]) / 1000.0, text
+        prev_text = text
 
 
 def detect_other_speakers(entries, duration_sec, title, description):
@@ -128,19 +126,17 @@ def detect_sponsor_intro(entries, window_sec=90):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("vtt", type=Path)
-    ap.add_argument("--info", type=Path, help="yt-dlp .info.json for title/description/duration")
+    ap.add_argument("capture", type=Path,
+                    help="transcripts/<id>.json written by SKILL.md step 2")
     ap.add_argument("--out", type=Path, help="Write flags JSON here (default: stdout)")
     args = ap.parse_args()
 
-    title, description, duration = "", "", 0
-    if args.info and args.info.exists():
-        info = json.loads(args.info.read_text(encoding="utf-8"))
-        title = info.get("title", "")
-        description = info.get("description", "")
-        duration = info.get("duration", 0)
+    data = json.loads(args.capture.read_text(encoding="utf-8"))
+    title = data.get("title", "")
+    description = data.get("description", "")
+    duration = data.get("duration_sec") or 0
 
-    entries = list(parse_vtt_entries(args.vtt))
+    entries = list(parse_capture(args.capture))
     if not duration and entries:
         duration = entries[-1][0]
 
