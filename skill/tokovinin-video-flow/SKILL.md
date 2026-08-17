@@ -40,9 +40,13 @@ pushes carry your own GitHub identity. Configure the routine as:
   needs adding: connector traffic does not pass through the session's HTTP
   proxy, so the domain allowlist never applies to it.
 - **Environment → Setup script** — empty. Every script here is pure stdlib.
-- **Trigger** — schedule, or **Run now**. The channel publishes a handful of
-  videos a year, so a daily schedule matches reality; the one-hour minimum
-  would spend ~24 sessions a day reporting "caught up".
+- **Trigger** — **weekly**, or **Run now**. Connector calls are metered from a
+  credit wallet (new accounts get 100 free credits), and a run that finds nothing
+  still costs 1 credit for the page-1 listing; a run that ingests costs 3. The
+  channel publishes one or two videos a month, so weekly polling never misses
+  anything and 100 credits cover roughly two years. Daily would burn the same
+  free allowance in about three months for no earlier result, and the one-hour
+  minimum would exhaust it in four days.
 
 **Why the connector rather than `yt-dlp`.** A Routine forces all egress through
 a proxy. With YouTube off the allowlist, yt-dlp dies at step 1 with `Unable to
@@ -75,6 +79,34 @@ pre-seeded with the literal placeholder `proxy-injected` (alongside
 guard never fires and the "credential" supplied is junk. Neither supported
 environment needs a token at all. Also: never run any of these steps under
 `set -x`.
+
+## Falling back to the `yt-dlp` flow
+
+The previous version of this skill fetched everything with `yt-dlp` and no
+connector. It is preserved whole at the git tag **`flow-ytdlp`** — not as a second
+copy of the directory, deliberately: a parallel copy would drift out of step with
+`bin/`, `SCHEMA.md` and the wiki conventions within a few commits, and be broken by
+the time anyone reached for it. A tag cannot drift.
+
+Restore it with:
+
+```bash
+git checkout flow-ytdlp -- skill/tokovinin-video-flow
+```
+
+Then, because that version reaches YouTube directly, the Routine must be
+reconfigured to match: **Network access** → `Custom` with `*.youtube.com`,
+`youtube.com`, `youtubei.googleapis.com` and the package-manager defaults;
+**Setup script** → `python3 -m pip install --user --upgrade yt-dlp`. The connector
+can stay connected — that version simply won't call it.
+
+Two things to know before relying on it. It was **never observed working in a
+Routine**: the only run reached step 1 and died on the proxy, which is what
+motivated this rewrite; allow-listing YouTube fixes the tunnel but leaves the
+datacenter IP facing YouTube's actual bot check, which is untested. And the tag
+predates step 0's `git checkout main` fix, so a restored copy will still stumble
+on a generated `claude/*` branch — re-apply that one hunk from the commit
+following the tag.
 
 ## Procedure
 
@@ -155,10 +187,28 @@ would create one.
 ### 1. [script] Discover the one video to process
 
 First, **list the channel through the connector**: call its channel-videos tool for
-`@mtokovinin`, then keep calling it with the returned continuation token until
-there is none left. One page is ~30 videos and the channel has ~65, so expect
-three calls — a single page is **not** the whole channel, and stopping early would
-silently hide the oldest unprocessed videos.
+`@mtokovinin`. **Fetch the first page only, and stop there** unless the condition
+below applies.
+
+The listing is newest-first and a page holds ~30 videos. A newly published video
+is therefore always on page 1 — this channel puts out one or two videos a month,
+so 30 uploads between two runs is not a scenario. Page 1 answers the question this
+flow actually asks ("did something new appear?") for **one credit**, where the
+full three-page sweep costs three.
+
+Paginate further **only** when the wiki has a genuine backlog: if *every* id on
+page 1 is unprocessed, the unprocessed run may extend past the page boundary, so
+keep calling with the continuation token until a page contains an id that already
+has a wiki page. That is a different question — "is the backlog complete?" — and
+it is also worth a deliberate full sweep now and then, by hand, to catch drift.
+Today the answer is 0 candidates out of 65, so the common path is one call.
+
+**A `402` from the connector means the credit wallet is empty, not that there is
+nothing to do.** Treat it exactly like any other listing failure: stop, say so
+plainly, do not commit, and never report "caught up". Same for a `429`, which
+means the 60-calls-per-minute burst limit was hit — impossible at this flow's five
+calls per run, so if you see one, something is looping. Failed calls are not
+charged, so a stopped run costs nothing.
 
 Write the result to `channel_videos.txt`, newest first, one tab-separated
 `id<TAB>title<TAB>duration<TAB>views` line per video. Tab, not `|`, on purpose:
