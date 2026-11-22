@@ -1,6 +1,6 @@
 ---
 name: tokovinin-wiki-context
-description: "Answers Tokovinin/Токовинин questions from the wiki: Миша Токовинин — бизнес, найм, продажи, деньги, мотивация (конспекты видео канала @mtokovinin)"
+description: "Grounding in the Tokovinin/Токовинин wiki (бизнес, найм, продажи, деньги, мотивация; конспекты видео @mtokovinin) when his ideas feed ANOTHER task (письмо, исследование, подборка). If the user asks a question about Токовинин, answer with tokovinin-persona instead: it reads the wiki itself and answers in his voice."
 ---
 
 # Tokovinin Wiki Context
@@ -28,7 +28,14 @@ author page listing every video he appears in).
 
 ## When to Use
 
-Trigger whenever **Миша Токовинин** or clearly related content is mentioned
+**A question about Токовинин goes to `tokovinin-persona`, not here.** If
+that skill is installed, any user question that mentions him (что он
+думает, что бы сказал, что говорил про X) is answered by it, in his voice;
+do not load this skill for it. Use this one when his ideas are material for
+another task (draft a letter, research, compare sources) or when
+`tokovinin-persona` is not installed.
+
+Otherwise, trigger whenever **Миша Токовинин** or clearly related content is mentioned
 anywhere in the user's message, in any form (not exhaustive — match the
 intent, not just these exact strings):
 
